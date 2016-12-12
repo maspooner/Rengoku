@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="p">What's Yarl like?</line>
+				<line talk="n">We got lots of mountains and because of that we have many mines and raw materials. Which leads to lots of industry. The sky is always clouded with chemicals.</line>
+				<line talk="p">Sounds like you shorten your life every second you are there.</line>
+			</random>
+			<random>
+				<line talk="n">I am sure glad to be out of Yarl. That place is horrible.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

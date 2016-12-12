@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="p">What are you doing out here?</line>
+				<line talk="n">I'm playing in the plains! It's so windy here, I almost lost my Frisbee.</line>
+			</random>
+			<random>
+				<line talk="n">I've got ten apples in my basket. Two more and I'll have a dozen.</line>
+				<line talk="p">What are you talking about?</line>
+				<line talk="n">It's the start to a poem I'm thinking up. I'm going to be a famous poet when I grow up.</line>
+				<line talk="p">I'd try a little harder if I were you. There are some real good poets out there.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Have you seen the latest movie? It killed me.</line>
+				<line talk="p">Which one?</line>
+				<line talk="n">I've forgotten. I never liked movies. They're too phony.</line>
+			</random>
+			<random>
+				<line talk="n">You from Mourilyan?</line>
+				<line talk="p">Yes. What about it?</line>
+				<line talk="n">Hmmm. Just like I thought. Another phony.</line>
+				<line talk="p">Don't say that when you don't know me!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Hey, Gabe...</line>
+		<line talk="n">I've told you many times to call me Lord Gaben. Please make that correction in the future.</line>
+		<line talk="p">Sorry, Gabe. But I can't do that. It's too weird, you know?</line>
+		<line talk="n">Whatever! What business do you have here?</line>
+		<line talk="p">I was just dropping by--</line>
+		<line talk="n">If you came here for nothing, then leave! I'm busy coding.</line>
+		<line talk="p">Fine. Have a wonderful day, Lord Gaben.</line>
+	</converse>
+	<converse after="12" trigger="13">
+		<line talk="p">Hey, Gabe. I need a favor. (What have I gotten myself into?)</line>
+		<line talk="n">From me? Get someone else to do it. I've got a lot of tasks in my queue.</line>
+		<line talk="p">It's something only you can do. It's hacking into the school system to change a grade.</line>
+		<line talk="n">That's child's play. You can't even do that? What a scrub.</line>
+		<line talk="p">Look, Gabe. I really need you to do this for me. Will you do it?</line>
+		<line talk="n">Asking for a favor without a reward? I'm not one of your good friends, lass. ...But fear not. Lord Gaben shall take pity on your soul. If you can swap something of equal value, surely I, the mighty and all powerful Lord Gaben, shall provide.</line>
+		<line talk="p">I am in your debt, Lord and savior of all the land. Without You, who knows what the world would become?</line>
+	</converse>
+	<converse after="13">
+		<choices>
+			<choice>
+				<line talk="p">Give me something reasonable I can do in exchange.</line>
+				<line talk="n">Processing...</line>
+				<line talk="n">Your search returned 3 items. Good thing my task list is always sorted. I've got a program that I need a 3D model for, which requires a real life person to convert into data.</line>
+				<line talk="p">I find that weird how that's at the top of your list. Next item, please.</line>
+				<line talk="n">I've got approximately 8,694,323 papers that need converting into the superior storage medium, computers.</line>
+				<line talk="p">...What's the last item?</line>
+				<line talk="n">To pick up the latest MSI GeForce GTX 970 from the closest hardware store. My SocioEconomic Level Detector and Analyzer (SELDA) has returned a report stating that you are too poor to complete the last task.</line>
+				<line talk="n">The easiest one is the 3D model job, but you are free to do any other one in exchange for my 1337 hacking skills.</line>
+				<line talk="p">Sounds like a plan. (He's creepy, I tell ya. The last item seems like the most reasonable, but how can I get something so expensive?)</line>
+			</choice>
+			<choice>
+				<line talk="p">What exactly are you doing now?</line>
+				<line talk="n">I'm calculating the market to find out the perfect time I should bless my followers with a Steam Sale.</line>
+				<line talk="p">Sounds like an important job.</line>
+				<line talk="n">You don't even know how hard it is to be a computer genius. My processor, despite being overclocked, nearly overheats every day.</line>
+			</choice>
+			<choice>
+				<line talk="p">Who do you work for?</line>
+				<line talk="n">A variety of clients, some of which I can't disclose to you. A big client in the local area, called Lambda Drinks Corporation, pays me the big dollars for my cybersecurity protection. If you think I'm rich, they're at least x^2 as much rich.</line>
+				<line talk="p">Oh, you mean the people who live in the huge mansion in the north of town? I know them.</line>
+				<line talk="n">You should. They're the best known drink company on this entire planet! They basically have a monopoly in the industry. Put a whole lot of money into computer technology research too.</line>
+				<line talk="p">I see why you work for them.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse item="4" take="4" trigger="18">
+		<line talk="p">I've got your... TRI GuNiche 302, whatever, graphics card for you.</line>
+		<line talk="n">You mean the MSI GeForce GTX 970? Lame scrub. You can't be serious...</line>
+		<line talk="n">Whoa! Incredible! This was just released, having a high release price yet you still managed to retrieve it. I guess my SELDA needs adjusting...</line>
+		<line talk="n">Lord Gaben is impressed. He shall perform one reasonable deed of your choice.</line>
+		<choices>
+			<choice>
+				<line talk="p">I'd never ask for anything in return for such a good friend of mine.</line>
+				<line talk="n">Don't be silly, moral. Lord Gaben has no friends. No one can handle his godly powers.</line>
+				<line talk="n">I told you from the beginning we would conduct a swap, not adding a favor to the queue.</line>
+			</choice>
+			<choice>
+				<line talk="p">I'd like you to hack into the school system and change a grade.</line>
+				<line talk="n">That's what you want still? I guess I can do that.</line>
+			</choice>
+		</choices>
+		<line talk="n">I will commence the hacking now. Systems, power up! Let's break their puny firewall!</line>
+		<line talk="n">...</line>
+		<line talk="n">It is finished. He now has a B in history. Now, be gone! I've got important work to do.</line>
+		<line talk="p">Okay, okay.</line>
+	</converse>
+	<converse after="18">
+		<line talk="n">Didn't I tell you I'm busy? Leave me!</line>
+	</converse>
+	<converse aorb="1">
+		<line talk="p">Thanks for your help, Gabe.</line>
+		<line talk="n">Is that all you came here for? To say thanks? There's no need, as we both benefited from the trade.</line>
+		<line talk="p">It's just nice to say "thank you," okay? I'll be leaving now.</line>
+		<line talk="n">Emere, ...The Lord thanks you for being of assistance. He'd not be against trading in the future.</line>
+		<line talk="p">I'll keep that in mind.</line>
+	</converse>
+</conversations>

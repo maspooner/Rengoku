@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">I've been working on this railroad since I could walk. You could say I'm used to it, but I will never be.</line>
+			</random>
+			<random>
+				<line talk="n">Got any spare change? I'd kill for some food.</line>
+				<line talk="p">I left my wallet at home. (I don't like that look in your eyes.)</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

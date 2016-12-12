@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Emere, what brings you here?</line>
+		<line talk="p">I wanted to see how your work is going. You're always so busy.</line>
+		<line talk="n">I've written 3 papers on the effects of Jolfutium on our water supply. I'm hoping to convince the mayor to redo our irrigation system that has been causing illness for years.</line>
+		<line talk="p">Always a noble cause, I see.</line>
+	</converse>
+	<converse after="52" trigger="53">
+		<line talk="p">I need your help, Masaru.</line>
+		<line talk="n">What is it? I'm in the middle of writing a paper about the photoelectric effect.</line>
+		<line talk="p">Well, you see...</line>
+		<line talk="p">...</line>
+		<line talk="n">That Jasper! He's always so selfish, hurting the life of someone else just so he can feel slightly safer! I would be glad to assist Tanvir.</line>
+		<line talk="p">I knew I could count on you!</line>
+		<line talk="n">I'll need a few materials, first. Since the townspeople won't even let him within the walls of Nulato, I'll need a picture of Tanvir to show them to remind them of what he looks like. It needs to be large enough for the whole town to see when I speak in front of them. My wife Wen is open to paint a picture of him for you. You're a great artist and would do a great job painting him yourself, but let's be honest, your works take a long time to create, especially something of this scale. Wen is quick, so ask her. The second thing I'll need is a copy of the Cerzan to research and look for the passage Jasper used. Give me these, and we'll get Tanvir back in town.</line>
+		<line talk="p">Alright!</line>
+	</converse>
+	<converse after="53">
+		<line talk="n">I still need both the large picture of Tanvir and a copy of the Cerzan.</line>
+	</converse>
+	<converse item="16,18" take="16,18" trigger="59" reload="1">
+		<line talk="p">I have all you need to convince the public of Tanvir's innocence.</line>
+		<line talk="n">Superb! Meet me at the church in Nulato and we'll have ourselves a good old debate.</line>
+	</converse>
+	<converse after="59" trigger="60">
+		<line talk="n">Emere! You're here. Now we can finally start.</line>
+		<line talk="n">Excuse me, everyone! We're about to start.</line>
+		<line talk="Audience member">Get on with your stunt, you heretic!</line>
+		<line talk="Audience member">Yeah! Yeah! Don't preach your demonic principles to us!</line>
+		<line talk="Jasper">It seems as though I've won before we even began. Give up, Masaru. You have no chance in changing these people's minds.</line>
+		<line talk="p">Let this man speak! He's trying to save an innocent life!</line>
+		<line talk="Audience member">Innocent? That thing's a monster! Keep it away from my family!</line>
+		<line talk="n">Emere, please reveal the painting.</line>
+		<line talk="Audience">(Silence)</line>
+		<line talk="p">(Wen did an amazing job! It makes Tanvir look so peaceful.)</line>
+		<line talk="n">You stupid people. You stopped your arguing after seeing Tanvir expressed as a beautiful person in the painting. Surely, your view on him has been skewed by a certain priest.</line>
+		<line talk="Jasper">That's not true! He's the incarnation of the Demon as described in the Cerzan. You wouldn't dare say that our holy book is incorrect, would you Masaru?</line>
+		<line talk="Audience member">Yeah! You must be one of the Demon's worshipers!</line>
+		<line talk="n">Not at all. In fact, the Cerzan actually correct. I believe the passage Jasper read to you all is this: "...Goh encountered a split in the forest path. A being draped in furs came up to him and spoke, 'The path to the right leads to fortune and glory. The left path leads to doom and suffering. Which path will you choose?' Goh said not a word to him when he traveled down the left path. 'Fool!' the creature yelled. Suddenly, the creature drew close behind Goh and drew a pentagram faster than the eye could see. Goh screamed and his flesh boiled. Goh transformed into the creature. The creature transformed into Goh. The creature in Goh's body, trusted by the townsfolk, was able to cause havoc in the town for years and years without any notice. Goh was hunted and killed in the creature's body..."</line>
+		<line talk="Jasper">Yes, that is the passage I read and it perfectly describes Tanvir. He is the "being draped in furs."</line>
+		<line talk="n">Objection! How can you assume that a "being draped in furs" is a wolf man? The way it is worded, it sounds as if the being wears the fur instead of having fur. What being is famous for draping the fur of its kills on itself, the goblins, of course, not the wolf man!</line>
+		<line talk="Audience member">That's a good point.</line>
+		<line talk="Audience member">It is a little vague.</line>
+		<line talk="Jasper">D-don't be ridiculous. You still have no proof against it being a wolf man! My point remains.</line>
+		<line talk="n">Hold it! Even if it's not a goblin, how do you explain it using magic? Wolf men have never been blessed with the power of magic from the Goddess, nor given the power by the Demon in all of the Cerzan. But it reads that the creature, "drew a pentagram faster than the eye could see"</line>
+		<line talk="Audience member">More and more, I'm believing this Masaru guy.</line>
+		<line talk="Audience member">What if we made the wrong choice and refused shelter to one of the Goddess' creatures?</line>
+		<line talk="Jasper">People! People! I can't believe that you'd believe a nonbeliever over a respected priest such as myself! He's spewing lies!</line>
+		<line talk="n">I think you're the one spewing lies, Jasper. Tanvir did nothing to the town of Nulato during the years he was secretly housed here. In fact, I believe your town was doing quite well during the time.</line>
+		<line talk="Jasper">But--</line>
+		<line talk="Audience member">Let the poor man back!</line>
+		<line talk="Audience member">He's innocent. We were wrong!</line>
+		<line talk="Jasper">Fine! We'll let him back. Don't blame me if our town is cursed with misfortune over the next few years.</line>
+		<line talk="Audience member">Hooray!</line>
+		<line talk="Audience member">Woot!</line>
+	</converse>
+	<converse after="60">
+		<line talk="p">You did it, Masaru!</line>
+		<line talk="n">It wouldn't have happened if you didn't take the initiative to help Tanvir, Emere. I didn't do it. WE did it.</line>
+	</converse>
+	<converse aorb="2">
+		<choices>
+			<choice>
+				<line talk="p">You did it, Masaru!</line>
+				<line talk="n">It wouldn't have happened if you didn't take the initiative to help Tanvir, Emere. I didn't do it. WE did it.</line>
+			</choice>
+			<choice>
+				<line talk="p">What's the latest paper you're writing?</line>
+				<randoms>
+					<random>
+						<line talk="n">It's on the effects of different types of music on children.</line>
+						<line talk="p">What do the studies show?</line>
+						<line talk="n">Simple, repetitive music has a negative effect, complex music with varying tempos leads to increased academic ability in the future.</line>
+					</random>
+					<random>
+						<line talk="n">It's on how learning another language helps people learn their own language's grammar better.</line>
+						<line talk="p">Oh, that's neat.</line>
+					</random>
+				</randoms>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

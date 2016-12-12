@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Ya want a room?</line>
+		<line talk="p">No, but--</line>
+		<line talk="n">Then get outa here!</line>
+	</converse>
+</conversations>

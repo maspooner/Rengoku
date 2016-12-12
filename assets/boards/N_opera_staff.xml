@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><board>
+<line><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>45</tile><tile>101</tile><tile>101</tile><tile>101</tile><tile>101</tile><tile>101</tile><tile blocked="ooob">101</tile><tile blocked="ooob">101</tile><tile blocked="ooob">101</tile><tile>46</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>321</tile><tile>161</tile><tile>239</tile><tile>413</tile><tile blocked="oboo">389</tile><tile>87</tile><tile>51</tile><tile>485</tile><tile blocked="obbb" fore="4">91</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>434</tile><tile>321</tile><tile>144</tile><tile>384</tile><tile blocked="oboo">437</tile><tile>74</tile><tile>36</tile><tile fore="0">485</tile><tile blocked="booo">67</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>322</tile><tile>202</tile><tile>304</tile><tile blocked="ooob">201</tile><tile blocked="obob">361</tile><tile>75</tile><tile>36</tile><tile>485</tile><tile blocked="obbo" fore="5">116</tile><tile>46</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>434</tile><tile>321</tile><tile blocked="oboo">169</tile><tile>259</tile><tile>37</tile><tile>22</tile><tile>36</tile><tile>485</tile><tile>519</tile><tile bid="N_opera.xml" blocked="obbb" face="1" fore="4" spid="3">91</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>322</tile><tile>202</tile><tile blocked="oboo">304</tile><tile>201</tile><tile>52</tile><tile>38</tile><tile>53</tile><tile>485</tile><tile blocked="obob" fore="6">117</tile><tile>47</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>434</tile><tile>174</tile><tile blocked="oboo">182</tile><tile>183</tile><tile>485</tile><tile>485</tile><tile>485</tile><tile fore="0">484</tile><tile blocked="booo">67</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>434</tile><tile>178</tile><tile blocked="oboo">194</tile><tile>170</tile><tile>485</tile><tile>485</tile><tile>485</tile><tile>485</tile><tile blocked="obbb" fore="4">91</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>48</tile><tile>102</tile><tile>102</tile><tile>102</tile><tile blocked="oobo">102</tile><tile blocked="oobo">102</tile><tile blocked="oobo">102</tile><tile blocked="oobo">102</tile><tile blocked="oobo">102</tile><tile>47</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<tile_set>3</tile_set>
+<music>opera</music>
+<start_pos>
+	<x>7</x>
+	<y>11</y>
+</start_pos>
+<NPC>
+	<name>Man</name>
+	<c_alias>generic/con_op1</c_alias>
+	<s_alias>_generic/rich2</s_alias>
+	<start_pos>
+		<x>8</x>
+		<y>7</y>
+	</start_pos>
+	<limit_point>
+		<x>10</x>
+		<y>9</y>
+	</limit_point>
+</NPC>
+</board>

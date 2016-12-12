@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">(This door has always been locked. I have no idea why.)</line>
+	</converse>
+	<converse item="14" trigger="19" reload="1">
+		<line talk="p">(This key fits!)</line>
+	</converse>
+</conversations>

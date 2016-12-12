@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">I can't understand the Naibian alphabet here. I wonder if there are any books in my language.</line>
+			</random>
+			<random>
+				<line talk="n">I traveled all the way here from Yarl because I heard what a large selection this library has.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

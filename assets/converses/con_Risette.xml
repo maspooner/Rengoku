@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Good day.</line>
+		<line talk="n">Hello. You're not from Nulato, are you?</line>
+		<line talk="p">No. I live in Mourilyan. I'm looking around Nulato.</line>
+		<line talk="n">Would you like me to give you a tour?</line>
+		<line talk="p">It's a great offer, but I wouldn't want to trouble you.</line>
+		<line talk="n">Suit yourself. Have a nice visit!</line>
+	</converse>
+	<converse after="50" trigger="51">
+		<line talk="p">Do you know Tanvir?</line>
+		<line talk="n">What, do you want to murder his pure heart? I will never tell you where he is!</line>
+		<line talk="p">You misunderstand. I've talked with Tanvir and I'd like to know his situation. He won't tell me.</line>
+		<line talk="n">My apologies, dear. It's just that everyone has been trying to murder him after the local priest labeled him as the incarnation of the Demon.</line>
+		<line talk="p">What happened? I don't follow this religion.</line>
+		<line talk="n">Well, it all started after I revealed Tanvir to the town. I had been raising him in secret after I found him weak and stranded in the woods. They were scared at first, but after they saw his kind and gentle nature, they began to accept him. Jasper, our priest, did not trust Tanvir, and thought he would lead to our town's ruin. To try and dispose of him, he read over the Cerzan, our holy book, looking for a passage that might sound like the Demon showing up in the form of a wolf man. He found one that sounded vaguely like it and proclaimed it to the town at a sermon. The people believed it, and cast Tanvir out of town.</line>
+		<line talk="p">Wow, why would Jasper do such a thing? That's not cool.</line>
+		<line talk="n">I've talked to him many times, but he won't change his mind.</line>
+	</converse>
+	<converse after="51">
+		<choices>
+			<choice>
+				<line talk="p">It must have been hard for you.</line>
+				<line talk="n">It was like my own son was exiled. I cried a lot at first, but I realized that I could still visit him without the townspeople knowing. I visit late at night so that no one suspects me of helping the Demon.</line>
+				<line talk="p">I still can't believe people can be so cruel in the face of fear.</line>
+			</choice>
+			<choice>
+				<line talk="p">What can I do to help?</line>
+				<line talk="n">Well, if you've already failed talking some sense into Jasper, there isn't much.</line>
+				<line talk="p">Could I find the passage and prove him wrong before the town?</line>
+				<line talk="n">I don't think anybody would believe what anyone says to battle Jasper except perhaps a recognized person like another priest, a scholar, or a mayor.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="59">
+		<line talk="n">Thank you so much for all you are doing for my Tanvir. I am filled with joy at the thought of his return.</line>
+	</converse>
+	<converse after="60">
+		<line talk="n">My little Tanvir has come back to me! Thank you so much!</line>
+	</converse>
+	<converse aorb="2">
+		<randoms>
+			<random>
+				<line talk="n">I'd love to have you over for tea sometime.</line>
+				<line talk="p">Yes, that would be splendid. I'd love to come over.</line>
+			</random>
+			<random>
+				<line talk="n">Is that a new dress?</line>
+				<line talk="p">Why, yes. It is.</line>
+				<line talk="n">It suits you well. It's so pretty.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

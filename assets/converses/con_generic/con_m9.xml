@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">I want your opinion. How does this hat suit me?</line>
+				<line talk="p">Honestly, it looks a bit funky.</line>
+				<line talk="n">Everyone says that! Can't someone humor me and tell me it looks good?</line>
+			</random>
+			<random>
+				<line talk="n">Look at that guy, selling spices. He looks like he comes from a far off land.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

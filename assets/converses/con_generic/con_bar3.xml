@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Waitress, bring me another glass of beer!</line>
+			</random>
+			<random>
+				<line talk="n">What are you looking at?</line>
+				<line talk="p">I didn't even look at you.</line>
+				<line talk="n">Careful what you say and do. The eye always watches you.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

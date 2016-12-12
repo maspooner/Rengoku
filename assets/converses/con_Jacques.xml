@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Hey, Jacques.</line>
+		<randoms>
+			<random>
+				<line talk="n">Emere. You're looking great, as always.</line>
+				<line talk="p">Always the gentleman, aren't you?</line>
+				<line talk="n">Well, in the presence of such a fine lady, one can't help but be eloquent. What brings you here?</line>
+				<line talk="p">I'm wondering how your father's business is going.</line>
+				<line talk="n">Ah, but why talk about that when we can do something far more interesting, such as go for a walk in the local park.</line>
+				<line talk="p">I'm flattered, but I've got things to do.</line>
+				<line talk="n">Suit yourself. I am always available for you.</line>
+			</random>
+			<random>
+				<line talk="n">Good afternoon. Would you care for a cup of tea?</line>
+				<line talk="p">If you are offering...</line>
+				<line talk="p">Wow! It's really good. I love the peach flavor.</line>
+				<line talk="n">It's an imported from Brazil. Squeezed fresh from 100 peaches in an organic farm.</line>
+				<line talk="p">Fancy!</line>
+			</random>
+		</randoms>
+	</converse>
+	<converse after="14" trigger="15">
+		<line talk="p">Why aren't you succeeding your father's place as heir to the company?</line>
+		<line talk="n">Oh, you ask all but the easy questions! I have no interest in business. I seek to become a poet. I will be like one of the greats, Shakespeare, Frost or Poe. Just you wait!</line>
+		<line talk="p">Do you have any ideas on who will take your place as heir to the company?</line>
+		<line talk="n">I have suggested many to my father, as I feel a little bad leaving with no one to take my place. But, sadly, he has rejected most of them. I thought they would make wonderful replacements, especially my good friend Mao.</line>
+		<line talk="p">Why her?</line>
+		<line talk="n">She, quite frankly, loves our company. She has been following Lambda Drinks Corporation ever since she was 6. She would me my personal pick for the CEO.</line>
+		<line talk="p">But apparently your father doesn't like her.</line>
+		<line talk="n">That's not it. It's that she doesn't want the position because she feels there is someone better for it out there. I've tried to convince her otherwise, but I guess I am just not persuasive enough.</line>
+		<line talk="p">That is unfortunate.</line>
+	</converse>
+	<converse after="15">
+		<line talk="p">Where is Mao? I'd like to talk to her.</line>
+		<line talk="n">She lives in Fujita. I can't seem to remember which house, though.</line>
+		<line talk="p">Thanks.</line>
+	</converse>
+	<converse after="16">
+		<line talk="n">You have convinced Mao! Great! Let's see what my father says...</line>
+	</converse>
+	<converse after="17">
+		<line talk="p">Hey, Jacques.</line>
+		<line talk="n">Ah, Emere. You have come right in the middle of my writing of a new poem. Would you like to hear it so far?</line>
+		<line talk="p">Sure.</line>
+		<randoms>
+			<random>
+				<line talk="n">" The universe is on fire, exploding without flame. We are the lost ones, we are the pioneers. One last brief whisper in our loved ones' ears. To reassure them and to pierce the fear. Standing at controls then still unknown. We told the world we were about to go. "</line>
+				<line talk="p">That's surprisingly dark for someone like you.</line>
+				<line talk="n">I am aware. I love to capture the dark side of life, the part not seen by many.</line>
+			</random>
+			<random>
+				<line talk="n">" In the harsh light of freedom I know that I cannot deny that I have wasted time. I have frittered it away in idle boasts of my freedom and fidelity, when simpler words would have profited me most... I've bogged myself down in the web of talk, quack philosophy and sophistry at physicality I've always baulked. Like the man in the chair who believes it's beyond him to walk. "</line>
+				<line talk="p">Your poetry is strange. Really strange.</line>
+				<line talk="n">I take that as a compliment. I treasure the fact that I write in a radically different way to any thing anyone has seen before.</line>
+			</random>
+			<random>
+				<line talk="n">" Axes shattered, there is no North or South. Far off, the ice is foundering slowly. The ice is turning to water. The water rushes over all. Cities crash in the mighty wave. The final man is very small, plunging in for his final bathe. "</line>
+				<line talk="p">I'm sensing a dark progressive mood from your poems.</line>
+				<line talk="n">That's exactly what I'm going for.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

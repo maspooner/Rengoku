@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">I'm standing guard at the road that connects the three provinces: Naibu, Ginga, and Yarl. Making sure no one tries any funny business.</line>
+			</random>
+			<random>
+				<line talk="n">This land around here is so bland. I want to vacation to Ginga and stay at a spring. I can almost see the wonderful scenery from here.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

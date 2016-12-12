@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Hello, dear.</line>
+		<line talk="p">Hey. I'm just stopping by.</line>
+		<randoms>
+			<random>
+				<line talk="n">Would you care for a cup of tea?</line>
+				<line talk="p">I am kind of thirsty. What kind do you have?</line>
+				<line talk="n">Peach, peppermint, elf dust, star powder, and some other flavors.</line>
+				<line talk="p">Elf dust? Star powder?</line>
+				<line talk="n">Oh, yes. Those are... exotic flavors like... apple and raspberry with different names.</line>
+				<line talk="p">Okay, I'll have star powder then.</line>
+				<line talk="n">We're out.</line>
+				<line talk="p">I'm all set then.</line>
+			</random>
+			<random>
+				<line talk="n">Okay. Make yourself at home.</line>
+				<line talk="p">Thank you.</line>
+				<line talk="n">Those are nice earrings. They remind me of herculean crystals.</line>
+				<line talk="p">I don't think I've heard of those before.</line>
+				<line talk="n">Oh, um. They are... crystals found in caves. They're really pretty.</line>
+				<line talk="p">Huh.</line>
+			</random>
+		</randoms>
+	</converse>
+	<converse after="61" get="19,27">
+		<line talk="p">Hello.</line>
+		<line talk="n">Hi, dear. Make yourself at home.</line>
+		<line talk="p">Thank you.</line>
+		<line talk="n">That is a nice dress. Is it spun out of celestial spider silk?</line>
+		<line talk="p">What?</line>
+		<line talk="n">Oh, um. You know... it's a fancy way of saying... cotton, yes. It's an old expression, sorry.</line>
+		<line talk="p">...forgive me for asking, but do you practice magic?</line>
+		<line talk="n">Shhhhh! We don't mention that here! Especially where others can hear. Come closer.</line>
+		<line talk="n">How did you find out?</line>
+		<line talk="p">You were acting strange. But, I was looking for a witch anyways. Can you help me?</line>
+		<line talk="n">If you promise not to tell anyone who I am, I'll do what I can. Being a witch is heresy, especially in this town. I need to keep this top secret.</line>
+		<line talk="p">You have my word. I need a potion that can transform a dog back into a human.</line>
+		<line talk="n">Oooh. That's a tricky one. And it requires a lot of ingredients which I don't have. I'd be happy to brew it for you if you get the ingredients I don't have.</line>
+		<line talk="p">Sounds like a deal.</line>
+		<line talk="n">Okay. Here's a list of items needed for the potion. Good luck finding them.</line>
+		<line talk="n">Oh, I almost forgot. One of the items on the list is to get someone with a good voice to sing the "Song of Transformation" and record it to CD. I'll also give you the lyrics sheet for that.</line>
+	</converse>
+	<converse item="19">
+		<line talk="n">You don't have all the ingredients yet. Consult the recipe I gave you.</line>
+	</converse>
+	<converse item="28,26,25,23,21,20" take="28,26,25,23,21,20" get="29" trigger="70">
+		<line talk="p">I have all the ingredients.</line>
+		<line talk="n">Perfect. I'll get cracking on the potion. Wait here.</line>
+		<line talk="TIME">30 minutes later...</line>
+		<line talk="CD Player">...she's alone. And she is free...</line>
+		<line talk="TIME">15 minutes later...</line>
+		<line talk="n">All done! Here you go! Remember to promise not to tell anybody.</line>
+		<line talk="p">Are the effects permanent and instantaneous?</line>
+		<line talk="n">Yes and yes. Don't worry. I wouldn't have tricked you.</line>
+	</converse>
+	<converse item="29">
+		<line talk="n">You use the potion yet?</line>
+	</converse>
+	<converse after="70">
+		<choices>
+			<choice>
+				<line talk="p">What else can you do?</line>
+				<line talk="n">I can summon creatures, create potions, and control the power of the flame.</line>
+				<line talk="p">Whoa, can I see a demonstration?</line>
+				<line talk="n">No. That might attract attention. I'm still under cover, remember?</line>
+				<line talk="p">Right...</line>
+			</choice>
+			<choice>
+				<line talk="p">Where did you learn magical arts from?</line>
+				<line talk="n">I wasn't taught by anyone. You see, magic can only be learned by outcasts. People with little interaction with others. When I first discovered my power, I thought I was hallucinating. Later I found out it was real when someone else saw it by accident. As I tried more things, I learned more. I never told anyone, because the punishment for being found using magic is death. People don't like us magic users having an advantage in life.</line>
+				<line talk="p">That's unfair. You guys should be treated like queens for having that power.</line>
+				<line talk="n">Sadly, that's not the way the world is run.</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

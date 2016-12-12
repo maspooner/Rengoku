@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Hello, young lady. Would you care to go out sometime?</line>
+				<line talk="p">I just met you! Maybe after we get to know each other.</line>
+				<line talk="n">You're just so beautiful that I want to take you out now.</line>
+				<line talk="p">It'll have to wait.</line>
+			</random>
+			<random>
+				<line talk="n">What's more beautiful than a garden flower?</line>
+				<line talk="p">What?</line>
+				<line talk="n">Your face.</line>
+				<line talk="p">That was horrible. Try harder next time.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><board>
+<line><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>45</tile><tile>93</tile><tile>93</tile><tile>93</tile><tile>93</tile><tile>93</tile><tile>93</tile><tile>46</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>274</tile><tile>150</tile><tile blocked="ooob" fore="3">144</tile><tile blocked="ooob">357</tile><tile blocked="ooob">357</tile><tile blocked="ooob">357</tile><tile>91</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>143</tile><tile>157</tile><tile>148</tile><tile blocked="booo">276</tile><tile>484</tile><tile>484</tile><tile fore="0">484</tile><tile blocked="boob">116</tile><tile>46</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>143</tile><tile>158</tile><tile>149</tile><tile blocked="booo">358</tile><tile>485</tile><tile>485</tile><tile>485</tile><tile>519</tile><tile bid="N_opera.xml" blocked="obbb" face="1" fore="4" spid="4">91</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>274</tile><tile>150</tile><tile blocked="booo">144</tile><tile>485</tile><tile>485</tile><tile>485</tile><tile blocked="obob" fore="6">117</tile><tile>47</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>322</tile><tile>202</tile><tile blocked="obbb">304</tile><tile fore="3">339</tile><tile blocked="bobb">357</tile><tile blocked="oobo">357</tile><tile>91</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>274</tile><tile>150</tile><tile blocked="boob">144</tile><tile>485</tile><tile fore="3">454</tile><tile blocked="booo">357</tile><tile>91</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>274</tile><tile>150</tile><tile blocked="obob">169</tile><tile>259</tile><tile fore="3">454</tile><tile blocked="boob">357</tile><tile>91</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>143</tile><tile>157</tile><tile>148</tile><tile blocked="booo">276</tile><tile>485</tile><tile>485</tile><tile fore="3">454</tile><tile blocked="booo">91</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>143</tile><tile>158</tile><tile>149</tile><tile blocked="booo">358</tile><tile>485</tile><tile>485</tile><tile fore="0">485</tile><tile blocked="booo">91</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>274</tile><tile>150</tile><tile blocked="obbo">169</tile><tile>259</tile><tile>485</tile><tile>485</tile><tile blocked="obbb" fore="4">91</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>274</tile><tile>150</tile><tile blocked="oboo">169</tile><tile>259</tile><tile fore="3">454</tile><tile blocked="bobb">357</tile><tile>91</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>90</tile><tile>322</tile><tile>202</tile><tile blocked="oboo">304</tile><tile>339</tile><tile>485</tile><tile fore="3">454</tile><tile blocked="booo">91</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>48</tile><tile>98</tile><tile>98</tile><tile>98</tile><tile blocked="oobo">98</tile><tile blocked="oobo">98</tile><tile blocked="oobo">98</tile><tile>47</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<line><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile><tile>10</tile></line>
+<tile_set>3</tile_set>
+<music>opera</music>
+<start_pos>
+	<x>4</x>
+	<y>9</y>
+</start_pos>
+</board>

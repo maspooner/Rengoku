@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Who're you looking at? Ya wanta fight me?</line>
+				<line talk="p">No, I just thought you look a bit small for this profession.</line>
+				<line talk="n">I'll fight ya! Yes, sir! I will! Let me at ya!</line>
+			</random>
+			<random>
+				<line talk="n">It's tough. Gangs are relentless. But a job's a job.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

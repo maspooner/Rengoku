@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Emere! Make yourself at home. Sorry we don't have any place for you to sit.</line>
+				<line talk="p">That's quite alright. I understand how hard it is to buy back all that furniture.</line>
+			</random>
+			<random>
+				<line talk="n">I'm glad you're here. Adelaide needs someone like you to cheer her up after she lost all of her belongings.</line>
+				<line talk="p">I'm happy to do so. She's a great friend to me.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

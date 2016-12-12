@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Wolfy is my best friend. He's so cool!</line>
+			</random>
+			<random>
+				<line talk="n">Ah! I just can't beat this final boss. He's too tough.</line>
+				<line talk="p">Want some help?</line>
+				<line talk="n">No, girls aren't good at videogames.</line>
+				<line talk="p">Sexism starts young...</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Would you like some pound cake, dear?</line>
+				<line talk="p">I'm all set. Thanks for the offer.</line>
+			</random>
+			<random>
+				<line talk="n">My son would love to meet you. He's around your age, so you should get along well.</line>
+				<line talk="p">I'll go speak to him.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

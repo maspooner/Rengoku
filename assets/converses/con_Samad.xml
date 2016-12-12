@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Traveling merchant, what goods do you sell?</line>
+		<line talk="n">Only the finest spices around. You want it, I have it. Cumin, basil, cilantro, lavender, you name it.</line>
+		<randoms>
+			<random>
+				<line talk="p">Hmm. This saffron looks interesting. What's the price?</line>
+				<line talk="n">#80 per upna.</line>
+				<line talk="p">Yikes! No thanks.</line>
+			</random>
+			<random>
+				<line talk="p">Which one is the best value?</line>
+				<line talk="n">Peppercorns add a lot of flavor and are a low cost at #2 per upna.</line>
+				<line talk="p">Oooh. I might be back later to buy some. I don't have the money right now.</line>
+				<line talk="n">I'll be here all week.</line>
+			</random>
+		</randoms>
+	</converse>
+	<converse item="19" reload="1">
+		<line talk="p">What's wrong? You seem a bit down.</line>
+		<line talk="n">...If you must know, I am having a fight with my girlfriend.</line>
+		<choices>
+			<choice>
+				<line talk="p">Sucks for you.</line>
+				<line talk="n">You really know how to make someone feel better.</line>
+			</choice>
+			<choice trigger="65">
+				<line talk="p">Talk it out with me. I might be able to help you feel better.</line>
+				<line talk="n">Forgive me for bringing you into this.</line>
+				<line talk="n">So, we were going on a date, right. And right as we were talking, she suddenly got very upset at me and fled. I haven't talked to her in two days because I don't know what I did.</line>
+				<line talk="p">That's awful! You shouldn't leave her alone like that. She'll think you don't care about her enough to see her. Go as soon as you can and apologize. Ask what you did wrong and just be honest. I'm sure it will work out.</line>
+				<line talk="n">Oh, I didn't realize. I feel so stupid now. Thank you for the advice!</line>
+				<line talk="n">You know? I'm going to give you a bundle of spices, on the house. It's the only thanks I can give.</line>
+				<line talk="p">Are you sure? Thanks!</line>
+				<line talk="n">Come back a bit later and I'll have it for you. I need to talk to my girlfriend first.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="65" get="21" trigger="66">
+		<line talk="n">Thanks for waiting, here's Samad's Special Spice Spread.</line>
+		<line talk="p">Yay!</line>
+	</converse>
+	<converse after="66">
+		<choices>
+			<choice>
+				<line talk="p">How did it work out?</line>
+				<line talk="n">It couldn't have resolved better! I did everything you said and she forgave me. I'm shocked at how you knew just what to do, you love goddess.</line>
+				<line talk="p">Hah! I just know women better than you do. What did she say the problem was?</line>
+				<line talk="n">Oh, she told me not to tell anyone. Sorry.</line>
+				<line talk="p">That's alright. Well, glad it worked out.</line>
+			</choice>
+			<choice>
+				<line talk="p">Been in the spice business for a while?</line>
+				<line talk="n">Yes. It's a family business. My great, great, great, great grandfather started traveling the world, selling lots of spices and growing in popularity. My father started teaching me the ways of the merchant since I could walk. Now, I continue the legacy.</line>
+				<line talk="p">I can tell you like your job a lot.</line>
+				<line talk="n">Sure do.</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

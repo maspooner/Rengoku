@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="Emere">(What was that?! It looked like one of those things I saw in my weird dream!)</line>
+		<line talk="Emere">(No one else is freaking out. Am I the only one who can see it? I must be going crazy.)</line>
+	</converse>
+	<converse>
+		<line talk="Emere">(Another one! What is wrong with me? It's not like they're bad, but they make me feel strange when I get them.)</line>
+		<line talk="Emere">(It's like a part of me wants to get more of them. I feel like they open up doors in my mind.)</line>
+	</converse>
+	<converse>
+		<line talk="Emere">(Ah! I just had a vision of something strange! People I've never seen before, with angry faces. A darkness covered the world.)</line>
+		<line talk="Emere">(I feel like I should remember what is going on. I must have had these experiences before.)</line>
+	</converse>
+	<converse>
+		<line talk="Emere">(Oh no! It's horrible! Feelings return from a lost time. Such hatred and darkness is overwhelming. Was I there? When? How?)</line>
+		<line talk="Emere">(What's going on?! I only have one more orb to get. Maybe that will give me an answer.)</line>
+	</converse>
+	<converse>
+		<line talk="Emere">(No! What? That doesn't even make sense. Wait... No! It can't be! No!)</line>
+		<line talk="Emere">(Keeper of the orbs, I will find you! How dare you do this to me?)</line>
+		<line talk="Ebisu">I'll be waiting, Emere. You are a mirror that dislikes the night, that is why you complain. Return home.</line>
+		<line talk="Emere">(I want answers! No more cryptic messages!)</line>
+	</converse>
+</conversations>

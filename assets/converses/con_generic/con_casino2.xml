@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="p">Why do you gamble?</line>
+				<line talk="n">I can't find a job. It's the only way I have to feed my family. I take out loans to try to make some money. I'm near bankrupt.</line>
+			</random>
+			<random>
+				<line talk="n">Excuse me! Jin. I'd like 10 more chips for this poker game.</line>
+				<line talk="Jin">You got it!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

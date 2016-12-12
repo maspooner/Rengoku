@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Hello.</line>
+		<line talk="n">Hi. Do you just like greeting strangers, or is there something you need?</line>
+		<choices>
+			<choice>
+				<line talk="p">I'm taking a quick survey. What's your favorite color?</line>
+				<line talk="n">Mine's magenta, the color of a refreshing glass of Pixie, the ultimate citrus drink.</line>
+				<line talk="p">Thank you for your time.</line>
+			</choice>
+			<choice>
+				<line talk="p">How is your day going?</line>
+				<line talk="n">How kind of you to ask! It's been alright, but I haven't had my Mr. Thyme yet today. I'm missing that flavor sensation of 23 flavors. You have one, by chance?</line>
+				<line talk="p">No, I don't. (It's like she's advertising the product.)</line>
+			</choice>
+			<choice>
+				<line talk="p">What's the latest news around here?</line>
+				<line talk="n">They're finally selling Loco-soda around here! I'm glad they brought such a classic soda back into the market. Thanks, Lambda Drinks Corporation!</line>
+				<line talk="p">(I meant like actual news, but okay.)</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="15" trigger="16" reload="1">
+		<line talk="p">Are you Mao?</line>
+		<line talk="n">I do own the name, yes.</line>
+		<line talk="p">I've been talking with Jacques, and I'm here to convince you to take over the company.</line>
+		<line talk="n">You know, I'd LOVE to take it over, but I feel like I won't be the best person for the position. I've seen the other candidates, and I realize I'm out of my league.</line>
+		<line talk="p">That's not true. In fact, you're pretty much the only one Jacques was considering for taking the position.</line>
+		<line talk="n">Nah, that can't be. Who'd want a poor girl to fill a rich man's job? Besides, despite me knowing a lot about the company, I have no experience.</line>
+		<line talk="p">But Pierre's looking for someone with determination, loyalty, and enthusiasm, exactly the qualities you possess. Didn't he tell you this when you went in for an interview?</line>
+		<line talk="n">I never interviewed. Jacques was trying to get me to come but I wouldn't. He isn't the best at persuading. But you, you've done and convinced me to apply for my dream position. Thanks! I'm going to apply now!</line>
+		<line talk="p">I'll come with you. I've got to speak with Pierre too.</line>
+	</converse>
+	<converse after="16">
+		<line talk="n">Let's see what he says. I really, really, really hope I'll make it.</line>
+	</converse>
+	<converse after="17">
+		<randoms>
+			<random>
+				<line talk="p">How's working at your favorite company?</line>
+				<line talk="n">It's fantastic! I am currently learning about the economics and fundamentals of business at a local college. I get more and more excited for my future job every day.</line>
+				<line talk="p">I've never seen anybody as enthusiastic for a management job as you.</line>
+			</random>
+			<random>
+				<line talk="p">You learn the secret recipe yet?</line>
+				<line talk="n">I've learned steps 1 to 5 of a 42 step process. It's so complicated, I'm having trouble imagining how Pierre came up with it.</line>
+				<line talk="p">Well, he is a genius.</line>
+			</random>
+			<random>
+				<line talk="p">I see you are working hard.</line>
+				<line talk="n">Yep! All while enjoying a refreshing Zesti, the best cola manufactured on all the planet.</line>
+				<line talk="p">You should be head of the advertising department as well. You're good.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse get="26" trigger="69">
+		<line talk="n">Why, hello there, miss.</line>
+		<line talk="p">Hi.</line>
+		<line talk="n">Tell me. How rich do you think I am?</line>
+		<line talk="p">Average rich.</line>
+		<line talk="n">No! Don't be ridiculous! I am much richer than the average commoner.</line>
+		<line talk="p">Super rich.</line>
+		<line talk="n">Hmm. Close, but not quite an accurate description of my vast wealth.</line>
+		<line talk="p">So rich you could buy one of the moons.</line>
+		<line talk="n">Preciously! But, you know I would never do that, for the good of the people.</line>
+		<line talk="n">I am so rich! I have so much money; I don't know what to do with it all! I own every invention and luxury.</line>
+		<line talk="p">Why don't you spread the wealth, then and help some other people.</line>
+		<line talk="n">That's a marvelous idea! You'll be the first to receive my grace of money.</line>
+		<line talk="p">Cool! What do I get?</line>
+		<line talk="n">Take this, it's worth over #300.</line>
+		<line talk="p">Whoa, thanks!</line>
+	</converse>
+	<converse after="69">
+		<line talk="n">Fulalalala! Being rich! Fulalalala!</line>
+	</converse>
+</conversations>

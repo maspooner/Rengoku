@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Graveyards are sad.</line>
+				<line talk="p">Sure are.</line>
+			</random>
+			<random>
+				<line talk="n">I'm looking for the first Mourilyan mayor's grave, but I can't seem to find it.</line>
+				<line talk="p">Huh. Is it buried in a special location?</line>
+				<line talk="n">Perhaps...</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

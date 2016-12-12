@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">The stress of always fighting for survival gets to people.</line>
+			</random>
+			<random>
+				<line talk="n">You look well dressed. Come to take a look at the peasants are you?</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">What do you do?</line>
+		<line talk="n">I'm a pilot.</line>
+		<line talk="p">Cool. I like planes too.</line>
+		<line talk="n">We have something in common.</line>
+	</converse>
+	<converse item="19" trigger="62">
+		<line talk="p">Are you a pilot?</line>
+		<line talk="n">Yes. I assume the goggles gave it away.</line>
+		<line talk="p">I'm looking for some cloud syrup. Can you help me out? Do you own any?</line>
+		<line talk="n">Yeah. The stuff's easy to get when I fly up in the sky. It's everywhere. However, I don't give it out for free.</line>
+		<line talk="n">But I'll give you some if you answer my trivia quiz. No one so far has ever gotten all right.</line>
+		<line talk="p">How many have tried?</line>
+		<line talk="n">About 10 people, so it's not impossible. There are 5 questions that you have to get right. You have unlimited guesses, but some might be impossible for you to figure out. Talk to me when you are ready.</line>
+	</converse>
+	<converse after="62">
+		<line talk="n">Welcome to Ciel's Random Trivia Quiz! Let's get started.</line>
+		<line talk="n">Which artist commonly uses elephants in their works as a symbol?</line>
+		<choices>
+			<choice>
+				<line talk="p">Vincent Van Gogh.</line>
+				<line talk="n">Wrong! No price for you.</line>
+			</choice>
+			<choice>
+				<line talk="p">Salvador Dalí.</line>
+				<line talk="n">Correct! Next question.</line>
+				<line talk="n">As a body approaches the speed of light, which of the following properties increases: mass, length of the body, or angular momentum?</line>
+				<choices>
+					<choice>
+						<line talk="p">Mass.</line>
+						<line talk="n">Correct! Next question.</line>
+						<line talk="n">Which book tells the tale set in the future, where Earth is saved from the aliens?</line>
+						<choices>
+							<choice>
+								<line talk="p">The Foundation.</line>
+								<line talk="n">Wrong! No price for you.</line>
+							</choice>
+							<choice>
+								<line talk="p">Ender's Game.</line>
+								<line talk="n">Correct! Next question.</line>
+								<line talk="n">If you were to find the slope of the curve of f(x) then find the area under that resulting curve, what would be the result?</line>
+								<choices>
+									<choice>
+										<line talk="p">f'(int(x)).</line>
+										<line talk="n">Wrong! No price for you.</line>
+									</choice>
+									<choice>
+										<line talk="p">f(f(x)).</line>
+										<line talk="n">Wrong! No price for you.</line>
+									</choice>
+									<choice>
+										<line talk="p">f(x).</line>
+										<line talk="n">Correct! Last question.</line>
+										<line talk="n">Which videogame series has sold the most copies in Japan?</line>
+										<choices>
+											<choice>
+												<line talk="p">Mario.</line>
+												<line talk="n">Wrong! No price for you.</line>
+											</choice>
+											<choice trigger="63">
+												<line talk="p">Pokémon.</line>
+												<line talk="n">Correct! You win.</line>
+												<line talk="n">Wow! You really know some complex stuff! Just give me a second and I'll grab your price.</line>
+											</choice>
+											<choice>
+												<line talk="p">Final Fantasy.</line>
+												<line talk="n">Wrong! No price for you.</line>
+											</choice>
+										</choices>
+									</choice>
+								</choices>
+							</choice>
+							<choice>
+								<line talk="p">The Giver.</line>
+								<line talk="n">Wrong! No price for you.</line>
+							</choice>
+						</choices>
+					</choice>
+					<choice>
+						<line talk="p">Length of the body.</line>
+						<line talk="n">Wrong! No price for you.</line>
+					</choice>
+					<choice>
+						<line talk="p">Angular momentum.</line>
+						<line talk="n">Wrong! No price for you.</line>
+					</choice>
+				</choices>
+			</choice>
+			<choice>
+				<line talk="p">Pablo Picasso.</line>
+				<line talk="n">Wrong! No price for you.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="63" get="20" trigger="64">
+		<line talk="n">Take your price.</line>
+	</converse>
+	<converse after="64">
+		<choices>
+			<choice>
+				<line talk="p">How does defeat taste?</line>
+				<line talk="n">Not too bad. I'm just glad I found someone who understands the importance of knowledge as much as I do. I mean, you can't be the only one to answer all 5 questions without at least having a tiny passion for knowledge.</line>
+				<line talk="p">Well, being a teacher helps.</line>
+			</choice>
+			<choice>
+				<line talk="p">I've never been in a plane before.</line>
+				<line talk="n">I give air tours if you are interested. They are only #300 per flight, a steal for a once in a lifetime opportunity to fly in a two-seater plane.</line>
+				<line talk="p">I'd probably get motion sickness. Then it wouldn't be worth it. No thanks.</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

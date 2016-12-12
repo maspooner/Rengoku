@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="Emere">Tell me. Why did you raise me from the dead?</line>
+		<line talk="Ebisu">To give you a chance. To be able to shine in the world like you were destined. But you were so cruelly robbed of this.</line>
+		<line talk="Emere">So now you're going to take that away from me?</line>
+		<line talk="Ebisu">Listen to me, daughter of the sun...</line>
+	</converse>
+	<converse>
+		<line talk="Ebisu">You have done well. Lived your life as it was fated to be. Your flame was given a chance to burn in this world. Why are you not pleased?</line>
+		<line talk="Emere">I don't want illusions! If you're going to take away it all, why do it in the first place? Why not let me live here in peace forever?</line>
+		<line talk="Ebisu">Ah... I can feel it in the orbs. You did not spend enough time living through this world.</line>
+		<line talk="Ebisu">You only collected the orbs in search of knowledge, did you not? And now that very knowledge you yearned for has turned into ignorance and hatred.</line>
+		<line talk="Emere">That's not true! I collected the orbs because I loved to help people. I'm just angry that you hid the truth from me and now you're taking everything away.</line>
+		<line talk="Ebisu">Child of light, I can't let you stay here. Nothing lasts forever. Your flame has reached the end of the wick.</line>
+		<line talk="Ebisu">Your soul needs rest. Your life now has some happy memories to it that the people of Naibu will never forget.</line>
+		<line talk="Ebisu">Rest in Peace.</line>
+		<line talk="Emere">No, I'm not ready to--</line>
+	</converse>
+	<converse>
+		<line talk="Ebisu">Was it not enough to help all those people? Was it all just so that you could gain some orbs and solve a mystery?</line>
+		<line talk="Emere">I... I see.</line>
+		<line talk="Emere">You know, you're right. I shouldn't focus on all the negatives. At least I'd been given a chance to live a full life helping others in this wonderful dream paradise.</line>
+		<line talk="Ebisu">Ah... I can feel it in the orbs. You loved your time here and cherished the people and places you met. I am pleased.</line>
+		<line talk="Ebisu">However, child of light, I can't let you stay here. Nothing lasts forever. Your flame has reached the end of the wick.</line>
+		<line talk="Ebisu">Your soul needs rest. Your life now has some happy memories to it that the people of Naibu will never forget.</line>
+		<line talk="Ebisu">Rest in Peace.</line>
+		<line talk="Emere">Thank you.</line>
+	</converse>
+</conversations>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Hey, mayor. What's going on?</line>
+		<randoms>
+			<random>
+				<line talk="n">Emere! Good to see you. And please, call me Rais.</line>
+				<line talk="p">Sure thing, mayor.</line>
+				<line talk="n">Bah!</line>
+			</random>
+			<random>
+				<line talk="n">Greetings, Emere. You decided yet about becoming my secretary?</line>
+				<line talk="p">What could I possibly do as a secretary? All you do is do paperwork.</line>
+				<line talk="n">That's not all I do. I also...go on vacation.</line>
+				<line talk="p">Wow, interesting. As I've said before, I am already busy with school and I already have a job.</line>
+				<line talk="n">This could be your job. It's very easy work, as you have said, it's mostly paperwork with a few speeches mixed in.</line>
+				<line talk="p">Government jobs don't pay well, I'll stick to being an art teacher.</line>
+				<line talk="n">Do as you wish.</line>
+			</random>
+			<random>
+				<line talk="n">Not much. Just being old over here.</line>
+				<line talk="p">That's very sad. Go outside and get some fresh air.</line>
+				<line talk="n">I would, but I'm too busy preparing for the next election. Speeches don't write themselves.</line>
+				<line talk="p">You don't need to worry about that. You're sure to get elected, the people love you.</line>
+				<line talk="n">One can not only hope, but must also act.</line>
+				<line talk="p">K.</line>
+			</random>
+		</randoms>
+	</converse>
+	<converse after="5" get="2">
+		<line talk="p">Mayor, are you rich?</line>
+		<line talk="n">What kind of question is that? Very rude question. Since it's you, I'll tell you that I do have quite a bit of cash from my old entrepreneuring days. Did you know I started the gambling place in Fujita? Very profitable it was.</line>
+		<line talk="p">Wow. You've got quite the past.</line>
+		<line talk="n">Just don't mention that to the voters on election day. Now, why do you ask?</line>
+		<choices>
+			<choice>
+				<line talk="p">I need a loan. It's important.</line>
+				<line talk="n">Do you mind telling me what for?</line>
+			</choice>
+			<choice>
+				<line talk="p">It's a long story.</line>
+			</choice>
+		</choices>
+		<line talk="p">You see, this lady, Nakamura is in a dilemma--</line>
+		<line talk="n">Hold on, did you say Nakamura? Oh boy... Haven't heard that name in a while.</line>
+		<line talk="p">You know her?</line>
+		<line talk="n">You could say that... Said she's in trouble?</line>
+		<line talk="p">Yeah, her husband was murdered when he went to get a locket fixed. She's really sad now and I think giving here the locket will make her happier. I found the locket at a pawnshop, so I was wondering if you could loan me something expensive to trade. I can work as your secretary to pay you back if need be. How about it?</line>
+		<line talk="n">That's a hard offer to refuse. But I do have to refuse it--</line>
+		<line talk="p">But why? I can pay you--</line>
+		<line talk="n">You didn't let me finish. I'll give you something for free.</line>
+		<line talk="p">Oh. But, it wouldn't feel right not paying you back.</line>
+		<line talk="n">It's fine, Emere. You see, back when I was a youngster like you, I went to the same school as Nakamura. I was a shy one, but once I joined the music club, I quickly made friends. Two of those friends were Nakamura and her future husband, Wallace. We did everything together, and my friendship quickly turned into love. However, shy as I was, I could never confess. Wallace beat me to it, and the two became lovers. I felt left out, and our meetings slowly faded away. I went to college to study business and never saw her again.</line>
+		<line talk="n">How's that for a sad story? But you see, my love never faded. I never fell in love with anybody else, although I had plenty of opportunity to do so. That's why I still want to make her happy.</line>
+		<line talk="n">Take this watch of mine to give to the pawnbroker.</line>
+		<line talk="p">I am overwhelmed by your kind heart. You are the nicest old man I've met.</line>
+		<line talk="n">Nice for an old man? That's quite the compliment.</line>
+		<line talk="n">Just take the watch and make Nakamura happy.</line>
+		<line talk="p">I'll be sure to mention you. Thank you!</line>
+	</converse>
+	<converse item="2">
+		<line talk="n">You got the locket yet? No? What are you waiting for?</line>
+	</converse>
+	<converse item="1">
+		<line talk="n">You got the locket yet? Yes? What are you waiting for? Give it to her.</line>
+	</converse>
+	<converse item="0">
+		<line talk="p">She says she'll visit you.</line>
+		<line talk="n">Great!</line>
+	</converse>
+	<converse aorb="0">
+		<choices>
+			<choice>
+				<line talk="p">How's the election coming?</line>
+				<line talk="n">Oh, just fine. I've got a speech tomorrow to give to the town. Mind proofreading it for me?</line>
+				<line talk="p">I can do that.</line>
+				<line talk="n">You're a great help, Emere. Thank you.</line>
+			</choice>
+			<choice>
+				<line talk="p">Have you talked with Nakamura?</line>
+				<line talk="n">Why, yes! She stopped by this morning for a cup of tea. We talked for nearly three hours, catching up on the years we lost together. We're even going out to dinner this next weekend.</line>
+				<line talk="p">That's great! So...are you two dating?</line>
+				<line talk="n">Well, erm, I...well I guess you could say that.</line>
+				<line talk="p">Oooooooh! Good for you mayor!</line>
+				<line talk="n">Your support is appreciated...</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

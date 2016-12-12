@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Magic seems cool, right? But it's really the work of the Demon. Its users are not welcome here. A shame, really.</line>
+			</random>
+			<random>
+				<line talk="n">I wish I could use magic...</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

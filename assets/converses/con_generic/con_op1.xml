@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">This is a staff only room. Who let you in?</line>
+			</random>
+			<random>
+				<line talk="n">This room is private. You are not permitted to be here.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

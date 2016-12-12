@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><board>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>3</tile><tile>26</tile><tile>22</tile><tile>22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">6</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>116</tile><tile>215</tile><tile>303</tile><tile blocked="booo">171</tile><tile>305</tile><tile>270</tile><tile>320</tile><tile>277</tile><tile>96</tile><tile>78</tile><tile>84</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>174</tile><tile>194</tile><tile>303</tile><tile blocked="booo">171</tile><tile>311</tile><tile fore="11">274</tile><tile blocked="bbbb">1</tile><tile blocked="bbbb">355</tile><tile blocked="bbbb">233</tile><tile>78</tile><tile>84</tile><tile blocked="oboo" fore="4">33</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>174</tile><tile>205</tile><tile>288</tile><tile blocked="obbb">296</tile><tile>225</tile><tile>105</tile><tile>129</tile><tile>136</tile><tile>86</tile><tile>78</tile><tile>84</tile><tile>359</tile><tile bid="F_fujita.xml" blocked="obbb" face="1" fore="5" spid="4">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>174</tile><tile>194</tile><tile>303</tile><tile blocked="booo">171</tile><tile>78</tile><tile blocked="oboo" fore="7">53</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>174</tile><tile>194</tile><tile>303</tile><tile blocked="oobo">171</tile><tile blocked="booo">125</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>174</tile><tile>194</tile><tile>303</tile><tile>334</tile><tile blocked="booo">349</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>117</tile><tile>195</tile><tile>316</tile><tile>238</tile><tile blocked="booo">98</tile><tile blocked="obob" fore="5">11</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>4</tile><tile>25</tile><tile>23</tile><tile>23</tile><tile>23</tile><tile blocked="oobo">23</tile><tile>7</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<tile_set>6</tile_set>
+<music>fujita</music>
+<start_pos>
+	<x>5</x>
+	<y>12</y>
+</start_pos>
+<NPC>
+	<name>Nakamura</name>
+	<start_pos>
+		<x>3</x>
+		<y>9</y>
+	</start_pos>
+	<limit_point>
+		<x>3</x>
+		<y>11</y>
+	</limit_point>
+</NPC>
+</board>

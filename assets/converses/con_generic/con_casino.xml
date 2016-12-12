@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">C'mon! Papa needs a new pair of shoes! Shoot! This thing's rigged.</line>
+			</random>
+			<random>
+				<line talk="n">You're not old enough to gamble. What are ya doin' here?</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

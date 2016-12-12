@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Please feed me. I'm so hungry. Please.</line>
+				<line talk="p">I don't have any food or money, sorry.</line>
+				<line talk="n">I'm dying.</line>
+			</random>
+			<random>
+				<line talk="n">I'm just going to lie down for a while...</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

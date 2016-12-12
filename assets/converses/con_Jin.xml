@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">You feeling lucky? Try your hand at the cards.</line>
+		<line talk="p">I can't afford to gamble.</line>
+		<line talk="n">That's a real shame.</line>
+	</converse>
+	<converse after="37" trigger="38">
+		<line talk="p">Do you sell whiskey here?</line>
+		<line talk="n">SHHH! Keep your voice down! Where did you hear about that?</line>
+		<line talk="p">A friend of mine told me.</line>
+		<line talk="n">I hope they don't tell anyone else! There's a harsh ban on hard whiskey in this country and a large bounty for turning in criminals selling the stuff.</line>
+		<line talk="p">...can I have some?</line>
+		<line talk="n">Why does a young lady such as yourself want such potent alcoholics?</line>
+		<line talk="p">It's for someone else. They won't help unless I give them some.</line>
+		<line talk="n">Hmmm... I don't give anything away for free. If you promise to keep quiet and beat me at a game, I'll give you some. Sound good?</line>
+		<line talk="p">Yeah!</line>
+	</converse>
+	<converse after="38">
+		<line talk="n">Let's play a game of rock, paper, scissors! Win three in a row and you'll get a fine prize!</line>
+		<line talk="n">Rock, paper, scissors...</line>
+		<choices>
+			<choice>
+				<line talk="p">(Rock)</line>
+				<randoms>
+					<random>
+						<line talk="n">Shoot! (Rock vs. Paper)... I win! Try again!</line>
+					</random>
+					<random>
+						<line talk="n">Shoot! (Rock vs. Scissors)... You win. That's one of the three.</line>
+						<line talk="n">Rock, paper, scissors...</line>
+						<choices>
+							<choice>
+								<line talk="p">(Rock)</line>
+								<randoms>
+									<random>
+										<line talk="n">Shoot! (Rock vs. Paper)... I win! Try again!</line>
+									</random>
+									<random>
+										<line talk="n">Shoot! (Rock vs. Scissors)... You win. That's two out of three.</line>
+										<line talk="n">Rock, paper, scissors...</line>
+										<choices>
+											<choice trigger="39">
+												<line talk="p">(Rock)</line>
+												<line talk="n">Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Paper)</line>
+												<line talk="n">Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Scissors)</line>
+												<line talk="n">Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+										</choices>
+									</random>
+								</randoms>
+							</choice>
+							<choice>
+								<line talk="p">(Paper)</line>
+								<randoms>
+									<random>
+										<line talk="n">Shoot! (Paper vs. Scissors)... I win! Try again!</line>
+									</random>
+									<random>
+										<line talk="n">Shoot! (Paper vs. Rock)... You win. That's two out of three.</line>
+										<line talk="n">Rock, paper, scissors...</line>
+										<choices>
+											<choice trigger="39">
+												<line talk="p">(Rock)</line>
+												<line talk="n">Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Paper)</line>
+												<line talk="n">Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Scissors)</line>
+												<line talk="n">Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+										</choices>
+									</random>
+								</randoms>
+							</choice>
+							<choice>
+								<line talk="p">(Scissors)</line>
+								<randoms>
+									<random>
+										<line talk="n">Shoot! (Scissors vs. Rock)... I win! Try again!</line>
+									</random>
+									<random>
+										<line talk="n">Shoot! (Scissors vs. Paper)... You win. That's two out of three.</line>
+										<line talk="n">Rock, paper, scissors...</line>
+										<choices>
+											<choice trigger="39">
+												<line talk="p">(Rock)</line>
+												<line talk="n">Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Paper)</line>
+												<line talk="n">Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Scissors)</line>
+												<line talk="n">Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+										</choices>
+									</random>
+								</randoms>
+							</choice>
+						</choices>
+					</random>
+				</randoms>
+			</choice>
+			<choice>
+				<line talk="p">(Paper)</line>
+				<randoms>
+					<random>
+						<line talk="n">Shoot! (Paper vs. Scissors)... I win! Try again!</line>
+					</random>
+					<random>
+						<line talk="n">Shoot! (Paper vs. Rock)... You win. That's one of the three.</line>
+						<line talk="n">Rock, paper, scissors...</line>
+						<choices>
+							<choice>
+								<line talk="p">(Rock)</line>
+								<randoms>
+									<random>
+										<line talk="n">Shoot! (Rock vs. Paper)... I win! Try again!</line>
+									</random>
+									<random>
+										<line talk="n">Shoot! (Rock vs. Scissors)... You win. That's two out of three.</line>
+										<line talk="n">Rock, paper, scissors...</line>
+										<choices>
+											<choice trigger="39">
+												<line talk="p">(Rock)</line>
+												<line talk="n">Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Paper)</line>
+												<line talk="n">Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Scissors)</line>
+												<line talk="n">Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+										</choices>
+									</random>
+								</randoms>
+							</choice>
+							<choice>
+								<line talk="p">(Paper)</line>
+								<randoms>
+									<random>
+										<line talk="n">Shoot! (Paper vs. Scissors)... I win! Try again!</line>
+									</random>
+									<random>
+										<line talk="n">Shoot! (Paper vs. Rock)... You win. That's two out of three.</line>
+										<line talk="n">Rock, paper, scissors...</line>
+										<choices>
+											<choice trigger="39">
+												<line talk="p">(Rock)</line>
+												<line talk="n">Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Paper)</line>
+												<line talk="n">Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Scissors)</line>
+												<line talk="n">Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+										</choices>
+									</random>
+								</randoms>
+							</choice>
+							<choice>
+								<line talk="p">(Scissors)</line>
+								<randoms>
+									<random>
+										<line talk="n">Shoot! (Scissors vs. Rock)... I win! Try again!</line>
+									</random>
+									<random>
+										<line talk="n">Shoot! (Scissors vs. Paper)... You win. That's two out of three.</line>
+										<line talk="n">Rock, paper, scissors...</line>
+										<choices>
+											<choice trigger="39">
+												<line talk="p">(Rock)</line>
+												<line talk="n">Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Paper)</line>
+												<line talk="n">Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Scissors)</line>
+												<line talk="n">Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+										</choices>
+									</random>
+								</randoms>
+							</choice>
+						</choices>
+					</random>
+				</randoms>
+			</choice>
+			<choice>
+				<line talk="p">(Scissors)</line>
+				<randoms>
+					<random>
+						<line talk="n">Shoot! (Scissors vs. Rock)... I win! Try again!</line>
+					</random>
+					<random>
+						<line talk="n">Shoot! (Scissors vs. Paper)... You win. That's one of the three.</line>
+						<line talk="n">Rock, paper, scissors...</line>
+						<choices>
+							<choice>
+								<line talk="p">(Rock)</line>
+								<randoms>
+									<random>
+										<line talk="n">Shoot! (Rock vs. Paper)... I win! Try again!</line>
+									</random>
+									<random>
+										<line talk="n">Shoot! (Rock vs. Scissors)... You win. That's two out of three.</line>
+										<line talk="n">Rock, paper, scissors...</line>
+										<choices>
+											<choice trigger="39">
+												<line talk="p">(Rock)</line>
+												<line talk="n">Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Paper)</line>
+												<line talk="n">Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Scissors)</line>
+												<line talk="n">Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+										</choices>
+									</random>
+								</randoms>
+							</choice>
+							<choice>
+								<line talk="p">(Paper)</line>
+								<randoms>
+									<random>
+										<line talk="n">Shoot! (Paper vs. Scissors)... I win! Try again!</line>
+									</random>
+									<random>
+										<line talk="n">Shoot! (Paper vs. Rock)... You win. That's two out of three.</line>
+										<line talk="n">Rock, paper, scissors...</line>
+										<choices>
+											<choice trigger="39">
+												<line talk="p">(Rock)</line>
+												<line talk="n">Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Paper)</line>
+												<line talk="n">Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Scissors)</line>
+												<line talk="n">Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+										</choices>
+									</random>
+								</randoms>
+							</choice>
+							<choice>
+								<line talk="p">(Scissors)</line>
+								<randoms>
+									<random>
+										<line talk="n">Shoot! (Scissors vs. Rock)... I win! Try again!</line>
+									</random>
+									<random>
+										<line talk="n">Shoot! (Scissors vs. Paper)... You win. That's two out of three.</line>
+										<line talk="n">Rock, paper, scissors...</line>
+										<choices>
+											<choice trigger="39">
+												<line talk="p">(Rock)</line>
+												<line talk="n">Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Paper)</line>
+												<line talk="n">Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+											<choice trigger="39">
+												<line talk="p">(Scissors)</line>
+												<line talk="n">Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.</line>
+											</choice>
+										</choices>
+									</random>
+								</randoms>
+							</choice>
+						</choices>
+					</random>
+				</randoms>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="39" get="11" trigger="41">
+		<line talk="n">Here it is. A bottle of the hardest liquor on the market. Tell your friend that I don't envy them.</line>
+	</converse>
+	<converse after="41">
+		<line talk="n">Let's play a game of blackjack, just for fun.</line>
+		<choices>
+			<choice>
+				<line talk="p">Sure!</line>
+				<randoms>
+					<random>
+						<line talk="n">First card is a 3.</line>
+						<line talk="p">Hit.</line>
+						<line talk="n">You have a 3 and a Jack.</line>
+						<line talk="p">Hit.</line>
+						<line talk="n">You have a 3, Jack, and a 6.</line>
+						<line talk="p">Stand.</line>
+						<line talk="n">Let's see what I have... a Ten, and a Queen. I win!</line>
+					</random>
+					<random>
+						<line talk="n">First card is a Ten.</line>
+						<line talk="p">Hit.</line>
+						<line talk="n">You have a Ten and an Ace.</line>
+						<line talk="p">Stand.</line>
+						<line talk="n">Let's see what I have... a 7, a 7, and a King. You win...</line>
+					</random>
+					<random>
+						<line talk="n">First card is a 5.</line>
+						<line talk="p">Hit.</line>
+						<line talk="n">You have a 5 and a King.</line>
+						<line talk="p">Hit.</line>
+						<line talk="n">You have a 5, a King, and a 9. You bust, and I win!</line>
+					</random>
+				</randoms>
+			</choice>
+			<choice>
+				<line talk="p">Nah.</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Welcome to Bongani's Pawnshop! What'll it be?</line>
+		<choices>
+			<choice>
+				<line talk="p">I'd like to buy some ramen. Do you have any in stock?</line>
+				<line talk="n">Haven't you been to a pawnshop before, girl? You trade things of equal value here. This ain't no convenience store.</line>
+				<line talk="p">My bad.</line>
+			</choice>
+			<choice>
+				<line talk="p">You have any board games I could trade for?</line>
+				<line talk="n">Ah, you're one of those board game types. Let me take a look...</line>
+				<line talk="n">I've got two. One called "Tokaido," another called "Roll for it." Each has a net worth of about #60.00. D'ya want either?</line>
+				<line talk="p">(Expensive!) No, thank you. I don't have enough.</line>
+				<line talk="n">Well, come back if you have some more.</line>
+			</choice>
+			<choice>
+				<line talk="p">Any video games?</line>
+				<line talk="n">I have only one. There're popular items these days. It's called "Gitaroo Man." Used, worth about #35.00. How's about a purchase?</line>
+				<line talk="p">I don't have enough money for that one... Maybe I'll buy it later.</line>
+				<line talk="n">It's a rare game. I can't guarantee I can hold it for you.</line>
+			</choice>
+		</choices>
+		<line talk="n">Be safe out there, girl.</line>
+	</converse>
+	<converse after="3" trigger="5">
+		<line talk="n">Welcome to Bongani's Pawnshop! What'll it be?</line>
+		<line talk="p">Do you have any lockets?</line>
+		<line talk="n">A locket, eh? Looking for one in particular? I've got like seven different ones.</line>
+		<line talk="p">It's made of silver and gold, if that helps.</line>
+		<line talk="n">Oooh! Fancy. This must be it. Its value is... #175.00. Got something equal to that value?</line>
+		<choices>
+			<choice>
+				<line talk="p">Of course I do.</line>
+				<line talk="n">Show me.</line>
+				<line talk="p">Sorry, I lied.</line>
+				<line talk="n">Cheeky girl.</line>
+			</choice>
+			<choice>
+				<line talk="p">No, I don't.</line>
+				<line talk="n">Then what were you thinking when you wanted to pay for the locket?</line>
+			</choice>
+		</choices>
+		<line talk="p">The truth is, that locket you have was stolen from this old lady. Her story is actually really sad...</line>
+		<line talk="p">......</line>
+		<line talk="n">That's some heavy stuff, girl. I understand completely. However, I do have a business to run and that piece is quite expensive. If you can give me something of slightly less value, say around #125.00, I'll consider it for Nakamura's sake. How does that sound?</line>
+		<line talk="p">You are very generous, but how am I supposed to find an item like that? I'm not exactly rich.</line>
+		<line talk="n">You ask all the tough questions. Try asking a politician. They are usually very rich, retired people who do politics on the side.</line>
+		<line talk="p">I'll see what I can do. Thanks again!</line>
+		<line talk="n">My pleasure, girl.</line>
+	</converse>
+	<converse after="5">
+		<choices>
+			<choice>
+				<line talk="p">How's business?</line>
+				<line talk="n">Could be better. I've been barely keeping this place running. Not to mention preventing all the robberies in this area. Good thing I'm a big, burly man that no one wants to mess with. Har, har, har!</line>
+				<line talk="p">You sure are. "Har, har, har."</line>
+				<line talk="n">Don't be mocking me, girl.</line>
+			</choice>
+			<choice>
+				<line talk="p">Where did you say I could find someone with a lot of money?</line>
+				<line talk="n">Try Mourilyan. A lot of rich people settle there.</line>
+				<line talk="p">(Excluding, of course, my family.) Thanks!</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse item="2" take="2" get="1">
+		<line talk="p">How's this in exchange for the locket?</line>
+		<line talk="n">Let's take a look...</line>
+		<line talk="n">Oooh. That's a real fine piece there. I'd say it'd just about cover the cost of the locket.</line>
+		<line talk="p">Sweet! It's a deal then.</line>
+		<line talk="n">It's been a pleasure doing business with you, girl. Be sure to tell your friends to come on down to Bongani's Pawnshop.</line>
+		<line talk="p">I sure will.</line>
+	</converse>
+	<converse item="1">
+		<line talk="n">You returned that locket, yet? Tell me how it goes.</line>
+	</converse>
+	<converse item="0">
+		<line talk="n">How did it go?</line>
+		<line talk="p">It really brightened her day. Thank you for the huge discount!</line>
+		<line talk="n">My pleasure, girl. I have a soft spot for old ladies.</line>
+	</converse>
+	<converse aorb="0">
+		<line talk="n">Welcome, Emere! What can I do for ya?</line>
+		<choices>
+			<choice>
+				<line talk="p">Got anything interesting in stock?</line>
+				<line talk="n">Just this morning some guy traded in a copy of Final Fantasy 6. I hear it's a great game.</line>
+				<line talk="p">I'll have to play it some time.</line>
+			</choice>
+			<choice>
+				<line talk="p">Have you heard anything from Nakamura?</line>
+				<line talk="n">Yeah! She stopped by here to chat with me. She'd never been here before, even though this store is so close by. I think I've made a new customer.</line>
+				<line talk="p">Glad to hear it!</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

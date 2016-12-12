@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Hey.</line>
+		<line talk="n">Why, hello there young lady. Are you having a great day today?</line>
+		<choices>
+			<choice>
+				<line talk="p">It's alright I guess.</line>
+				<line talk="n">That's a real shame, it is. Would a caramel cream make you feel better? Take one.</line>
+				<line talk="p">Thank you! You're so kind.</line>
+			</choice>
+			<choice>
+				<line talk="p">Fantastic. How about yourself?</line>
+				<line talk="n">I am enjoying the nice weather out today. The sun feels great on my skin.</line>
+				<line talk="p">Even though you live in such a dark, gloomy town?</line>
+				<line talk="n">Yes. This way, I don't get sunburn. That's one of the reasons I chose to move here.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="31">
+		<line talk="p">Hello, sir.</line>
+		<line talk="n">Why, it's nice of you to visit an old man like me. Please, have a seat and I'll make some tea.</line>
+		<line talk="p">I'm quite alright, thank you. (My heart is impaled with a thousand needles right now.)</line>
+	</converse>
+	<converse after="32">
+		<line talk="p">(Oh, no. I can't look him in the face any more. Let alone talk to him.)</line>
+	</converse>
+	<converse after="42" item="5" take="5" get="13" trigger="44">
+		<line talk="p">(How should I give this back?)</line>
+		<choices>
+			<choice>
+				<line talk="p">(I should tell the truth.)</line>
+				<line talk="p">Sir, I believe I've caused you some trouble...</line>
+				<line talk="n">No, I don't think you have. Why do you say that?</line>
+				<line talk="p">Well, the truth is...</line>
+				<line talk="n">My dear! What a riveting tale! They should write a book on you and your adventures. I was wondering where that gemstone went. But I see now that you had good reason to take it, so there's no way I would dislike what you chose to do.</line>
+			</choice>
+			<choice>
+				<line talk="p">(I'll make something up.)</line>
+				<line talk="p">Do you own a gemstone?</line>
+				<line talk="n">Yes, I do and it's been missing lately.</line>
+				<line talk="p">I found these thieves talking about just robbing a gemstone from an old man. So I beat them up and got the gemstone back. I'm here to return it.</line>
+				<line talk="n">How very kind of you!</line>
+			</choice>
+		</choices>
+		<line talk="n">I want to give you something for returning the gemstone to me.</line>
+		<line talk="p">It's alright. You don't have to--</line>
+		<line talk="n">I want to give something to you. I'll be dead soon, so I want to hand out objects that will keep the memory of me living on. Please take this gift.</line>
+	</converse>
+	<converse after="44">
+		<line talk="n">You are always welcome here. Feel free to "chill" as the kids say.</line>
+		<line talk="p">Sounds sick! Wicked! Radical!</line>
+	</converse>
+</conversations>

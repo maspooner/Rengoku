@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">If you head southwest, you'll arrive in Nulato.</line>
+			</random>
+			<random>
+				<line talk="n">Welcome to Mourilyan!</line>
+				<line talk="p">I live here.</line>
+				<line talk="n">So sorry!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

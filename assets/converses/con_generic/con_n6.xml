@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Calculate the sum of my earnings.</line>
+		<line talk="p">What does that even mean?</line>
+	</converse>
+</conversations>

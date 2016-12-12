@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Hey, lady. Want some fresh vegetables?</line>
+				<line talk="p">Not right now.</line>
+				<line talk="n">Remember that I have the lowest prices.</line>
+			</random>
+			<random>
+				<line talk="n">I should consider raising livestock as well. Farming's fun!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

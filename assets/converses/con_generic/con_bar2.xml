@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Ya lookin' to orda?</line>
+				<line talk="p">Nah. I'm just looking at the menu.</line>
+				<line talk="n">Take ya time.</line>
+			</random>
+			<random>
+				<line talk="n">It's always busy here.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

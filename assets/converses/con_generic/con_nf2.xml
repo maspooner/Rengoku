@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">My apologies. I cannot allow you to pass without proper identification into the province of Ginga.</line>
+		<line talk="p">Okay.</line>
+	</converse>
+</conversations>

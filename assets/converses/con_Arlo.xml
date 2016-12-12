@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Welcome, Emere! What can I do for you?</line>
+		<choices>
+			<choice>
+				<line talk="p">What are you selling?</line>
+				<line talk="n">Well, Arlo the hardware specialist has a few things in stock...</line>
+				<line talk="n">I've got some new smartphones, some from Lemon and Humanoid. I've also got lots of computer parts; I got a shipment just this morning of a new type of graphics card. Other than that, I'm selling headphones, laptops, peripherals, and tablets. Can I interest you in any?</line>
+				<line talk="p">No, thanks. I'm just browsing.</line>
+				<line talk="n">Okay, but if you purchase anything, purchase it from my side of the store, will you? I'm competing with my brother. Whoever gets the most customers gets to eat a feast paid by the loser.</line>
+				<line talk="Kenji">Don't do it, Emere. I sell better stuff.</line>
+				<line talk="n">That's not even close to true! Emere, you'll buy from me, right?</line>
+				<line talk="p">I'm not taking sides. If I buy, it will be from both of you.</line>
+			</choice>
+			<choice>
+				<line talk="p">How's your twin?</line>
+				<line talk="n">He's the same as always. He doesn't get out much, you know? He's a bit too awkward as well.</line>
+				<line talk="Kenji">You're talking as if I can't hear you.</line>
+				<line talk="n">Oh, erm, well...</line>
+				<line talk="p">Awkward!</line>
+			</choice>
+			<choice>
+				<line talk="p">You've got a nice place here.</line>
+				<line talk="n">Thanks! It was bought with the money my brother and I saved up from years of mining coal in the mines of Yarl.</line>
+				<line talk="Kenji">It just goes to show you that hard work can really pay off.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse item="3" take="3" get="4">
+		<line talk="p">I've got a waiver for a free... what's it called? Mai HiMorph 430?</line>
+		<line talk="n">What!? We don't offer waivers. And I don't think I've heard of that model before. Let me see it...</line>
+		<line talk="n">Whoa! This is from Pierre! His company is the developer for the GTX series. If it's from him, I'll gladly give you one. He'll just have to pay me back.</line>
+		<line talk="Kenji">What's this about you giving out stuff for free?</line>
+		<line talk="n">Were you listening? Pierre's going to pay me back. Sorry for making you listen to us babble, Emere. Here's your hardware.</line>
+		<line talk="p">Thanks!</line>
+	</converse>
+</conversations>

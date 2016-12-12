@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">The fried chicken here is delicious!</line>
+			</random>
+			<random>
+				<line talk="n">I can't get enough of these hot fries!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

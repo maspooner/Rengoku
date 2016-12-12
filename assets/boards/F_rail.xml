@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><board>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>26</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>178</tile><tile>60</tile><tile>60</tile><tile>36</tile><tile fore="9">50</tile><tile blocked="ooob">282</tile><tile blocked="ooob">282</tile><tile blocked="ooob">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>178</tile><tile>60</tile><tile>60</tile><tile>36</tile><tile after="0" blocked="bbbb" fire="26" item="32">233</tile><tile>48</tile><tile>50</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>178</tile><tile>60</tile><tile>60</tile><tile blocked="bobo">36</tile><tile>50</tile><tile>48</tile><tile>50</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>178</tile><tile>60</tile><tile>60</tile><tile blocked="booo">36</tile><tile fore="9">50</tile><tile blocked="bbbb">180</tile><tile>50</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>178</tile><tile>60</tile><tile>60</tile><tile blocked="booo">36</tile><tile fore="9">50</tile><tile blocked="bbbb">180</tile><tile>50</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>178</tile><tile>60</tile><tile>60</tile><tile blocked="booo">36</tile><tile>50</tile><tile>48</tile><tile blocked="bbbb">233</tile><tile blocked="obob" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>5</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile blocked="oobo">178</tile><tile blocked="oobo">60</tile><tile bid="F_fujita.xml" blocked="bbob" face="3" fore="12" spid="5">39</tile><tile>37</tile><tile>11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<tile_set>6</tile_set>
+<music>secret</music>
+<start_pos>
+	<x>8</x>
+	<y>6</y>
+</start_pos>
+</board>

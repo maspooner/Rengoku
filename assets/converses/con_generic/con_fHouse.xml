@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Who let you in?</line>
+			</random>
+			<random>
+				<line talk="n">Come to laugh at our small house?</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Who are ya? Do you think you can just prance on in whenever ya want?</line>
+		<line talk="p">Sorry, I was just exploring the city.</line>
+	</converse>
+	<converse after="30" trigger="31">
+		<line talk="p">Hello. I'd like to join your gang.</line>
+		<line talk="n">Ya? Hoah, hoah, hoah, hoah, hoah, HOAH!!!!</line>
+		<line talk="n">...Wait, are ya serious? I don't think ya have what it takes.</line>
+		<line talk="p">I think I can be a great asset to this gang. You see--</line>
+		<line talk="n">We don't need any more people ta split the profit with. And you're too wimpy. I bet ya couldn't even steal from a baby.</line>
+		<line talk="p">Would you let me finish? I provide something that no one else can: I have a perfect disguise. I look like an innocent woman, right? No one would suspect me of doing anything wrong. I could cover for the rest of the gang members if they get caught. What do you say to that?</line>
+		<line talk="n">Interesting. Ya musta thought this through beforehand. Ya argument is valid. But you'll have to prove your worth to make it into this here gang.</line>
+		<line talk="n">Your task, will be a challenging one for your conscience. I'd like ya ta steal an old man's gem from his house in the bottom left corner of town. He's just moved here, and my scouts reveal that he has some things of value. If ya can handle it, you're in.</line>
+		<line talk="p">I'll do my best, boss. (Oh, this is going to hurt my heart.)</line>
+	</converse>
+	<converse after="31">
+		<line talk="n">Did ya give up already? He's in the bottom left corner of town.</line>
+	</converse>
+	<converse item="5" take="5" get="6" trigger="32">
+		<line talk="n">Ya got the goods?</line>
+		<line talk="p">It was a piece of cake. I thought I would have to try harder to get into this gang.</line>
+		<line talk="n">Hoah! I like your attitude, girl. I think you'll make a fine addition to this gang. Ah, I almost forgot, here's your cut. Welcome ta the Seraphim Ministry!</line>
+	</converse>
+	<converse after="32">
+		<choices>
+			<choice>
+				<line talk="p">What's next on the agenda?</line>
+				<line talk="n">Well, we are currently planning an operation ta raid the rail station when their delivery comes in.</line>
+				<line talk="p">And who do you sell it to?</line>
+				<line talk="n">We have many buyers, all from neighboring countries. They pay well, too. You won't have ta worry about money when you're with us.</line>
+			</choice>
+			<choice>
+				<line talk="p">You guys stolen anything from another town before?</line>
+				<line talk="n">Not often, else it will put too much suspicion our way. We recently raided a family's home in Nulato. They left their door unlocked. Welcomed us right in. Hoah!</line>
+				<line talk="p">I'd like to see how much you were able to pilfer. Can you show me where it is?</line>
+				<line talk="n">If we still had it, I'd love to show it off to ya. But we sold almost everything right away.</line>
+			</choice>
+			<choice>
+				<line talk="p">You guys must have no morals, right?</line>
+				<line talk="n">Ya think so? I think we do. Distribute the wealth, ya know? I lived a horrible live as a child, so why keep living that way if ya have a way to change it? That's my thinking, anyway.</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

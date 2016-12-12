@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Good afternoon.</line>
+		<randoms>
+			<random>
+				<line talk="n">Leave me be. I don't want to talk to anyone right now...</line>
+				<line talk="p">(You're very antisocial.) Well, goodbye then.</line>
+			</random>
+			<random>
+				<line talk="n">Please leave, I wish to be alone.</line>
+				<line talk="p">(Fine, I didn't want to be here anyways.) Goodbye.</line>
+			</random>
+		</randoms>
+	</converse>
+	<converse after="2">
+		<line talk="p">Good afternoon.</line>
+		<line talk="n">What do you want, child? I wish to be alone.</line>
+		<choices>
+			<choice>
+				<line talk="p">I heard you make some great candy.</line>
+				<line talk="n">You heard wrong, I make no such thing.</line>
+				<line talk="n">You bother me. Leave.</line>
+			</choice>
+			<choice>
+				<line talk="p">Is anything troubling you?</line>
+				<line talk="n">No!</line>
+				<line talk="p">Are you suuuuure?</line>
+				<line talk="n">...It doesn't concern you. A youngster like you wouldn't be interested in an old lady's troubles.</line>
+				<choices>
+					<choice trigger="3">
+						<line talk="p">Talk it out with me. I want to help you.</line>
+						<line talk="n">...If you insist.</line>
+						<line talk="n">My husband died suddenly last week...</line>
+						<line talk="n">It was a sudden and tragic death. He was on his way to get a locket fixed for me when a thug murdered him. I couldn't believe it when I heard it. It...made me very sad. The locket was a gift he gave me on our honeymoon. It was a great piece, made of silver and gold. It used to give me great joy when I looked at it, but now the thought of it only brings great pain. The thug only murdered my husband when he wouldn't give up the locket.</line>
+						<line talk="n">I feel like it's my fault he died. If only I hadn't asked him to fix that locket...</line>
+						<line talk="n">People such as yourself have been nosy in trying to get me to feel better. But you don't understand that there is hardly anything that will calm my aching heart.</line>
+						<line talk="n">...Any who, thank you for listening to my story.</line>
+						<line talk="p">I am so sorry.</line>
+					</choice>
+					<choice>
+						<line talk="p">You are right.</line>
+						<line talk="n">Kids these days... Be gone! Out! Get!</line>
+					</choice>
+				</choices>
+			</choice>
+			<choice>
+				<line talk="p">Which way to the inn?</line>
+				<line talk="n">It's right next door. Are you mocking me? Out with you!</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="3">
+		<line talk="p">You say there is nothing that will make you feel better?</line>
+		<line talk="n">Hardly anything, child. The only possession I had worth keeping was that locket. I will never forgive that dirty thief. Scum of the earth, he is.</line>
+		<line talk="p">(What could the thief have done with it?)</line>
+	</converse>
+	<converse item="1" get="0" take="1">
+		<line talk="p">I found your locket, Nakamura.</line>
+		<line talk="n">Give it here, child.</line>
+		<line talk="n">No doubt about it, this is the locket... *Sniffle* You don't know what relief this brings me. Truly, you are a saint. I thank you from the bottom of my heart. It must have been hard work. I've got to repay you for your kindness. Is there anything you would like?</line>
+		<choices>
+			<choice>
+				<line talk="p"> You don't have to give me anything. I like helping people.</line>
+				<line talk="n">I can't have that. I must give you something in return. I know! Kids these days sure love their candy. How about I give you some? I used to be a confectioner back in my day.</line>
+				<line talk="p">That would be lovely. Thank you!</line>
+			</choice>
+			<choice>
+				<line talk="p">I heard that you make candy. Could I have some?</line>
+				<line talk="n">You heard correctly. I was a confectioner back in my day. I think I have some left over.</line>
+				<line talk="p">Sweet! Thanks, Nakamura!</line>
+			</choice>
+		</choices>
+		<line talk="p">It's all thanks to mayor Rais. Do you recall his name?</line>
+		<line talk="n">Rais? Why, of course, child! He was a great friend back in the day. I can't believe I lost touch with him. Where is he?</line>
+		<line talk="p">He's mayor of Mourilyan. He would love to see you again.</line>
+		<line talk="n">I'll definately visit him. We have a lot of catching up to do.</line>
+	</converse>
+	<converse item="0">
+		<line talk="n">Enjoy the candy, child.</line>
+		<line talk="p">Thanks!</line>
+	</converse>
+	<converse aorb="0">
+		<line talk="p">Hey, Nacks!</line>
+		<line talk="n">Bless you.</line>
+		<line talk="p">I didn't sneeze! It's my new nickname for you, "Nacks."</line>
+		<line talk="n">Child, please don't ever call me that again.</line>
+		<line talk="p">You're no fun. See you later, Nacks!</line>
+		<line talk="n">Children these days. Have some respect for your elders!</line>
+	</converse>
+</conversations>

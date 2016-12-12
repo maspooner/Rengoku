@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Welcome, Emere! What can I get you?</line>
+		<choices>
+			<choice>
+				<line talk="p">What do you sell on this side?</line>
+				<line talk="n">I've got everything you need on a day to day basis. I have food, water, clothes, and books, all available at the lowest price. I also sell fun things like board games and trading cards, as well as miscellaneous items. Take a look around, I guarantee if it's something general, Kenji has it.</line>
+				<line talk="Arlo">He doesn't have any of the latest technology, though.</line>
+				<line talk="n">Of course I don't. That's your specialty. Stop trying to steal my customers.</line>
+			</choice>
+			<choice>
+				<line talk="p">Why not just have one store?</line>
+				<line talk="n">The plan was to have one store, but somebody (cough-cough Arlo cough) thought it would be better to split it into two.</line>
+				<line talk="Arlo">Hey, I don't think that's the reason. I thought we agreed that we're both very competitive and have slightly different interests. So working together to run it as one store would be a train wreck.</line>
+				<line talk="p">I think you guys made the right choice.</line>
+			</choice>
+			<choice>
+				<line talk="p">Anything on sale?</line>
+				<line talk="n">Everything is always a discounted price. However, we've got a 50% off sale on all fruits. It's becoming winter soon and we need to sell all of it.</line>
+				<line talk="Arlo">I've got some laptops on sale on my side.</line>
+				<line talk="n">No one asked you, Arlo.</line>
+				<line talk="Arlo">Hey, I'm just trying to make a living here.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse item="6" after="33" take="6" get="7,8,9">
+		<line talk="p">Do you have any trading cards for sale?</line>
+		<line talk="n">#5.00 for a pack of 3. You looking to buy some?</line>
+		<line talk="p">Yeah. Here's the money.</line>
+		<line talk="n">Your patronage is appreciated.</line>
+		<line talk="n">...I never knew you were the type to collect trading cards. Especially Gokuman ones.</line>
+		<line talk="p">Oh. It's not for me. I guess you could call it a gift.</line>
+	</converse>
+	<converse item="19,24" take="24" get="25">
+		<line talk="p">I'd like a bottle of spring water, please.</line>
+		<line talk="n">You got it. That will be #0.5.</line>
+		<line talk="n">Thank you for your purchase!</line>
+	</converse>
+</conversations>

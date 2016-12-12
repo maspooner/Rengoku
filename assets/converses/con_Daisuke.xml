@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">'ho arr ya? Get out 'fore I stabs ya!</line>
+		<line talk="p">You're quite the fiesty little one.</line>
+	</converse>
+	<converse after="32" trigger="33">
+		<line talk="n">ARRGH! Not 'notha Cabagesaur! I got nearla 20 'lready.</line>
+		<line talk="p">You're a fan of Gokuman cards? I used to collect them too.</line>
+		<line talk="n">Ya don't know nothin' 'bout dem. I'm da Gokuman master. I know everythin' 'bout dem. Got dem all 'cept one. I spent all me cash on buying cards I 'lready own.</line>
+		<line talk="p">Can't you trade with someone?</line>
+		<line talk="n">U wot m8? 1v1 me! I'll stabs ya!</line>
+		<line talk="p">Woah! Okay. (I guess he's touchy on the subject.)</line>
+	</converse>
+	<converse after="33">
+		<line talk="n">Ya says ya had cards? D'ya had a Holofoil Rare Grillidragon?</line>
+		<line talk="p">No, I don't recall having that one.</line>
+		<line talk="n">Dat's shame. I've some good cards tah trade for it.</line>
+	</converse>
+	<converse item="7,8,9">
+		<line talk="p">Hey, want to trade?</line>
+		<line talk="n">Wat d'ya has?</line>
+		<choices>
+			<choice>
+				<line talk="p">An... Oozetle?</line>
+				<line talk="n">Lame. I 'lready has. Ya wastin' me time!</line>
+			</choice>
+			<choice>
+				<line talk="p">Well, I guess I could trade my Flipachu.</line>
+				<line talk="n">I has plentys of dem. Ya're a orrible trader! Get outa here 'fore I stabs ya!</line>
+			</choice>
+			<choice>
+				<line talk="p">Holofoil Rare Grillidragon, of course.</line>
+				<line talk="n">No ways! Trade me now 'fore I stabs ya! I'll give ya anythin' ya wants for it!</line>
+				<choices>
+					<choice trigger="43">
+						<line talk="p">Which one's worth the most?</line>
+						<line talk="n">I have two of da Alejandro's Kew. I guess ya can have it. Let me get it.</line>
+					</choice>
+					<choice trigger="34" take="9">
+						<line talk="p">It's alright. You can have it.</line>
+						<line talk="n">Ya got somethin' wrong wid ya head. But if ya offerin'... I'll be takin'!</line>
+						<line talk="n">Trade success! Ya nice lady.</line>
+						<line talk="p">Thank you.</line>
+					</choice>
+				</choices>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="43" get="10" trigger="34" take="9">
+		<line talk="n">Trade success! Ya nice lady.</line>
+		<line talk="p">Thank you.</line>
+	</converse>
+	<converse after="34">
+		<randoms>
+			<random>
+				<line talk="p">Enjoying the card?</line>
+				<line talk="n">Yea! Me collection is complete. Now I'm da greatest kid on da block!</line>
+			</random>
+			<random>
+				<line talk="n">Lady! Ya card is gettin' me alls the attention from me mates. I'm very happy!</line>
+				<line talk="p">Great!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

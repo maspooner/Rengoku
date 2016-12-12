@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Man, I could really go for a soda right row. It's hot in here.</line>
+			</random>
+			<random>
+				<line talk="n">Ginga's such a better place than this place. I mean just look at the landscape. No wonder we get so many tourists.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

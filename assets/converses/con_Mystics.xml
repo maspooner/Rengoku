@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Hi?</line>
+		<randoms>
+			<random>
+				<line talk="Raziel">Look out, we're being invaded! Hang on to your hat, we're being raided!</line>
+				<line talk="Taika">And Captain Capricorn, that's who's behind it. If nothing's there to find, you know he'll find it.</line>
+			</random>
+			<random>
+				<line talk="Taika">Counting again and again from one to nine. Approaching and pushing away infinity. Oh sweet absurdity!</line>
+				<line talk="Raziel">But if you prefer that old silly number zero.</line>
+				<line talk="Taika">You'll become a master of doing nothing, being nothing.</line>
+			</random>
+			<random>
+				<line talk="Taika">Okay, you're Miss Illusion. Smiling in all this confusion. Because you're young today, tomorrow you start to play.</line>
+				<line talk="Raziel">What do you believe? Why do you believe it? Don't ya ever wonder... If it's really true...</line>
+			</random>
+			<random>
+				<line talk="Taika">Look up in the air, the Octave Doctor's there! And when he strokes his gong. Your middle eye comes on!</line>
+				<line talk="Raziel">I see you sittin' there on your old back veranda. You shady lady and waltzing Matilda. You're really only me if you'd only remember.</line>
+			</random>
+		</randoms>
+		<line talk="p">Bye!</line>
+	</converse>
+	<converse item="19" trigger="67">
+		<line talk="p">(Prepare thine self, Emere.) I need a favor from you guys. Do you make magical essence?</line>
+		<line talk="Taika">Sitting up there in your ivory city. Look so ugly and you feel so pretty. You hear me. But I don't see you. You feel me. One day I'll be you.</line>
+		<line talk="p">Hey! That sounds like you are insulting me.</line>
+		<line talk="Raziel">I'd just like to say, waves that you ride. Just to bolster your pride.</line>
+		<line talk="Taika">But if it's love that you're after. The craft of a hero. Banana, nirvana, mañana.</line>
+		<line talk="Raziel">Then when you're receiving. Perceiving your telepathic powers.</line>
+		<line talk="Raziel">(Bring us a magical pinecone, then we'll talk.)</line>
+		<line talk="p">Ah! You guys can understand me? And use telepathy? Whoa. The power of magic is incredible.</line>
+		<line talk="Taika">You're born on this Planet now to help to show the way. To stop the spread of darkness and to sing the Golden Age.</line>
+		<line talk="p">I assume that means you trust me? Okay.</line>
+	</converse>
+	<converse after="67">
+		<line talk="Taika">Well mirror, mirror on the wall. Who's the biggest fool of all?</line>
+		<line talk="Raziel">Hallucinating freedom calls. What's freedom babe? You don't know!</line>
+		<line talk="p">Alright! I'm trying to find your stupid pinecone.</line>
+	</converse>
+	<converse item="22" take="22" get="23" trigger="68">
+		<line talk="Taika">What a surprise! She looked in the cupboard. And found the eyes in the suitcase!</line>
+		<line talk="p">You're welcome. Here. Take it. Can I have the essence now, please?</line>
+		<line talk="Raziel">Maybe you're here for the giggle.</line>
+		<line talk="Taika">Maybe you're into the puzzle.</line>
+		<line talk="Raziel">Maybe you're blowing the bubble.</line>
+		<line talk="Taika">Maybe you're all in a muddle.</line>
+		<line talk="p">(Why are they dancing? Is it part of making the essence? Boy, this is weird.)</line>
+		<line talk="Taika">You are my Magick Brother. You are the one in love.</line>
+		<line talk="Raziel">You are my Mystic Sister. You are the one in love.</line>
+		<line talk="Taika">Master Builder, tell me how you make a temple? Tools and moon stones, You don't really need them, you know... Master Builder, tell me what the temple's made of? Deep inside you, you can build an invisible temple in your own imagination.</line>
+		<line talk="Raziel">Whose are these words I sing and what does my guitar sing? This is not me, I am not this. I'm only passing.</line>
+		<line talk="Taika">Open up the veil and let us take a peep in, through the moon and diving deep we'll meet the whale where rides the captain's submarine. Who told the tale of pixies green that sends us kisses in the brain and out-far planets never seen except by technicolor dream.</line>
+		<line talk="p">(Ooooooh. Colors. Images. Sounds. Flying teapots. Angels' Eggs. I see it all.)</line>
+		<line talk="Taika">What's that in the sky now? Teapots that can fly now. Voices in your head. Tell me what they said.</line>
+		<line talk="p">You're aquaman and in your hand is a watering can I now can believe it to be. The fun gods winking and we're all blinking and thinking we're sinking in the sea.</line>
+		<line talk="Raziel">Everything you think shows. Hanging round your head. Underneath your long hair. Tell me what you feel there.</line>
+		<line talk="p">It's too easy. Just to change your face. It's too easy. Just to change your place. You feel so cool.</line>
+		<line talk="Taika">The light gets stronger and all our eyes look yonder to see what's going on. But that's all right you'll soon be out.</line>
+		<line talk="Raziel">And everything we made, a flicker of light and shade. A body to wander by. A whistle of sound and sigh.</line>
+		<line talk="Taika">I could swear that I saw it up in the sky. It was green as an emerald in the blue. Now I'm wondering if it was really you.</line>
+		<line talk="Taika">Our brothers' hand. I'm happy to say that we have already won.</line>
+		<line talk="p">(...Where am I? Oh, right!) Uhhhh. What did you guys do to me!?</line>
+		<line talk="Raziel">Earth mother, soul sister be high here now.</line>
+		<line talk="Taika">Bad weather hell for leather. Now and zen you goof again.</line>
+		<line talk="p">I'm tired of your nonsense! I'm out!</line>
+	</converse>
+	<converse after="68">
+		<randoms>
+			<random>
+				<line talk="Raziel">Wake up my friend. We must act now. We've waited too long.</line>
+				<line talk="Taika">For peace and Love, we've waited too long.</line>
+			</random>
+			<random>
+				<line talk="Taika">So there goes Zero the Hero. Turning on around the wheel of births and deaths. And meanwhile the Octave Doctors--</line>
+				<line talk="Raziel">Oh no, give a dog a bone. Don't come thinkin' through the door.</line>
+			</random>
+			<random>
+				<line talk="Raziel">Well help me help me sing this song. I want to stay living for much too long.</line>
+				<line talk="Taika">Well man you must be dead.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

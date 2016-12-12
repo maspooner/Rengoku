@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">This road is well traveled on. The terrain is nice and even and the journey between towns is short.</line>
+			</random>
+			<random>
+				<line talk="n">Have you been in the caves yet? They look amazing!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Sigh...</line>
+		<line talk="p">What's wrong, my pupil?</line>
+		<line talk="n">Oh, hi, Ms. S It's nothing...</line>
+		<choices>
+			<choice>
+				<line talk="p">Is it something you can't share with your art teacher?</line>
+				<line talk="n">It's something stupid. I'll forget about it in a few days.</line>
+				<line talk="p">If you say so.</line>
+			</choice>
+			<choice>
+				<line talk="p">Okay. Just making sure.</line>
+				<line talk="n">Aren't teachers supposed to be more pushy on these things? Or at least take a hint?</line>
+				<line talk="p">I guess I fail as a teacher then.</line>
+			</choice>
+			<choice trigger="10">
+				<line talk="p">Did you fail a test or something?</line>
+				<line talk="n">Whoa, you psychic or something? How'd you know?</line>
+				<line talk="p">It was meant to be a joke. I thought you didn't care much for school.</line>
+				<line talk="n">Well, you know my mother's been bugging me about my grades. The only class I'm passing is art, and that's because you're the only teacher I can stand. The rest despise my slow learning. Anyway, my mother has said if I don't improve, she'll ship me out of Naibu to some other school. I don't want to go there; I like it here in Mourilyan.</line>
+				<line talk="p">So you decided to study hard in every class?</line>
+				<line talk="n">Yeah, and it worked out for all of my classes except Ms. Q's class. She really hates my guts. She gave me a 67%, but I really got a high B. I can't believe her! I studied so much history too.</line>
+				<line talk="p">You have any proof of that? I know Eira to be difficult some times, but I can't believe she'd do that.</line>
+				<line talk="n">She told me to my face. Said she didn't bother grading mine cause she knew I'm a D student. I tried to explain that to my mother, but she thinks I'm lying. Now I'm going to have to move in two months.</line>
+				<line talk="p">No! I won't allow one of my better pupils to move! I'll see if I can work my social magic on her to get her to change her mind. I'm sure I can do it.</line>
+				<line talk="n">It'd mean everything to me. Thanks, Ms. S.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="10">
+		<line talk="n">Did you talk to Ms. Q for me?</line>
+		<line talk="p">Not yet. When I get a chance, I will.</line>
+		<line talk="n">You're the best, Ms. S.</line>
+	</converse>
+	<converse after="11" trigger="12">
+		<line talk="n">Did you talk to Ms. Q for me?</line>
+		<line talk="p">I couldn't convince her. She's too biased toward your past grades.</line>
+		<line talk="n">Well, thanks for the effort, Ms. S. If you can't do it, nobody can.</line>
+		<line talk="n">Sigh...I guess I'm moving, then.</line>
+		<line talk="p">I'm sorry. I know you're not lying and if I could, I would change your grade since I know you put in the effort.</line>
+	</converse>
+	<converse after="12">
+		<line talk="n">You sure you can't do anymore?</line>
+		<line talk="p">I've tried everything I can. Eira keeps her computer with her at all times, so I can't sneak in and change the grade that way.</line>
+		<line talk="p">If only I knew how to hack into the school system, I could change your grade so that you don't have to move.</line>
+		<line talk="n">Hah! I know you're an art genius, but you don't know squat when it comes to computers.</line>
+		<line talk="p">(Do I know anyone who is good with computers? Oh, wait...)</line>
+	</converse>
+	<converse after="18" orb="1">
+		<line talk="p">Have you checked PowerSchool™ lately?</line>
+		<line talk="n">Nah, there's no reason to.</line>
+		<line talk="p">I think you might want to check it again.</line>
+		<line talk="n">...No way! There's a second test grade where I got an A! Did you really do this for me, Ms. S?</line>
+		<line talk="p">Yes, with a little help from a hacker genius, corporation CEO, and an overeager student. I just couldn't stand around as one of my best and brightest students left me.</line>
+		<line talk="n">I am ecstatic! But, won't you get in trouble for this?</line>
+		<line talk="p">The hacker put the test grade in for everybody, making sure it wouldn't affect anyone's average but yours and I'm pretty sure he's untraceable. There won't be any problems. Take that, Eira!</line>
+		<line talk="n">I can't thank you enough! I'm going to paint you the best picture I've done yet, and gift it to you. You really are the best. Thank you!</line>
+	</converse>
+	<converse aorb="1">
+		<choices>
+			<choice>
+				<line talk="p">How's that painting coming?</line>
+				<line talk="n">It's taking me a while, but I won't give up on it. Just like you didn't give up on letting me leave.</line>
+				<line talk="p">I can't wait to see it!</line>
+			</choice>
+			<choice>
+				<line talk="p">How are things going now?</line>
+				<line talk="n">Life is good, Ms. S. I've told my friends that I'll be staying and we're having a party to celebrate. I get to stay in the town I love so much. And best of all, I get to see Ms. Q.'s irritated face every day as I improve in her class. It couldn't be better.</line>
+				<line talk="p">I'm happy for you, Edwin.</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

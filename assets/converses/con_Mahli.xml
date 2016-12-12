@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">I've seen paupers as kings, puppets on strings, dance for the children who stare. You must have seen them everywhere.</line>
+			</random>
+			<random>
+				<line talk="n">Heretic Priestess dwells on the weakness she sees. Fortune Teller, future seller, mystical powers emerge from the towers. Tortured spirits cry, fear is in their eyes, ghostly images die.</line>
+			</random>
+			<random>
+				<line talk="n">Have a cup of tea, have another one, have a cup of tea! If you want to know about love you can ask the wee geezer. He can teach you telepathy, he can read your mind backwards.</line>
+			</random>
+		</randoms>
+		<line talk="p">(Someone's had a bit too much to drink.)</line>
+	</converse>
+	<converse after="32" trigger="37">
+		<line talk="n">Uuuuuuuuuuuuuuuuuuuhhhhhhhhhh! I need another drink...</line>
+		<line talk="p">I think you've had quite enough already.</line>
+		<line talk="n">No! I need more! Get me more!</line>
+	</converse>
+	<converse after="37">
+		<choices>
+			<choice>
+				<line talk="p">What do you drink?</line>
+				<line talk="n">Bob Billson's hard whiskey. None of that light stuff they sell at bars! I'm talking the kind you can only get in under the table deals at the casino! Whoops, shouldn't have said that...</line>
+			</choice>
+			<choice>
+				<line talk="p">Can you help me with something?</line>
+				<line talk="n">I can't do anything if I'm not drunk!</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse item="11" take="11" trigger="40">
+		<line talk="p">I found some--</line>
+		<line talk="n">Give it here! Glug, glug, glug. Hah!</line>
+		<line talk="n">Oooooh!</line>
+		<line talk="n">...Now you're here and now you're gone. Now you're back where you belong. Meet the wizard of the keys and he'll reveal the mysteries. Of Angels' Eggs and Octave Doctors, Radio Gnome and Love Projectors. Then he'll point up in the sky, you will see the Teapots flying down the Oily Way...</line>
+		<line talk="p">This was not a good idea. Can you hear me?</line>
+		<line talk="n">Oh, if I understood. Passing by so easily I'd reach you if I could.</line>
+		<line talk="p">I'll take that as a yes. Since I did you a favor, can you help me with a robbery?</line>
+		<line talk="n">Who would believe me now that my hands are free, that my hands are free? Now my hands are free from the ties, from the ties. Now I look forward to the future, where it lies. Here, now my head is clear, why should I look back?</line>
+		<line talk="p">Cool, thanks for your cooperation.</line>
+	</converse>
+	<converse after="40">
+		<randoms>
+			<random>
+				<line talk="n">A great shining eye suspended in space shot rays through my face. Suddenly I saw everything there is to see and I was that eye! Sudden thoughts of ecstasy were horrible, I saw it all, I felt it all, I lived it all, I was afraid!</line>
+			</random>
+			<random>
+				<line talk="n">MacArthur's Park is melting in the dark. All the sweet, green icing flowing down. Someone left the cake out in the rain. I don't think that I can take it because it took so long to bake it. And I'll never have that recipe again!</line>
+			</random>
+			<random>
+				<line talk="n">Albert is smart, he's a genius! Someday he will reassess the world, and he'll still have time for lots of girls. All of the while he'll be scribbling things, genius things! Look at Albert isn't he a sight, growing, growing at the speed of light.</line>
+			</random>
+			<random>
+				<line talk="n">Long came Wild Billy with his fancy friend. Said, "anybody wanta go on up to Greasy Lake?" It's about a mile down on the dark side of Route 88. I got a bottle of Rose, so let's try it. Threw light on and Billy and Davy dancin' in the moonlight. Said, "try some of this, it'll show you where you're at or at least it'll help you feel it."</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

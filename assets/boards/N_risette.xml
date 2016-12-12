@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><board>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>38</tile><tile>57</tile><tile>55</tile><tile>55</tile><tile blocked="ooob">55</tile><tile blocked="ooob">55</tile><tile>55</tile><tile blocked="ooob">55</tile><tile blocked="ooob">40</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>88</tile><tile>267</tile><tile blocked="oboo">32</tile><tile>179</tile><tile fore="2">268</tile><tile blocked="bbbb">205</tile><tile>222</tile><tile blocked="oboo" fore="5">46</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>47</tile><tile>135</tile><tile>24</tile><tile blocked="obob">316</tile><tile>210</tile><tile fore="0">268</tile><tile fore="6">327</tile><tile blocked="bbbb">232</tile><tile blocked="oboo" fore="9">128</tile><tile blocked="ooob">55</tile><tile blocked="ooob">55</tile><tile>40</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>47</tile><tile>135</tile><tile>22</tile><tile blocked="obob">316</tile><tile>210</tile><tile>110</tile><tile fore="1">242</tile><tile blocked="bbbb">203</tile><tile>221</tile><tile>283</tile><tile>235</tile><tile>111</tile><tile blocked="obbo" fore="9">78</tile><tile>40</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>102</tile><tile>293</tile><tile blocked="oboo">32</tile><tile>176</tile><tile>323</tile><tile>301</tile><tile>312</tile><tile>242</tile><tile>266</tile><tile>235</tile><tile>116</tile><tile>323</tile><tile>301</tile><tile blocked="obbo" fore="5">46</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>102</tile><tile>194</tile><tile>142</tile><tile blocked="oobb">190</tile><tile blocked="oobb">35</tile><tile blocked="obbb">309</tile><tile>255</tile><tile>110</tile><tile>111</tile><tile>111</tile><tile fore="7">153</tile><tile blocked="bbbb">35</tile><tile blocked="bbbb">309</tile><tile blocked="oboo" fore="5">46</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>102</tile><tile>194</tile><tile blocked="oboo">143</tile><tile>156</tile><tile>298</tile><tile>302</tile><tile>311</tile><tile>110</tile><tile>111</tile><tile>111</tile><tile>115</tile><tile>298</tile><tile>302</tile><tile blocked="oboo" fore="5">46</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>102</tile><tile>293</tile><tile>32</tile><tile blocked="obbo">179</tile><tile>104</tile><tile>110</tile><tile>111</tile><tile>110</tile><tile>111</tile><tile>111</tile><tile>110</tile><tile>111</tile><tile>110</tile><tile blocked="obob" fore="5">46</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>48</tile><tile>131</tile><tile>23</tile><tile blocked="oboo">317</tile><tile>215</tile><tile>110</tile><tile>111</tile><tile>110</tile><tile>111</tile><tile>111</tile><tile blocked="booo">274</tile><tile blocked="booo">274</tile><tile fore="8">76</tile><tile blocked="booo">41</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>48</tile><tile>131</tile><tile>25</tile><tile blocked="obbo">317</tile><tile>215</tile><tile>111</tile><tile>110</tile><tile>111</tile><tile blocked="oboo" fore="8">76</tile><tile blocked="oobo">56</tile><tile blocked="oobo">56</tile><tile blocked="oobo">41</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>101</tile><tile>218</tile><tile>147</tile><tile blocked="obbo">149</tile><tile>151</tile><tile>110</tile><tile>111</tile><tile blocked="oboo" fore="5">46</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>102</tile><tile>217</tile><tile>148</tile><tile blocked="oboo">157</tile><tile>139</tile><tile>110</tile><tile>111</tile><tile blocked="oboo" fore="5">46</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>102</tile><tile>19</tile><tile>32</tile><tile blocked="oboo">282</tile><tile>121</tile><tile>110</tile><tile>111</tile><tile blocked="oboo" fore="5">46</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>102</tile><tile>293</tile><tile>310</tile><tile blocked="oboo">303</tile><tile>107</tile><tile>110</tile><tile>111</tile><tile blocked="oboo" fore="4">63</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>102</tile><tile>293</tile><tile>32</tile><tile blocked="oboo">280</tile><tile>105</tile><tile>110</tile><tile>111</tile><tile>332</tile><tile bid="N_nulato.xml" blocked="obbb" face="1" fore="5" spid="1">46</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>102</tile><tile>19</tile><tile>32</tile><tile blocked="oboo">213</tile><tile>122</tile><tile>110</tile><tile>111</tile><tile blocked="oboo" fore="3">64</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>89</tile><tile>248</tile><tile>32</tile><tile blocked="oboo">259</tile><tile>192</tile><tile>110</tile><tile>111</tile><tile blocked="oboo" fore="5">46</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>39</tile><tile>58</tile><tile>56</tile><tile>56</tile><tile>56</tile><tile blocked="oobo">56</tile><tile blocked="oobo">56</tile><tile blocked="oobo">56</tile><tile blocked="oobo">41</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<tile_set>7</tile_set>
+<music>nulato</music>
+<start_pos>
+	<x>18</x>
+	<y>13</y>
+</start_pos>
+<NPC>
+	<name>Risette</name>
+	<start_pos>
+		<x>8</x>
+		<y>11</y>
+	</start_pos>
+	<limit_point>
+		<x>11</x>
+		<y>13</y>
+	</limit_point>
+</NPC>
+<NPC>
+	<name>Man</name>
+	<c_alias>generic/con_risCh</c_alias>
+	<s_alias>_generic/boy</s_alias>
+	<start_pos>
+		<x>11</x>
+		<y>9</y>
+	</start_pos>
+	<limit_point>
+		<x>13</x>
+		<y>10</y>
+	</limit_point>
+</NPC>
+<NPC>
+	<name>Tanvir</name>
+	<pres after="60">INVERTED</pres>
+	<start_pos>
+		<x>18</x>
+		<y>11</y>
+	</start_pos>
+	<limit_point>
+		<x>20</x>
+		<y>12</y>
+	</limit_point>
+</NPC>
+</board>

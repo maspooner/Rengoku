@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Welcome! You want to stay the night?</line>
+				<line talk="p">I'm all set.</line>
+				<line talk="n">Okay...</line>
+			</random>
+			<random>
+				<line talk="n">Business is slow for some reason.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

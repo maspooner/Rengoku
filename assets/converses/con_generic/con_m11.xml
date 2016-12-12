@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">What band do you listen to? I want some new material.</line>
+				<line talk="p">I listen to a local artist named Kalliope. She's got a really beautiful voice.</line>
+				<line talk="n">Hmm. I'll give her a try sometime.</line>
+			</random>
+			<random>
+				<line talk="n">I love listening to music! One of my favorite bands is Emerson Lake and Palmer.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

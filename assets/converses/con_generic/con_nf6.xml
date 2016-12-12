@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">I'm out here doing research for a game I'm developing. It's going to be a Metriodvania style in an open world.</line>
+				<line talk="p">Sounds great!</line>
+				<line talk="n">Yeah. The only problem is time. Games take forever to make. Like over two years for your average game.</line>
+			</random>
+			<random>
+				<line talk="n">What's your favorite game?</line>
+				<line talk="p">Well, I like RPG games. If I had to pick, I'd pick the first Professor Layton game, as it blends puzzles and story perfectly.</line>
+				<line talk="n">Good choice. I personally love Final Fantasy 6.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

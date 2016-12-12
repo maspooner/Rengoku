@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Books expand the mind and build a temple of knowledge in your brain.</line>
+				<line talk="p">You should become a writer. You've got the diction down.</line>
+			</random>
+			<random>
+				<line talk="p">Favorite genre?</line>
+				<line talk="n">I love reading mystery novels. It really gets your brain to think critically and question everyone's motive.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

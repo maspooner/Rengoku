@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">You've got some real courage talking to me. You want to get robbed? Don't let my old appearance fool you. I'm really strong.</line>
+			</random>
+			<random>
+				<line talk="n">Want to take a bet? It's really good odds for you.</line>
+				<line talk="p">No thanks.</line>
+				<line talk="n">Did you just say no? Tell me I heard incorrectly.</line>
+			</random>
+		</randoms>
+		<line talk="p">I'll get going.</line>
+	</converse>
+</conversations>

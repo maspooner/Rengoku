@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">This place looks so cool! So gothic!</line>
+			</random>
+			<random>
+				<line talk="n">I'm paying big money to make a party reservation for the next performance.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

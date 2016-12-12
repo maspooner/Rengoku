@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse trigger="30">
+		<line talk="p">Hey, Adelaide! How are you holding up?</line>
+		<line talk="n">It's been rough. I can't believe we'd been robbed! I thought we chose a town with a low crime rate when we decided to buy a home in Nulato.</line>
+		<line talk="p">And they managed to steal all the furniture too.</line>
+		<line talk="n">Yeah! That stuff was worth a fortune. We're slowly buying it all back, but it's taking a while. And some things just can't be bought back...</line>
+		<line talk="p">No! They didn't steal the good luck charm your father gave you, did they?</line>
+		<line talk="n">The one day I forgot to bring it, was the day of the robbery. That charm was really important to me. The only memory I have of my father is him giving this to me before he left this planet.</line>
+		<line talk="p">If I could, I would track them down and steal it back.</line>
+		<line talk="n">Would you be able to pull that off? I mean, it was probably professional thieves if no one in town saw them.</line>
+		<line talk="p">Adelaide, you're my best friend. I would tackle any obstacle to make you happy. Even if I have to become a professional thief.</line>
+		<line talk="n">You go become a thief then.</line>
+	</converse>
+	<converse after="30">
+		<choices>
+			<choice>
+				<line talk="p">Do you know who the culprit is?</line>
+				<line talk="n">I have no proof, but there are rumors of there being a large gang industry in Fujita. I've never been there myself; it's too sketchy of a place for me. But if anyone were to pull off stealing everything from my house, it's probably someone from there.</line>
+			</choice>
+			<choice>
+				<line talk="p">Why don't you stay at my house for the time being? I'm sure my mother wouldn't mind.</line>
+				<line talk="n">Oh, that's alright. I wouldn't want to intrude. Besides, I don't think you have enough room there. It can barely fit your whole family already.</line>
+				<line talk="p">Wow, I make a generous offer and I am repaid in sass? What kind of world is this?</line>
+				<line talk="n">Certainly not one you are from.</line>
+			</choice>
+			<choice>
+				<line talk="p">So, the latest gossip...</line>
+				<line talk="n">Well, you know how Brad was going out with Natasha, right? It turns out that Natasha was going out with Chad at the same time!</line>
+				<line talk="p">How scandalous! It's just like Natasha, too. I swear, she...</line>
+				<line talk="TIME">[A half an hour later...]</line>
+				<line talk="p">...don't you DARE talk about Jessica like that! ...</line>
+				<line talk="TIME">[Another half an hour later...]</line>
+				<line talk="n">...and that's why I don't like those lemon cookies they sell at the mall.</line>
+				<line talk="p">I see how it is. You traitor!</line>
+				<line talk="p">...Wow, look at the time. I've got to get going.</line>
+				<line talk="n">It was good talking with you!</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse item="12" take="12" orb="3">
+		<line talk="p">Guess what I've got?</line>
+		<line talk="n">A membership into the gang industry?</line>
+		<line talk="p">Actually, yes. Well, not anymore. I've done something to them they'll never forgive me for. But more importantly, I've found your charm.</line>
+		<line talk="n">......Whoa. Whoa. WHOA! I can't believe you! You did something like that for me? Far out! You don't know how much this means to me.</line>
+		<line talk="p">Whoa, don't cry. I'm happy to do anything for you, Adelaide.</line>
+	</converse>
+	<converse aorb="3">
+		<choices>
+			<choice>
+				<line talk="p">How much more furniture do you have to buy back?</line>
+				<line talk="n">We're still missing some dressers, crates, and a table, which we should earn back in about a month or two.</line>
+				<line talk="p">Do you eat on the floor?</line>
+				<line talk="n">Yes.</line>
+				<line talk="p">Oh.</line>
+			</choice>
+			<choice>
+				<line talk="p">That charm was cute.</line>
+				<line talk="n">I know, right! It's so kawaii! And it works, too. Just yesterday, I found a note worth #10 just lying in the street.</line>
+				<line talk="p">You lucky mustard.</line>
+				<line talk="n">Emere! Watch your language, there are children present.</line>
+				<line talk="p">Oh, sorry. I should be careful around you.</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

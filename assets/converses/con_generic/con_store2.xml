@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Hmm. What should I buy for dinner tonight?</line>
+			</random>
+			<random>
+				<line talk="n">This store sells everything!</line>
+			</random>
+			<random>
+				<line talk="n">I'll buy this, and this, oh and maybe that!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

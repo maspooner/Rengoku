@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">If you look at the crime industry here in Fujita, you'll see and industry as prosperous as agriculture or construction in another city. That's crazy.</line>
+			</random>
+			<random>
+				<line talk="n">When's the next operation? I'm running out of money for food.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

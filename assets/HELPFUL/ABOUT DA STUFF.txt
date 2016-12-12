@@ -1,0 +1,16 @@
+Rengoku started out as a side project in late Spring 2014. It was titled "TileGame" and it was something I would work on when I had a chance. During that summer, I finished the core game movement and camera. It was then when I decided that I would develop this project for my sister's birthday (in about 10 months). I knew writing, designing, and adding graphics to this game would be both a challenge and a time consumer, but 10 months seemed like a reasonable deadline. I started to plan out the story and write the majority of the code by the time winter was upon me. From there, I began the very lengthy process of writing and designing all of the game's assets. At the time of writing this, I still have yet to finish 2 routes of the story (I have two weeks!). The hardest part about development is the time restriction, and having other commitments (AP exams, SAT, BC independent study, tennis). But, what keeps me going is the dream of a completed, polished product that I can present to my sister so that she has a wonderful birthday. Enjoy the game! -Matt
+
+Project Stats:
+Developed by Matt Spooner
+Date created: Mar 24, 2014
+Last modified: May 3, 2015
+Timelogged: 603 hours (25.1 days)
+Lines of Code:
+Lines of Story:
+Tiles placed:
+
+Credits:
+Final Fantasy 6 (music, sprites)
+Chrono Trigger (music)
+
+

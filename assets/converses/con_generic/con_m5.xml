@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Ah, another fine day in Mourilyan.</line>
+			</random>
+			<random>
+				<line talk="n">Raisins!</line>
+				<line talk="p">Hello to you too.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

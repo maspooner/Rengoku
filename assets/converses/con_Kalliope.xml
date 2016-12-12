@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Hey, Kalliope. How's it going?</line>
+		<line talk="n">Hiya!</line>
+		<choices>
+			<choice>
+				<line talk="p">You selling a lot of music?</line>
+				<line talk="n">Not enough to quit my part time job, but enough to make me feel as though I am having an impact on the world.</line>
+				<line talk="p">It must be a great feeling to have loving fans who await hearing more of your beautiful voice, including me.</line>
+				<line talk="n">It sure is!</line>
+			</choice>
+			<choice>
+				<line talk="p">You write any new songs recently?</line>
+				<line talk="n">I've just recently composed a new CD full of songs. You want to give one a listen? I'll perform part of one live for you.</line>
+				<line talk="p">Sure!</line>
+				<choices>
+					<choice>
+						<line talk="p">Kings and Queens.</line>
+						<line talk="n">The kings and queens are running wild, lonely for each other. Princes gallant, are no more staying under cover. Jesters' jokes aren't even funny, poking fun at sorrow. Lords and ladies hoard their riches fearful for tomorrow.</line>
+					</choice>
+					<choice>
+						<line talk="p">Mr. Pine.</line>
+						<line talk="n">Oh, Mr. Pine doesn't wait till after nine. There's not a friend he's had to buy. Keeps his head above the sky. Ain't got much, and he don't ask why.</line>
+					</choice>
+					<choice>
+						<line talk="p">Mother Russia.</line>
+						<line talk="n">Pays the price, works the seasons through. Frozen days, he thinks of you. Cold as ice, but he burns for you. Mother Russia, can't you hear him too?</line>
+					</choice>
+				</choices>
+				<line talk="p">Your music always is so deep in meaning. I love it!</line>
+			</choice>
+			<choice>
+				<line talk="p">I just adore your music.</line>
+				<line talk="n">Emere, you've said that at least 30 times already. I get it.</line>
+				<line talk="p">Words can't describe how perfect your music is. It conveys every thought and idea ever conceived on this planet.</line>
+				<line talk="n">I just try my best to create unique music with unusual tempos to spice up the music world.</line>
+				<line talk="p">Well, you're doing a fabulous job.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse item="27" take="27" get="28">
+		<line talk="p">Hey, can you help me out?</line>
+		<line talk="n">Sure, anything for my good friend.</line>
+		<line talk="p">Can I record you singing a song I have? It's a beautiful song that I want to hear sung in your voice.</line>
+		<line talk="n">Sure...These lyrics seem like something I would write. Huh. Anyway, I've got recording equipment here and a CD you can use.</line>
+		<line talk="p">Excellent! Thanks.</line>
+		<line talk="n">Here goes nothing.</line>
+		<line talk="n">Tried to take it all away. Learn her freedom just inside a day. And find her soul. To find their fears allayed.</line>
+		<line talk="n">Sleeping dreams will reach for her. She cannot say the words they need. She knows she's alone. And she is free.</line>
+		<line talk="n">Then she met a hollow soul. Filled him with her light. And was consoled she was the moon. And he, the sun was gold.</line>
+		<line talk="p">That sounded amazing! Thank you!</line>
+		<line talk="n">It was nothing.</line>
+	</converse>
+</conversations>

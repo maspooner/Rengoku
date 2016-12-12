@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="p">What's with the turban?</line>
+				<line talk="n">It's a custom of Ginga. Part of our religion, see. Can't show anything but our faces at all times when others are around.</line>
+				<line talk="p">Huh.</line>
+			</random>
+			<random>
+				<line talk="p">What's so good about Ginga?</line>
+				<line talk="n">We were blessed with all the good land a country could get. Beautiful trees, wonderful canyons, waterfalls, and more. It's really nice.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

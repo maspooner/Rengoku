@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">I'm here to buy some gadgets. They just don't sell stuff like this in Yarl!</line>
+				<line talk="p">Yeah, they're pretty primitive. I see you eyeing the latest smartphone from Lemon.</line>
+				<line talk="n">I would buy it, but I have no idea how to use it.</line>
+			</random>
+			<random>
+				<line talk="n">Man, it's nice to have a break from the military. Even if it's just for an hour.</line>
+				<line talk="p">Yeah, it must be hard having no free time.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

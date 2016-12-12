@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">I'm a news reporter for a local paper. Can I ask you a question?</line>
+		<randoms>
+			<random>
+				<line talk="n">Why does your family live in the town it does?</line>
+				<line talk="p">We chose Mourilyan because the community seemed really open and kind.</line>
+			</random>
+			<random>
+				<line talk="n">What's your favorite place to hang out?</line>
+				<line talk="p">I really like sitting in the cave that's between Mourilyan and Nulato. It's really relaxing in there.</line>
+			</random>
+		</randoms>
+		<line talk="n">Thank you for your time!</line>
+	</converse>
+</conversations>

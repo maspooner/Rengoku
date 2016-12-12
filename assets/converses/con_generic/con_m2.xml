@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">There's quite a party going on in the mansion. I can't wait to go inside.</line>
+			</random>
+			<random>
+				<line talk="n">I've got to fix my hair before I go inside the mansion. Looks are everything with rich people.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

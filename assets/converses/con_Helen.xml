@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Hey, Helen. How's life been?</line>
+		<line talk="n">Howdy, Emere! It's been going swell. My boy been giving you any trouble?</line>
+		<line talk="p">He's just fine. One of my better students.</line>
+		<line talk="n">My Edwin just loves your class. Can't stop making art.</line>
+		<line talk="p">He's got a real passion, I tell you. He'll make it big in the art world.</line>
+	</converse>
+	<converse after="10">
+		<randoms>
+			<random>
+				<line talk="p">You really sending Edwin away?</line>
+				<line talk="n">He's got to learn there're consequences for every action. He doesn't do well, he needs a different environment. It's a bit more expensive to move to Ginga, but we'll manage.</line>
+				<line talk="p">Understandable. (But very radical...)</line>
+			</random>
+			<random>
+				<line talk="p">Do you believe Eira's messing with Edwin's grades?</line>
+				<line talk="n">No! I'd never doubt the integrity of any teacher! They've good moral standards, ya know? It's just a lie Edwin made to convince me to let him stay.</line>
+				<line talk="p">Understandable. (But very untrusting...)</line>
+			</random>
+			<random>
+				<line talk="p">Why move Edwin if he's doing better in his other classes?</line>
+				<line talk="n">Well, ya know he doesn't really connect with any other teacher besides ya. I want him to be successful in all subjects.</line>
+				<line talk="p">Understandable. (But very extreme...)</line>
+			</random>
+		</randoms>
+	</converse>
+	<converse after="18">
+		<line talk="n">Edwin says he wants to speak with ya.</line>
+	</converse>
+	<converse aorb="1">
+		<line talk="p">It looks like Edwin recovered his grade at the last minute.</line>
+		<line talk="n">I'm speechless, ya know? I didn't know he had it in him. Well, I guess we can stay here now. Edwin likes it here too.</line>
+		<line talk="p">He's got determination when a subject is important to him. He'll do great in whatever he decides to do.</line>
+		<line talk="n">Ah, you're just saying that.</line>
+	</converse>
+</conversations>

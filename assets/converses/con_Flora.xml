@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse trigger = "4">
+		<line talk="p">Hey, Mom.</line>
+		<randoms>
+			<random>
+				<line talk="n">Good morning, Sweetums!</line>
+				<line talk="p">Do me a favor and never call me that again.</line>
+				<line talk="n">Aww, okay. Grab some food while you are here.</line>
+				<line talk="p">Will do. Thank you!</line>
+			</random>
+			<random>
+				<line talk="n">Good morning, Emere! You're finally awake. I didn't want to wake you up on a weekend.</line>
+				<line talk="p">I'm glad you are considerate of my sleeping habits.</line>
+				<line talk="n">Well, it's kind of hard to wake you up at a reasonable time when you stay up until 1:00 AM every evening - sorry, morning.</line>
+				<line talk="p">Well, EXCUUUUUUSE ME!</line>
+				<line talk="n">I didn't know I raised a comedian.</line>
+			</random>
+		</randoms>
+		<line talk="n">...</line>
+		<line talk="p">You need something?</line>
+		<line talk="n">Do you mind seeing how Kanna is doing? You know about today.</line>
+		<line talk="p">Oh... I guess.</line>
+	</converse>
+	<converse trigger="1" after="0,4">
+		<line talk="n">Well? How is she?</line>
+		<line talk="p">She seems fine, I don't think she remembers.</line>
+		<line talk="n">Good. No need to worry her.</line>
+		<line talk="n">Just in case, can you find something to cheer her up? I don't want to see her like she was last time.</line>
+		<choices>
+			<choice>
+				<line talk="p">Why don't you do it yourself?</line>
+				<line talk="n">She'd appreciate it more if it was you. You don't want to help your sister? You heartless sibling.</line>
+				<line talk="p">It was just a question! Of course I'll help her.</line>
+			</choice>
+			<choice>
+				<line talk="p">I'd do anything for my sister.</line>
+				<line talk="n">As you should, if you are a nice sister.</line>
+				<line talk="p">Hey now. Play nice. What do you think I should do for her?</line>
+			</choice>
+		</choices>
+		<line talk="n">You should ask her for something she wants.</line>
+		<line talk="p">Sounds easy enough.</line>
+	</converse>
+	<converse after="1">
+		<line talk="n">Go on! Talk to Kanna.</line>
+	</converse>
+	<converse after="2">
+		<line talk="p">She says she wants some candy from some elder. Know any clues?</line>
+		<line talk="n">That's an obscure request. I have no idea, sorry.</line>
+		<line talk="p">I know, right! (That's creepy... She said the same thing I did...)</line>
+		<line talk="n">There's old people everywhere, they all give out candy. You'll have to ask around.</line>
+	</converse>
+	<converse after="3">
+		<line talk="p">I've found an old lady who seems down. Have you heard of the name Nakamura?</line>
+		<line talk="n">It sounds familiar... Ah! I believe she used to work as a confectioner who traveled town to town selling sweets with her husband. She retired just recently.</line>
+		<line talk="p">Her husband was murdered by thugs.</line>
+		<line talk="n">How tragic!</line>
+	</converse>
+	<converse after="5">
+		<line talk="p">I've found something to make Nakamura happy, but I need a lot of money. Any chance I could get a raise on my allowance?</line>
+		<line talk="n">Not a chance! You know how hard it's been after... he died.</line>
+		<line talk="p">I know, I know, but in order to get something Kanna wants, I need to make a trade at the pawnshop.</line>
+		<line talk="n">Well, you came to the wrong person to ask for money. Try asking our neighbors, they might help.</line>
+		<line talk="p">(I'll be sure to skip next-door.)</line>
+	</converse>
+	<converse item="2">
+		<line talk="n">I'm busy right now, Emere. Can we talk another time?</line>
+	</converse>
+	<converse item="1">
+		<line talk="n">I'm busy right now, Emere. Can we talk another time?</line>
+	</converse>
+	<converse item="0">
+		<line talk="n">You've found something, I assume?</line>
+		<line talk="p">Yes! I got some candy from Nakamura in Fujita.</line>
+		<line talk="n">Candy, huh. I guess it works.</line>
+		<line talk="p">Just you wait and see. She'll love it.</line>
+		<line talk="n">Huh-huuh.</line>
+	</converse>
+	<converse aorb="0">
+		<line talk="n">Well, I'll be. Kanna seems happier than ever. You did a great job!</line>
+		<line talk="p">It was quite the journey. I'm just glad I could cheer her up, though.</line>
+		<line talk="n">You really are a great sibling and daughter.</line>
+		<line talk="p">And you are a great mother (Except for your overdose of sass).</line>
+		<line talk="n">You thinking something?</line>
+		<line talk="p">No, nothing. (she knows me too well.)</line>
+	</converse>
+</conversations>

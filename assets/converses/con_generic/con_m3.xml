@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">I should really wear shoes. The rocks are burning my feet!</line>
+			</random>
+			<random>
+				<line talk="n">Most people don't say much. They've only got about one or two things on their minds. Poor souls.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse trigger="0">
+		<line talk="p">Hello, Kanna.</line>
+		<randoms>
+			<random>
+				<line talk="n">Good Morning, Sis! You sleep well?</line>
+				<choices>
+					<choice>
+						<line talk="p">Yes, I slept wonderfully.</line>
+						<line talk="n">You sure did! It's 10:00! I thought you would never get up!</line>
+						<line talk="p">I need my beauty sleep, Kanna.</line>
+					</choice>
+					<choice>
+						<line talk="p">No, I had this weird dream last night.</line>
+						<line talk="n">About what, our creepy neighbor?</line>
+						<line talk="p">I said a weird dream, not a nightmare. It probably has some cryptic meaning into my future.</line>
+						<line talk="n">Maybe you shouldn't eat pizza before going to bed.</line>
+					</choice>
+				</choices>
+			</random>
+			<random>
+				<line talk="n">Hey, Sis! You're just in time for lunch. Today it's curry! My favorite!</line>
+				<line talk="p">We eat curry too often because of you.</line>
+				<line talk="n">Aww come on, Sis. It's only the third time this week!</line>
+			</random>
+			<random>
+				<line talk="n">Sis! How's it going?</line>
+				<line talk="p">I'm good. You're always so lively in the mornings.</line>
+				<line talk="n">Must be because of all the sugar I eat!</line>
+			</random>
+		</randoms>
+	</converse>
+	<converse after="1">
+		<line talk="p">You have anything you want, Kanna?</line>
+		<line talk="n">What do you mean, Sis?</line>
+		<choices>
+			<choice>
+				<line talk="p">Do you want to travel to anywhere?</line>
+				<line talk="n">Sis, what kind of question is that? You know I want to go to Japan!</line>
+			</choice>
+			<choice trigger="2">
+				<line talk="p">Any new food you want to try?</line>
+				<line talk="n">Hmm...</line>
+				<line talk="n">Well, there is a candy I saw last month that looks so cool! An old lady was giving some to her grandson when I passed by. I wanted to try some, but I haven't been able to find it anywhere else for months.</line>
+				<line talk="p">(What an obscure request...) You got it! I'll find it for you.</line>
+				<line talk="n">I'll be surprised if you find it, Sis.</line>
+			</choice>
+			<choice>
+				<line talk="p">I mean anything at all that you desire.</line>
+				<line talk="n">Then I'd like a TV, a pony, a spaceship, a--</line>
+				<line talk="p">Okay, okay! Never mind.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="2">
+		<line talk="p">Hey, Kanna...</line>
+		<choices>
+			<choice>
+				<line talk="p">Do you remember what today is?</line>
+				<line talk="n">I do... I don't want to though.</line>
+				<line talk="p">Sorry I brought it up.</line>
+			</choice>
+			<choice>
+				<line talk="p">What was it you said you wanted again?</line>
+				<line talk="n">You've forgotten already? Wow, Sis. Wow. I wanted some candy that an old lady had. I don't know the details of where she is or if she even has anymore.</line>
+				<line talk="p">I'll beat the odds and find it.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse item="0" orb="0" take="0">
+		<line talk="p">Mrs. Nakamura gave me some of the candy you wanted. It's called konpeito. Try some.</line>
+		<line talk="n">Whoa! Just as cool as I remembered it! I'll try some...</line>
+		<line talk="n">...</line>
+		<line talk="p">Well? Go on, say something.</line>
+		<line talk="n"> IT'S SOOOOOOOOO GOOOOOOOOOOOOOD!!!!!! I've never tasted a sweet this good! Thanks, Sis!</line>
+		<line talk="p">(So loud!) No problem, Kanna. Make sure you thank Mrs. Nakamura.</line>
+		<line talk="n">Don't you worry. I'll be over there every day of the week now to eat this stuff! We'll become best buds!</line>
+		<line talk="p">That's great to hear. She needs some cheering up. Be nice to her.</line>
+		<line talk="n">You betcha, Sis!</line>
+	</converse>
+	<converse aorb="0">
+		<choices>
+			<choice>
+				<line talk="p">Guess who I met this morning?</line>
+				<line talk="n">Mrs. Nakamura?! Did you get more konpeito? You gotta share some, Sis!</line>
+				<line talk="p">You've got to calm down. You've had that candy nonstop on your mind ever since I gave you some.</line>
+				<line talk="p">I visited Dad.</line>
+				<line talk="n">Oh, okay...</line>
+			</choice>
+			<choice>
+				<line talk="p">Still recovering from that candy?</line>
+				<line talk="n">I'll never fully recover! It was just that great! Now I want to go to Japan even more!</line>
+				<line talk="p">And do what?</line>
+				<line talk="n">Eat all kinds of food and learn about their culture! I love everything Japanese! I want to be Japanese when I grow up!</line>
+				<line talk="p">...I don't think that's how it works.</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

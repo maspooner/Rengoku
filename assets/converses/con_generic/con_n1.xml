@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Hey, old sport. You want to fly on my seaplane sometime?</line>
+				<line talk="p">There isn't a body of water that large nearby.</line>
+				<line talk="n">It's in Ginga, old sport.</line>
+				<line talk="p">I don't have a passport so I can't go.</line>
+			</random>
+			<random>
+				<line talk="n">You want to come to one of my parties sometime, old sport?</line>
+				<line talk="p">I'm not too much of a partier.</line>
+				<line talk="n">That's a real shame, old sport.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

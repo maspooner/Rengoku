@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Help me!</line>
+		<line talk="p">Whoa, did I just hear you talk?</line>
+		<line talk="n">Yes, you heard correctly. I've been trying to get the attention of someone for a whole week and you're the only one who was able to hear me! The others thought I was just a noisy dog.</line>
+		<line talk="p">That's strange. But anyways, what do you need help with?</line>
+		<line talk="n">I'm a dog!</line>
+		<line talk="p">And?</line>
+		<line talk="n">I wasn't always a dog! I need your help transforming me back into a human. You're the only one who can help me! Please!</line>
+		<choices>
+			<choice trigger="61">
+				<line talk="p">Of course I'll help!</line>
+				<line talk="n">Really? Thank you!</line>
+				<line talk="p">But how do I transform you back?</line>
+				<line talk="n">I have no idea. I've been searching for that answer, but it's hard to do as a dog. I'll tell you how I ended up like this so you can maybe draw some clues from it.</line>
+				<line talk="n">I just started work at the new Nulato Lumbermill. The first day I went out, I decided to head deep into the forest, in order to get the further trees first. That way, as time passed, we would have to carry the logs less and less distances. The problem, as I soon found out, was there was an inhabitant in the forest. He was absolutely furious at me for cutting down one of his trees. So, he used some forest magic on me and turned me into a dog. I somehow found my way back to town to try to find some help.</line>
+				<line talk="p">Wow, sounds like you made that up. But I am talking to a dog, so I guess it is true. I'll see what I can do to help you.</line>
+			</choice>
+			<choice>
+				<line talk="p">Nah.</line>
+				<line talk="n">You're heartless!</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="61">
+		<choices>
+			<choice>
+				<line talk="p">Where was the forest you were in?</line>
+				<line talk="n">Between the towns of Mourilyan and Nulato. You have to travel through a cave to get there. If you're planning to go there, be careful of what you say and do around that forest man.</line>
+				<line talk="p">Alright.</line>
+			</choice>
+			<choice>
+				<line talk="p">Are you hungry?</line>
+				<line talk="n">Yes, actually. A little bit. Are you offering some food?</line>
+				<line talk="p">Yes, I have some of the finest dog food in the world for your consumption.</line>
+				<line talk="n">Very funny. I may have the body of a dog, but I still have my human tastes.</line>
+			</choice>
+			<choice>
+				<line talk="p">I didn't know magic existed.</line>
+				<line talk="n">It's really well hidden. I've only seen it twice. Only outcasts dare practice its ways. Really weird people.</line>
+				<line talk="p">Any magic users in the area?</line>
+				<line talk="n">Not that I know of. But you're sure to find one or two in every couple of towns. I can't really investigate as a dog.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse item="29" take="29" trigger="71" reload="1">
+		<line talk="p">I've got this potion here that will turn you back.</line>
+		<line talk="n">Really? From some wizard or something? I'll try it!</line>
+		<line talk="p">Alright, puppy. Drink your medicine.</line>
+		<line talk="n">Don't say it like that!</line>
+		<line talk="n">Oh?</line>
+		<line talk="n">Oh.</line>
+		<line talk="n">Oh!</line>
+		<line talk="n">Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu- ggggggggggggggggggggggggggghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!</line>
+	</converse>
+	<converse after="71" orb="4">
+		<line talk="n">Huzah! I'm cured! Thank you so much!</line>
+		<line talk="p">Whoa, you look stunning. (Did I say that aloud?)</line>
+		<line talk="n">Thank you. I will find some way to repay your great kindness someday.</line>
+		<line talk="p">You don't have to do that. I'm fine with just seeing people happy. That's all I need.</line>
+		<line talk="n">What a kind soul you are.</line>
+	</converse>
+	<converse aorb="4">
+		<choices>
+			<choice>
+				<line talk="p">What are you going to do now?</line>
+				<line talk="n">Well, I'll need a different job that doesn't have so many risks on site. I've got to support my loving mother who is disabled and can't work.</line>
+				<line talk="p">(He's so dependable!) Wow. You've got a nice head on your shoulders.</line>
+			</choice>
+			<choice>
+				<line talk="p">...</line>
+				<line talk="n">Wow, is that a new dress? It looks great on you.</line>
+				<line talk="p">(OMG! Keep it cool.) It is. Thank you for noticing. I like your... muscles. (Ruined it!)</line>
+				<line talk="n">Ha! Thanks. I work on them every day at the gym.</line>
+			</choice>
+			<choice>
+				<line talk="p">...</line>
+				<line talk="n">Hey. You seem like a lot of fun. Want to see a movie or something when you're free? My treat.</line>
+				<line talk="p">(Aaaaaaaaaaaahhhhhh!) Yeah! That would be fun. (Score!)</line>
+				<line talk="n">You want to see "Edificionegro"?</line>
+				<line talk="p">(He's into romance too? Couldn't be more perfect!) Yeah! I can't wait!</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

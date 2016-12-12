@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Hello, Emere. What business do you have here today at Lambda Drinks Corporation's headquarters?</line>
+		<line talk="p">I was just dropping by to see how things were going.</line>
+		<line talk="n">It has been busy here. I'm scrambling to find a replacement for myself that is up to par with me so that the whole corporation doesn't collapse when I leave.</line>
+		<line talk="p">How's the search been?</line>
+		<line talk="n">Not good. It's hard to find someone who knows as much about the company as I do.</line>
+		<line talk="p">That's tough. Best of luck to you, good sir.</line>
+	</converse>
+	<converse after="13" trigger="14">
+		<line talk="p">Hey, Pierre.</line>
+		<line talk="n">Why, hello, Emere. What brings you here?</line>
+		<line talk="p">Just stopping by to see if there is anything I can do to help your search for a new CEO of your business.</line>
+		<line talk="n">Well, as you know, the search has been slow. Originally, I had envisioned my son as head of Lambda Drinks Corporation, but his interests lie elsewhere. He was a perfect fit, too. Knows all sorts about the corporation.</line>
+		<line talk="p">Aren't there plenty of business men that would be perfect for the job? They'll just have to learn the ropes of the organization.</line>
+		<line talk="n">That's not the only problem. You see, here at Lambda Drinks Corporation, we take pride in having kept secret the recipe of our base drink that we use in all other drinks. The process of making the base drink is incredibly complex and only I know how it's made. I want to impart that information to someone who knows this corporation so much that they fall in love with it as I have and would never sell the secret for any amount of money or influence. I have yet to find that person.</line>
+		<line talk="p">That's complicated. I'll keep my eyes out for anyone who looks like that.</line>
+		<line talk="n">I doubt you'll find them on the streets, but I appreciate the offer.</line>
+	</converse>
+	<converse after="14">
+		<line talk="n">Make it quick, Emere. I've got a meeting soon.</line>
+		<line talk="p">You got it. What qualities are you looking for, again?</line>
+		<line talk="n">An enthusiastic, well-educated individual who knows the company inside out and can prove their loyalty to the company.</line>
+		<line talk="p">And your son refuses the role?</line>
+		<line talk="n">Talk to him yourself and you will see. I've got to run.</line>
+	</converse>
+	<converse after="16" trigger="17" reload="1">
+		<line talk="n">Ah, Emere. We've been waiting for you. I'm about to give my final verdict.</line>
+		<line talk="Jacques">Please accept her, father. She'll work hard, I just know it.</line>
+		<line talk="n">Why, of course I have to give her the position.</line>
+		<line talk="Mao">YESSSSSSS! WOOOOOOOO! ALRIGHT!</line>
+		<line talk="Mao">...Sorry. I'm just so psyched to be working here. It's like a dream come true.</line>
+		<line talk="p">Good for you, Mao.</line>
+		<line talk="n">She is a perfect candidate. Has all I want and more. I see a commitment to this company in her eyes that I have never seen in anyone else's. I can fully entrust her with the complicated process for manufacturing the base drink.</line>
+		<line talk="Mao">I am honored, sir.</line>
+		<line talk="n">However, Mao, I believe you've got a lot of training to do. You've got no experience, but after a year of training, with your hard work you can definitely become a great CEO.</line>
+		<line talk="Jacques">Thanks, Mao! I can now pursue my dream of becoming a poet thanks to you!</line>
+		<line talk="n">Now, I've got some work to tend to, so I'll dismiss you all.</line>
+		<line talk="n">Emere, please see me after the others leave. I have something to discuss with you.</line>
+		<line talk="p">Okay.</line>
+	</converse>
+	<converse after="17" get="3">
+		<line talk="n">Ah, Emere. I'd like to repay you for finding a stellar replacement for myself as CEO of Lambda Drinks Corporation.</line>
+		<choices>
+			<choice>
+				<line talk="p">If you're offering, I'll take anything.</line>
+				<line talk="n">Hmmm...Well I'll give you something expensive so that if you don't like it, you can sell it and make a few bucks. Sound good?</line>
+				<line talk="p">Sure!</line>
+				<line talk="n">Alright. I don't know if you have enough wattage for it, but here's a waiver for a free MSI GeForce GTX 970, the latest and greatest graphics card. Enjoy!</line>
+			</choice>
+			<choice>
+				<line talk="p">How about a, err, MRI GaiTorque 394 or something.</line>
+				<line talk="n">Hah! Hah! Hah! I think you are talking about the MSI GeForce GTX 970, the latest and greatest graphics card, actually developed by my company. I'd be happy to give you one. Here's a waiver for a free one from the hardware store.</line>
+				<line talk="p">Thanks!</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse item="3">
+		<line talk="n">What are you waiting for? Redeem that waiver.</line>
+	</converse>
+	<converse item="4">
+		<line talk="n">Enjoy that hardware! I'm sorry I couldn't give you something that you would have liked more.</line>
+		<line talk="p">It's fine. I'm using it for a good purpose, don't you worry.</line>
+	</converse>
+	<converse after="18">
+		<line talk="p">So the company's future is secured.</line>
+		<line talk="n">Yes, thanks to you, I don't have to worry about retiring later. Mao is looking to be a better fit for the head of the company than even me.</line>
+		<line talk="p">She's energetic, I'll give you that.</line>
+		<line talk="n">And that's really the best quality for the head of a company, never ending energy. Someone who will stick with the company through good and bad.</line>
+	</converse>
+</conversations>

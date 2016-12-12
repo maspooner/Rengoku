@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Be careful. A magic using beast lives deeper in these woods. Turn back now if you don't want to face him.</line>
+			</random>
+			<random>
+				<line talk="n">Go southwest of me to exit the forest. Go west to meet the forest clearing.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

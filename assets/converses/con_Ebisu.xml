@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse orb="6">
+		<line talk="n">Child of light...</line>
+		<line talk="p">You! I'd like a word with you. Care to explain what you've done to me?</line>
+		<line talk="n">This is not the place to talk. Come, let us travel.</line>
+	</converse>
+</conversations>

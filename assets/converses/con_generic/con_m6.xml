@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">This park is so nice! I'm glad the mayor allows the townsfolk to use it.</line>
+			</random>
+			<random>
+				<line talk="n">Ah, flowers, trees, what more could anyone want?</line>
+			</random>
+			<random>
+				<line talk="n">Being one with nature has lots of benefits.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

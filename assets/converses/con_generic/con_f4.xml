@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">So many railcars come in to trade illegal goods on the black market. Our job is to load and unload them all.</line>
+			</random>
+			<random>
+				<line talk="n">Been down the rail track before? It's kind of interesting. But not really.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

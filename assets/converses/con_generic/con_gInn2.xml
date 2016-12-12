@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Ah, these beds are comfy!</line>
+			</random>
+			<random>
+				<line talk="n">I love staying at inns!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

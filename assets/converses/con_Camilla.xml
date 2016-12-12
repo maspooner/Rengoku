@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse get="15">
+		<line talk="n">Welcome to the library! Do you have a library card?</line>
+		<line talk="p">No, I don't. Are they free?</line>
+		<line talk="n">Yep, the free version allows you to take out one book for a week. But if you want the premium version, where you get up to 10 books out for two months each, I can set you up for only #20.00 a month!</line>
+		<line talk="p">I'll take the free version, please (I'm too poor to afford the premium version.)</line>
+		<line talk="n">Here you go! If you ever want to upgrade, just let me know.</line>
+	</converse>
+	<converse item="15">
+		<randoms>
+			<random>
+				<line talk="p">Do you have "Catcher in the Rye"?</line>
+				<line talk="n">That's an old book! Salinger, right? Some English teacher checked out all our copies. Sorry!</line>
+			</random>
+			<random>
+				<line talk="p">I'm looking for "Ender's Game".</line>
+				<line talk="n">Someone just took it out.</line>
+				<line talk="p">Really? Oh, I think it might have been my brother, actually. He really likes sci-fi.</line>
+				<line talk="n">It's a great genre. I personally prefer romance novels, myself.</line>
+			</random>
+			<random>
+				<line talk="p">Does anyone actually buy the premium membership?</line>
+				<line talk="n">...No. Is it too expensive?</line>
+				<line talk="p">For my family, it is. Sorry.</line>
+			</random>
+		</randoms>
+	</converse>
+	<converse item="15" after="53" get="16" trigger="54">
+		<line talk="p">Do you have a copy of the Cerzan in stock?</line>
+		<line talk="n">Yes, we do. If you don't mind me asking, why do you need it?</line>
+		<line talk="p">I'm trying to save some one from a life of loneliness.</line>
+		<line talk="n">Ah, so you're teaching them religion? That will help.</line>
+		<line talk="p">Let's go with that. (Not quite what I'm doing. Actually, I think it's the opposite.)</line>
+		<line talk="n">Here it is.</line>
+	</converse>
+	<converse after="54">
+		<randoms>
+			<random>
+				<line talk="p">Do you have "Catcher in the Rye"?</line>
+				<line talk="n">That's an old book! Salinger, right? Some English teacher checked out all our copies. Sorry!</line>
+			</random>
+			<random>
+				<line talk="p">I'm looking for "Ender's Game".</line>
+				<line talk="n">Someone just took it out.</line>
+				<line talk="p">Really? Oh, I think it might have been my brother, actually. He really likes sci-fi.</line>
+				<line talk="n">It's a great genre. I personally prefer romance novels, myself.</line>
+			</random>
+			<random>
+				<line talk="p">What do you do for fun?</line>
+				<line talk="n">I like to watch anime. My favorite show is Madoka Magica.</line>
+				<line talk="p">That's a great show! I've watched it like seven times. It's so dark, yet so interesting.</line>
+				<line talk="n">A marvelous production indeed. I love the soundtrack as well.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

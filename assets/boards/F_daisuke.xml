@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><board>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>3</tile><tile>26</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile>6</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>116</tile><tile>212</tile><tile>303</tile><tile blocked="bobo" fore="2">171</tile><tile blocked="bbbb">361</tile><tile>360</tile><tile>83</tile><tile blocked="obbo" fore="4">33</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>138</tile><tile>194</tile><tile>303</tile><tile blocked="booo">171</tile><tile fore="10">83</tile><tile blocked="bbbb">224</tile><tile>209</tile><tile>359</tile><tile bid="F_fujita.xml" blocked="obbb" face="1" fore="5" spid="3">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>138</tile><tile>354</tile><tile>303</tile><tile blocked="booo">171</tile><tile>83</tile><tile>78</tile><tile>83</tile><tile fore="3">34</tile><tile blocked="booo">2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>138</tile><tile>194</tile><tile>303</tile><tile blocked="obbb">315</tile><tile>327</tile><tile>78</tile><tile>83</tile><tile fore="5">11</tile><tile blocked="booo">2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>29</tile><tile>70</tile><tile>257</tile><tile blocked="obob">236</tile><tile>164</tile><tile>313</tile><tile>301</tile><tile>312</tile><tile fore="8">52</tile><tile blocked="boob">6</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>138</tile><tile>194</tile><tile>303</tile><tile blocked="booo">171</tile><tile>78</tile><tile blocked="bbbo">328</tile><tile>253</tile><tile>304</tile><tile>78</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>138</tile><tile>354</tile><tile>303</tile><tile blocked="boob">171</tile><tile>78</tile><tile blocked="bboo">345</tile><tile>247</tile><tile>304</tile><tile>78</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>117</tile><tile>195</tile><tile>303</tile><tile>171</tile><tile blocked="bbob">333</tile><tile blocked="oboo">318</tile><tile>263</tile><tile>314</tile><tile fore="9">78</tile><tile blocked="bobo">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>4</tile><tile>25</tile><tile>23</tile><tile>23</tile><tile>23</tile><tile>23</tile><tile>23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile>7</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<tile_set>6</tile_set>
+<music>fujita</music>
+<start_pos>
+	<x>4</x>
+	<y>9</y>
+</start_pos>
+<NPC>
+	<name>Daisuke</name>
+	<start_pos>
+		<x>8</x>
+		<y>7</y>
+	</start_pos>
+	<limit_point>
+		<x>10</x>
+		<y>8</y>
+	</limit_point>
+</NPC>
+</board>

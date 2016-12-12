@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">I'm sorry, but you can't travel into the province of Yarl without a passport.</line>
+		<line talk="p">Okay.</line>
+	</converse>
+</conversations>

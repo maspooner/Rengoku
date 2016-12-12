@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><board>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>3</tile><tile>24</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile blocked="ooob">6</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>3</tile><tile>24</tile><tile>22</tile><tile>22</tile><tile>116</tile><tile>212</tile><tile blocked="ooob">303</tile><tile blocked="ooob" fore="9">171</tile><tile blocked="bbbb">180</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>116</tile><tile>212</tile><tile>303</tile><tile>317</tile><tile>327</tile><tile blocked="booo">125</tile><tile>84</tile><tile>83</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>119</tile><tile>194</tile><tile>303</tile><tile blocked="ooob">296</tile><tile blocked="ooob" fore="2">225</tile><tile blocked="obbo">361</tile><tile>360</tile><tile>83</tile><tile blocked="booo" fore="8">333</tile><tile blocked="boob">2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>29</tile><tile>70</tile><tile>257</tile><tile blocked="oboo">236</tile><tile>164</tile><tile fore="9">84</tile><tile blocked="bbbb">180</tile><tile>147</tile><tile>83</tile><tile blocked="booo">341</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>138</tile><tile>194</tile><tile>303</tile><tile blocked="ooob">351</tile><tile blocked="obbo">332</tile><tile fore="9">159</tile><tile blocked="bbbb">282</tile><tile blocked="bbbb">180</tile><tile>83</tile><tile>84</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>138</tile><tile>354</tile><tile blocked="oboo">303</tile><tile fore="13">171</tile><tile blocked="bboo">207</tile><tile>156</tile><tile>319</tile><tile blocked="bbbb">232</tile><tile>325</tile><tile>310</tile><tile blocked="obob" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>138</tile><tile>194</tile><tile blocked="oboo">303</tile><tile>171</tile><tile blocked="bboo">346</tile><tile>156</tile><tile>329</tile><tile blocked="bbbb">232</tile><tile>335</tile><tile fore="9">330</tile><tile blocked="boob">33</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>138</tile><tile>354</tile><tile blocked="oboo">303</tile><tile>171</tile><tile blocked="bboo">346</tile><tile>156</tile><tile>329</tile><tile>335</tile><tile>335</tile><tile>330</tile><tile>359</tile><tile bid="F_fujita.xml" blocked="obbb" face="1" fore="5" spid="8">11</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>138</tile><tile>194</tile><tile blocked="oboo">303</tile><tile>171</tile><tile blocked="bboo">346</tile><tile>156</tile><tile>329</tile><tile fore="9">335</tile><tile blocked="bbbb">180</tile><tile fore="9">330</tile><tile blocked="bobo">34</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>117</tile><tile>195</tile><tile blocked="oboo">303</tile><tile>171</tile><tile blocked="bboo">346</tile><tile>156</tile><tile>307</tile><tile blocked="bbbb">232</tile><tile>326</tile><tile fore="9">300</tile><tile blocked="booo">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>4</tile><tile>25</tile><tile>23</tile><tile>23</tile><tile blocked="oobo">23</tile><tile>23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile>23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile>7</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<tile_set>6</tile_set>
+<music>shop</music>
+<start_pos>
+	<x>9</x>
+	<y>11</y>
+</start_pos>
+<NPC>
+	<name>Bongani</name>
+	<start_pos>
+		<x>8</x>
+		<y>4</y>
+	</start_pos>
+	<limit_point>
+		<x>10</x>
+		<y>4</y>
+	</limit_point>
+</NPC>
+</board>

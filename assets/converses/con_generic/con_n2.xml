@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Halt! This is the police!</line>
+				<line talk="p">What did I do?</line>
+				<line talk="n">Nothing, I just wanted to say that once in my career.</line>
+			</random>
+			<random>
+				<line talk="n">I'm currently investigating the case of the missing furniture. Have any leads?</line>
+				<line talk="p">No, I don't.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

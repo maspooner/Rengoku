@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Who you?</line>
+				<line talk="p">Me just visit.</line>
+				<line talk="n">Not here to cut tree? If, I will harm!</line>
+				<line talk="p">No, no. Really I just visit.</line>
+				<line talk="n">Eye on you.</line>
+			</random>
+			<random>
+				<line talk="p">Hello. What are you doing out here in the forest?</line>
+				<line talk="n">Live at nature. You here do harm, nature?</line>
+				<line talk="p">No? (What's he saying?)</line>
+				<line talk="n">Town destroy nature beauty. Chemicals destroy life. Create death. People stupid. You harm, nature?</line>
+				<line talk="p">No. I recycle.</line>
+				<line talk="n">Good.</line>
+			</random>
+		</randoms>
+	</converse>
+	<converse after="61">
+		<choices>
+			<choice>
+				<line talk="p">Transformation magic, eh?</line>
+				<line talk="n">Yes. Nature gift me using magic. Know all kinds. Heal, illusion, grow, like that.</line>
+				<line talk="p">So you use your magic to help nature back.</line>
+				<line talk="n">Exact. Why She gave powers. Undo destruction of humanity.</line>
+			</choice>
+			<choice>
+				<line talk="p">Ever consider moving back to town?</line>
+				<line talk="n">Never! Lots of artificial, not nature. Never! Never! I happy here.</line>
+				<line talk="p">Just wondering.</line>
+			</choice>
+			<choice>
+				<line talk="p">Why did you transform Yetis into a dog?</line>
+				<line talk="n">That! That! Did horrible! You know! I punish too!</line>
+				<line talk="n">Fam Sanctaidd, caniatewch trawsnewid hwn--</line>
+				<line talk="p">STOP! I am not his friend. I think what he did was terrible.</line>
+				<line talk="n">Good. Take side of nature.</line>
+				<line talk="p">(That was close!)</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Whose got more money. Me or you? I bet a million it's me.</line>
+			</random>
+			<random>
+				<line talk="n">I look so dapper in this suit.</line>
+			</random>
+			<random>
+				<line talk="n">I own over 10 cooperations!</line>
+			</random>
+			<random>
+				<line talk="n">Would any lady care to dance with the man who runs the stock market?</line>
+			</random>
+			<random>
+				<line talk="n">If you don't have money, get out of my sight.</line>
+			</random>
+			<random>
+				<line talk="n">Guess what?</line>
+				<line talk="p">What?</line>
+				<line talk="n">I'm rich!</line>
+				<line talk="p">Wow. Big surprise.</line>
+			</random>
+			<random>
+				<line talk="n">The food provided is subpar. My lobster is too small and has too much gooey stuff on it!</line>
+			</random>
+			<random>
+				<line talk="n">I'm so full, I'm ready to puke.</line>
+				<line talk="p">Eww.</line>
+			</random>
+			<random>
+				<line talk="n">Who's ready to party?</line>
+			</random>
+			<random>
+				<line talk="n">I'm almost out of #500 bills! Better run to the bank soon.</line>
+			</random>
+			<random>
+				<line talk="n">My suit suits me well, eh? Eh?</line>
+			</random>
+			<random>
+				<line talk="n">I will not eat this fruitcake if it doesn't have any saffron in it!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

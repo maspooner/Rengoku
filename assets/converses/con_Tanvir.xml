@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Human, what brings you to my dwelling?</line>
+		<line talk="p">(Whoa, he looks like he came out of a fantasy novel or something.)</line>
+		<line talk="n">Ah, I see. You're like the rest of them. Come to point and laugh at my monstrous features. Don't make me chase you out of here.</line>
+		<choices>
+			<choice>
+				<line talk="p">Yep, pretty much.</line>
+				<line talk="n">Grrrrr!</line>
+			</choice>
+			<choice trigger="50">
+				<line talk="p">That's not it!</line>
+				<line talk="n">What is it then that brought you here?</line>
+				<line talk="p">I heard rumors of a wolfman living in the forest and I thought of how lonely you must be. I've come to keep you company.</line>
+				<line talk="n">You must be a kind person. But, I don't need your help. I'm not that lonely. Although, most of my visitors aren't nice most of the time.</line>
+				<line talk="p">Is that why you can't live in town?</line>
+				<line talk="n">Precisely. I don't want to tell you anymore, because I don't like to talk about this. I'll be fine. Just leave the lone wolf to himself. I'll just keep living in solitude.</line>
+				<line talk="p">I can't just stand by and do nothing while you're suffering! I'll try to convince the townspeople to let you live with them. Everybody needs other people's company.</line>
+				<line talk="n">Except I'm not a person. I'm an animal, a beast. Don't waste your time trying to help me.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="50">
+		<choices>
+			<choice>
+				<line talk="p">Did you try moving to another town?</line>
+				<line talk="n">I thought about it, but I didn't want to be outcast again by some religious nonsense.</line>
+				<line talk="p">Good point.</line>
+			</choice>
+			<choice>
+				<line talk="p">You must have some friends.</line>
+				<line talk="n">Yes. But only one. Her name is Risette. I guess you could call her my mother. She found me while I was still young and took me into her home in Nulato. She is a very kind woman. It was very sad for her when I was exiled.</line>
+			</choice>
+			<choice>
+				<line talk="p">Why were you exiled?</line>
+				<line talk="n">I told you I don't want to talk about it.</line>
+				<line talk="p">Okay.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="55" trigger="56" get="17">
+		<line talk="p">You won't believe this, Tanvir. I might be able to get you back into town. I've gotten Masaru, a scholar from Mourilyan to fight against Jasper for your case.</line>
+		<line talk="n">That's great! But, why are you doing this for me?</line>
+		<line talk="p">I want to see everyone happy. That includes you, Tanvir.</line>
+		<line talk="n">But I'm not human.</line>
+		<line talk="p">You're human-like, and that's all that matters. You've got your own personality, strengths and weaknesses. You'll get along fine with others, I just need to show them what I see in you.</line>
+		<line talk="n">You're just too nice. You've made me happier than I've been in a while. When is Masaru going to do his thing?</line>
+		<line talk="p">Well, we're kind of stuck. We need a large picture of you to show in front of the town because they won't let you inside and Masaru needs to remind them what you look like so that he can make his point. The artist needs bristles for a large brush to paint the picture efficiently.</line>
+		<line talk="n">I've got an idea. How about you use some of my hair for the bristles?</line>
+		<line talk="p">Won't that hurt and create a patchy spot on your fur?</line>
+		<line talk="n">It's a sacrifice I'm willing to make for my freedom. It won't take long.</line>
+		<line talk="n">1..2..3... HARRROOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!</line>
+		<line talk="p">(I think my eardrums just burst.)</line>
+		<line talk="n">Man! That kills! Here's some of the finest grade bristles.</line>
+	</converse>
+	<converse after="56">
+		<line talk="n">I'm ready to be drawn. Give my fur to Wen.</line>
+	</converse>
+	<converse after="57">
+		<line talk="n">That girl Wen is quite the artist. She drew me in just under two hours. It looks great, too!</line>
+	</converse>
+	<converse after="60" orb="2">
+		<line talk="n">Come here!</line>
+		<line talk="p">Whoa! That's a huge hug!</line>
+		<line talk="n">You have infinitely improved my life! I am on good terms with everyone in town. I can go out without fear of discrimination. Best of all, I am treated like a normal human! I thank you with all my power.</line>
+		<line talk="p">I'm glad I could help, Tanvir.</line>
+	</converse>
+	<converse aorb="2">
+		<choices>
+			<choice>
+				<line talk="p">How were you born?</line>
+				<line talk="n">I have yet to find that answer. I think I just popped into existence, or something.</line>
+			</choice>
+			<choice>
+				<line talk="p">Do you work?</line>
+				<line talk="n">Not currently, but I am seeking employment. I'm quite strong, so it will be easy to get a job in the mines or at a lumber company.</line>
+			</choice>
+			<choice>
+				<line talk="p">What will happen to your old house?</line>
+				<line talk="n">Once I've finished moving out of it, I'll leave it open for anyone's use. For kids who want to play, or for someone seeking a quiet place.</line>
+				<line talk="p">That's very noble of you.</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

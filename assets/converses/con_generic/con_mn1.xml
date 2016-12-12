@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Growing crops takes a lot out of you. I haven't had a break in a few days.</line>
+			</random>
+			<random>
+				<line talk="n">Good day, traveler. Would you care to buy some produce?</line>
+				<line talk="p">I don't have much money on me. Maybe later.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="Ebisu">Child of light...</line>
+		<line talk="Ebisu">You are a being of absolute purity, tarnished by the hand of fate.</line>
+		<line talk="Ebisu">A sole lantern, covered with the mud of your neighbors.</line>
+		<line talk="Ebisu">How unfortunate you are, burning where no one can see you.</line>
+	</converse>
+	<converse>
+		<line talk="Ebisu">Daughter of the sun...</line>
+		<line talk="Ebisu">You've seen sadness and suffering, your life plagued by circumstance.</line>
+		<line talk="Ebisu">Never once seen the sun in all its glory.</line>
+		<line talk="Ebisu">Short and long, the hours pass, yet no hope in sight for you.</line>
+	</converse>
+	<converse>
+		<line talk="Ebisu">Ancestor to life...</line>
+		<line talk="Ebisu">You've been in the darkness too long.</line>
+		<line talk="Ebisu">Become awakened to a new world, and see it with your own eyes.</line>
+		<line talk="Ebisu">Welcome and be welcomed to the province of Naibu, far from the dirt where you hail.</line>
+		<line talk="Ebisu">Be rejuvenated, and spread your light to those who need it.</line>
+		<line talk="Ebisu">Only then will you truly shine.</line>
+	</converse>
+	<converse>
+		<line talk="Ebisu">Emere, it's time for you to awaken.</line>
+	</converse>
+	<converse>
+		<line talk="Emere">...</line>
+		<line talk="Emere">(Wow, that was a weird dream.)</line>
+		<line talk="Emere">(I can't put my finger on it, but something feels different. I feel butterflies in my chest.)</line>
+		<line talk="Emere">(...Maybe I'm catching a cold or something and just had a bad fever dream.)</line>
+		<line talk="Emere">(Whatever, I'm hungry, I'll get some breakfast.)</line>
+	</converse>
+</conversations>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">(Hey, traveler. Do you mind scratching my shell? I've got an itch I just can't scratch.)</line>
+				<line talk="p">Cute! I will definitely help you out.</line>
+				<line talk="n">(Your kindness is appreciated.)</line>
+			</random>
+			<random>
+				<line talk="p">Hey, buddy.</line>
+				<line talk="n">(Hi. Want to see a trick? I can do a barrel roll.</line>
+				<line talk="p">Oh, that's adorable!</line>
+			</random>
+			<random>
+				<line talk="n">(Hey. Could you do me a big favor and feed me some of that cabbage the farmer threw out? I'm hungry.)</line>
+				<line talk="p">I'd do anything for someone as cute as you!</line>
+				<line talk="p">Aw! You look so cute nibbling on that cabbage!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

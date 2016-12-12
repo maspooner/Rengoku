@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">Good afternoon, sister. The church welcomes your presence.</line>
+		<line talk="p">Good to see you.</line>
+		<line talk="n">May the Great Goddess bless you and your family.</line>
+	</converse>
+	<converse after="51" trigger="52">
+		<line talk="p">Good priest, why did you exile the poor Tanvir from this peaceful village?</line>
+		<line talk="n">Poor? He's a demon! One of the Demon's very own that destroys all the good the Great Goddess does! Why shouldn't I have done my part to take him away from the townspeople? Pray tell, you aren't one of the Demon's followers, are you?</line>
+		<line talk="p">Not at all! I just don't believe he's done anything wrong except look the way he does. And no one can control how they look. I think it's unjust. I'd like to see the passage of the Cerzan that describes him.</line>
+		<line talk="n">I'm sorry, but I can't let you do that, sister. You plan to use the Book's holy words and skew them to allow the Demon back into our town. I kindly ask you to leave.</line>
+	</converse>
+	<converse after="52">
+		<line talk="n">You probably got your Demonic ideas from that heretic scholar in Mourilyan...</line>
+	</converse>
+	<converse after="53">
+		<line talk="p">You better be ready.</line>
+		<line talk="n">I don't have a clue as to what you are talking about, sister.</line>
+	</converse>
+	<converse after="59">
+		<line talk="n">I knew you would side with the Demon. You're about to be put to shame. These townspeople are firm believers in the Great Goddess and won't falter from their belief. It's sad that you have to waste their time.</line>
+		<line talk="p">I think you'll soon see the error of your ways. Any goddess would not tolerate the mistreatment of a fellow person.</line>
+	</converse>
+	<converse after="60">
+		<line talk="n">You've done it now.</line>
+		<line talk="p">Yes, I've done something good for the town of Nulato. Stop making your own personal prejudices affect everyone else's good moral values.</line>
+	</converse>
+	<converse aorb="2">
+		<choices>
+			<choice>
+				<line talk="p">Why do you hate Tanvir so much?</line>
+				<line talk="n">It's not that I hate him. It's just that I don't trust him.</line>
+				<line talk="p">Why?</line>
+				<line talk="n">It might be because of something that happened to me as a child. I was in the forest, and suddenly, a wolf attacked me. Luckily, I hid up in a tree where he couldn't get me. I've had a fear of wolves ever since.</line>
+				<line talk="p">I see. That doesn't give you the right to discriminate, though.</line>
+			</choice>
+			<choice>
+				<line talk="p">Tell me more about your religion.</line>
+				<line talk="n">What don't you know? The Great Goddess sent 21 dukes from the Kingdom down to Earth and they each met a different fate. Their fate showcases the wrong of the world and how to avoid it. All evil in the world in manifested through the Demon. The Cerzan is a collection of the accounts of the dukes.</line>
+				<line talk="p">Wow. Sounds complicated.</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

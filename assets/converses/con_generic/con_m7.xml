@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">How do you do?</line>
+				<line talk="p">I do just like anyone else.</line>
+				<line talk="n">Do-dodo! Good answer.</line>
+			</random>
+			<random>
+				<line talk="n">I've got a joke for you. Why does the ocean sing?</line>
+				<line talk="p">Why?</line>
+				<line talk="n">Because it wanted to become an opera singer but was born into the wrong life.</line>
+				<line talk="p">Nice anti-joke.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

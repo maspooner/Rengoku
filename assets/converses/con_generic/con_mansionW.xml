@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Money! I'd love to dance with any man that owns lots and lots of money!</line>
+			</random>
+			<random>
+				<line talk="p">Excuse me.</line>
+				<line talk="n">How rude! Do you know how much money I have! Enough to throw you in jail for bumping into me!</line>
+			</random>
+			<random>
+				<line talk="n">Don't I look fabulous?</line>
+			</random>
+			<random>
+				<line talk="n">Complement my hairdo. It's absolutely gorgeous.</line>
+				<line talk="p">It does look nice.</line>
+			</random>
+			<random>
+				<line talk="n">Money! I'd love to dance with any man that owns lots and lots of money!</line>
+			</random>
+			<random>
+				<line talk="n">Do I hear the ringing of money?</line>
+			</random>
+			<random>
+				<line talk="n">Did someone mention money? And lots of it?</line>
+			</random>
+			<random>
+				<line talk="n">This music is sublime! The performer is the best on this planet!</line>
+			</random>
+			<random>
+				<line talk="n">I know what it takes to be a well behaved lady.</line>
+			</random>
+			<random>
+				<line talk="n">My, my. A commoner joins the party.</line>
+			</random>
+			<random>
+				<line talk="n">What are you doing here in the rich people's hang out?</line>
+			</random>
+			<random>
+				<line talk="n">Oh my! This story is absolutely hilarious!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

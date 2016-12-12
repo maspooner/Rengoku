@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><board>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>3</tile><tile>24</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile>22</tile><tile>6</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>116</tile><tile>212</tile><tile>303</tile><tile fore="2">171</tile><tile>361</tile><tile blocked="ooob" fore="9">360</tile><tile blocked="ooob">282</tile><tile blocked="obob">180</tile><tile blocked="obbo" fore="4">33</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>137</tile><tile>113</tile><tile>106</tile><tile>155</tile><tile blocked="obob">233</tile><tile>84</tile><tile>78</tile><tile>84</tile><tile>359</tile><tile bid="F_fujita.xml" blocked="obbb" face="1" fore="5" spid="2">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>137</tile><tile>113</tile><tile>107</tile><tile blocked="bobo">162</tile><tile>78</tile><tile>313</tile><tile>301</tile><tile>312</tile><tile fore="3">34</tile><tile blocked="booo">2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>28</tile><tile>88</tile><tile>229</tile><tile blocked="obbo">237</tile><tile>172</tile><tile>305</tile><tile>287</tile><tile>304</tile><tile fore="5">11</tile><tile blocked="booo">2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>104</tile><tile>194</tile><tile blocked="oboo">303</tile><tile>171</tile><tile>305</tile><tile>287</tile><tile>304</tile><tile fore="8">52</tile><tile blocked="booo">2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>117</tile><tile>195</tile><tile blocked="oboo">303</tile><tile>171</tile><tile>311</tile><tile>302</tile><tile>314</tile><tile fore="7">53</tile><tile blocked="booo">2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>4</tile><tile>25</tile><tile>23</tile><tile>23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<tile_set>6</tile_set>
+<music>fujita</music>
+<start_pos>
+	<x>4</x>
+	<y>9</y>
+</start_pos>
+<NPC>
+	<name>Woman</name>
+	<c_alias>generic/con_fHouse</c_alias>
+	<s_alias>_generic/woman</s_alias>
+	<start_pos>
+		<x>5</x>
+		<y>6</y>
+	</start_pos>
+	<limit_point>
+		<x>7</x>
+		<y>6</y>
+	</limit_point>
+</NPC>
+<NPC>
+	<name>Man</name>
+	<c_alias>generic/con_fHouse2</c_alias>
+	<s_alias>_generic/soldier1</s_alias>
+	<start_pos>
+		<x>6</x>
+		<y>8</y>
+	</start_pos>
+	<limit_point>
+		<x>7</x>
+		<y>9</y>
+	</limit_point>
+</NPC>
+</board>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">You a believer?</line>
+				<line talk="p">No.</line>
+				<line talk="n">Then what do you believe?</line>
+				<line talk="p">I believe in evolution.</line>
+				<line talk="n">Oh! How unfortunate that you fail to see the brilliant light the Goddess has given you!</line>
+			</random>
+			<random>
+				<line talk="n">May the Goddess be with you.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

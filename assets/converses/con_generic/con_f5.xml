@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">That big building is the home of the Seraphim Ministry, the largest gang in the whole province.</line>
+			</random>
+			<random>
+				<line talk="n">I'm sick of looking at this bleak scenery. I want to take a trip to Ginga or something and see the beautiful trees I've heard grow there.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

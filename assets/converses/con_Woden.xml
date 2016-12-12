@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">The boss doesn't take kindly to visitors, you hear? Scram!</line>
+	</converse>
+	<converse after="31">
+		<line talk="n">The boss is considering you? Ha! I don't see what he sees in you, but if the boss says so, you must be good for something.</line>
+	</converse>
+	<converse after="32">
+		<line talk="n">Do you need something, punk?</line>
+		<line talk="p">Yeah. (You're awfully rude to a fellow gang member.) I'm wondering if the boss is free.</line>
+		<line talk="n">Why don't you ask him yourself, then? Or are you too high class to talk to someone like him?</line>
+		<line talk="p">That's not it. (I hate your personality. Should I mess with you?)</line>
+		<line talk="p">I guess I can ask you instead.</line>
+		<choices>
+			<choice trigger="36">
+				<line talk="p">I've heard rumors of some really easy money.</line>
+				<line talk="n">What kind of operation are you talking about?</line>
+				<line talk="p">Taking from an old, senile, and most importantly rich, woman who lives close by.</line>
+				<line talk="n">And the boss doesn't know about this?</line>
+				<line talk="p">Oh, he knows. And he's been making a fortune stealing from this woman for over a month now.</line>
+				<line talk="n">You must be lying. The boss cares about all of us. He'd never do that. He's honest.</line>
+				<line talk="p">Oh, yeah? Why do you think he stays locked up in his room all the time? It's to plan operations he doesn't want you to know about.</line>
+				<line talk="n">No! How dare he! I'm going in there right now to give him a piece of my mind!</line>
+				<line talk="p">Hold on, bigshot. If you do that, he'll have his other guards arrest and kill you. If you want to get revenge on him, I have a plan.</line>
+				<line talk="n">Tell me! His crimes shall not go unpunished!</line>
+				<line talk="p">How about this... we plan an operation to steal back what he stole from us. We'll split the profit between you, me, and a few others. If Zephyr questions the missing items, say another gang broke in and stole it.</line>
+				<line talk="n">That's an excellent plan! But one problem, the boss is always in his room, how are we going to get him out?</line>
+				<line talk="p">I'm still figuring that part out. But when it comes time to act, will you have my back?</line>
+				<line talk="n">Of course!</line>
+				<line talk="p">I'll be back later to discuss the details.</line>
+				<line talk="p">(Wow, he bought that unbelievably ridiculous story? What a stupid.)</line>
+			</choice>
+			<choice>
+				<line talk="p">It says gullible on the ceiling.</line>
+				<line talk="n">It does?</line>
+				<line talk="n">...You! That wasn't funny.</line>
+				<line talk="p">Really? I thought it was pretty funny.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="36">
+		<line talk="p">Just hold out a bit longer.</line>
+		<line talk="n">Whenever you're ready, let me know, boss.</line>
+		<line talk="p">(I like that title.)</line>
+	</converse>
+	<converse after="42">
+		<line talk="n">I better be getting a lot out of this, boss. Go get the stuff with Agrona.</line>
+	</converse>
+	<converse item="12">
+		<line talk="n">You done? I'll take a peek in there too then.</line>
+	</converse>
+</conversations>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">I like it when they do plays here. Shakespeare is a genius when it comes to writing them.</line>
+			</random>
+			<random>
+				<line talk="n">Excuse me. Do you know when the next show is?</line>
+				<line talk="p">No. Why don't you ask someone who works here?</line>
+				<line talk="n">Oh, sorry. I thought you worked here. You seem like a creative type.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

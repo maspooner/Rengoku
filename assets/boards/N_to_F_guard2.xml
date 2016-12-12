@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><board>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>38</tile><tile>57</tile><tile>55</tile><tile>55</tile><tile>55</tile><tile>55</tile><tile blocked="ooob">55</tile><tile blocked="ooob">55</tile><tile blocked="ooob">55</tile><tile blocked="ooob">55</tile><tile blocked="ooob">40</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>88</tile><tile>253</tile><tile>32</tile><tile>213</tile><tile blocked="obob">202</tile><tile>122</tile><tile>110</tile><tile>251</tile><tile>246</tile><tile fore="9">78</tile><tile blocked="boob">40</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>103</tile><tile>293</tile><tile>32</tile><tile blocked="obob">254</tile><tile>238</tile><tile>112</tile><tile>110</tile><tile fore="2">268</tile><tile blocked="bbbb">209</tile><tile>117</tile><tile fore="5">46</tile><tile blocked="booo">37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>103</tile><tile>293</tile><tile blocked="oboo">32</tile><tile>179</tile><tile>110</tile><tile>112</tile><tile>110</tile><tile fore="0">268</tile><tile fore="6">269</tile><tile blocked="bbbb">155</tile><tile fore="4">63</tile><tile blocked="booo">37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>103</tile><tile>293</tile><tile>34</tile><tile blocked="obbo">289</tile><tile>177</tile><tile>112</tile><tile>110</tile><tile fore="1">268</tile><tile blocked="bbbb">204</tile><tile>118</tile><tile>332</tile><tile bid="N_to_F.xml" blocked="obbb" face="1" fore="5" spid="3">46</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>103</tile><tile>293</tile><tile>18</tile><tile blocked="obob">237</tile><tile>150</tile><tile>112</tile><tile>110</tile><tile>242</tile><tile>235</tile><tile>112</tile><tile fore="3">64</tile><tile blocked="booo">37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>89</tile><tile>248</tile><tile blocked="oboo">32</tile><tile>179</tile><tile>110</tile><tile>112</tile><tile blocked="booo">104</tile><tile>112</tile><tile>110</tile><tile>112</tile><tile fore="5">46</tile><tile blocked="booo">37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>39</tile><tile>58</tile><tile>56</tile><tile>56</tile><tile blocked="oobo">56</tile><tile blocked="oobo">56</tile><tile blocked="oobo">56</tile><tile blocked="oobo">56</tile><tile blocked="oobo">56</tile><tile blocked="oobo">56</tile><tile blocked="oobo">56</tile><tile blocked="oobo">41</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<line><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile><tile>37</tile></line>
+<tile_set>7</tile_set>
+<music>plains</music>
+<start_pos>
+	<x>6</x>
+	<y>12</y>
+</start_pos>
+<NPC>
+	<name>Woman</name>
+	<c_alias>generic/con_nf9</c_alias>
+	<s_alias>_generic/soldier1</s_alias>
+	<start_pos>
+		<x>4</x>
+		<y>8</y>
+	</start_pos>
+	<limit_point>
+		<x>6</x>
+		<y>9</y>
+	</limit_point>
+</NPC>
+</board>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">My, my. Emere. How's the job been?</line>
+		<line talk="p">It's good teaching children art. I just wish I had more time for working on personal projects like when I worked with you.</line>
+		<line talk="n">The life of an artist is tough. We've been given the job to probe and explore the creative frontier for other people's enjoyment.</line>
+	</converse>
+	<converse after="53" trigger="55">
+		<line talk="n">I overheard you talking with Masaru. I would be glad to quickly paint a picture for you.</line>
+		<line talk="p">Sorry to make you do this.</line>
+		<line talk="n">It's fine. The only problem is I've run one of my brushes out as all the bristles on the end are gone. It's a thick brush that the store doesn't sell, and I can't paint something big enough for a whole town to see without it. Do you own a large brush I could borrow?</line>
+		<line talk="p">No, I don't. Sorry. I'll look around and see if I can find one.</line>
+	</converse>
+	<converse after="55">
+		<line talk="n">I either need a new brush or I could glue some large, thick bristles on if that's easier to find.</line>
+		<line talk="p">(How would large bristles be easier to find? It's not like I can skin an animal of its hair.)</line>
+	</converse>
+	<converse item="17" take="17" trigger="57" reload="1">
+		<line talk="p">Tanvir gave me some of his hair to use as bristles.</line>
+		<line talk="n">That poor man! He must be in a lot of pain.</line>
+		<line talk="n">These hairs will do, they're nice and soft. Well, I'll pack some supplies and head out for Tanvir's house. Meet me there to pick up the drawing later today.</line>
+		<line talk="p">Okay!</line>
+	</converse>
+	<converse after="57" get="18" trigger="58">
+		<line talk="n">Ah, Emere. Just in time. I've finished painting Tanvir. I'll let you be the judge of how good it looks.</line>
+		<line talk="p">It looks great for the amount of time you had to spend on it! I'll give this to Masaru.</line>
+	</converse>
+	<converse after="58">
+		<line talk="n">Give the picture to my husband.</line>
+	</converse>
+	<converse after="59">
+		<line talk="n">What's been going on?</line>
+		<randoms>
+			<random>
+				<line talk="p">Have you seen the new painting the mayor bought? It looks amazing.</line>
+				<line talk="n">No, but I've heard of it. It's by the famous artist, Emelia Spanner, right? Her paintings are worth top dollar.</line>
+				<line talk="p">It's a painting depicting a landscape of a castle surrounded by flowers. It's beautiful.</line>
+				<line talk="n">I'll have to see it some time.</line>
+			</random>
+			<random>
+				<line talk="p">I'd like to have you review a piece of art I've been working on.</line>
+				<line talk="n">Is it one of your paintings?</line>
+				<line talk="p">No, it's a sculpture I've made.</line>
+				<line talk="n">It's... interesting. What is it of exactly?</line>
+				<line talk="p">You don't see it? It's supposed to be a dog.</line>
+				<line talk="n">Oh. Why does it have a bean shaped head?</line>
+				<line talk="p">It's Bean Dog. I guess you're too old to get the reference.</line>
+			</random>
+			<random>
+				<line talk="p">It's my mom's birthday soon. What should I get her?</line>
+				<line talk="n">Well, parents love homemade gifts. Why don't you paint for her?</line>
+				<line talk="p">I don't have any idea.</line>
+				<line talk="n">How about a fluffy kitten?</line>
+				<line talk="p">Fluffy kitten, huh...That might work. Thanks!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

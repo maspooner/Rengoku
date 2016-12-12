@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="p">How's work on your sculpture?</line>
+				<line talk="n">It's coming along well. Although I am unsure of how to do the face.</line>
+				<line talk="p">That's the toughest part. I'll give you some pointers.</line>
+			</random>
+			<random>
+				<line talk="p">You hand in your reflection for your painting yet?</line>
+				<line talk="n">Oh, that. I was going to, but I wanted to work on my sculpture.</line>
+				<line talk="p">I understand. Get it to me as soon as you can.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

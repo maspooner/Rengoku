@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="n">What business do you have with the Seraphim Ministry?</line>
+		<line talk="p">I just came by to visit.</line>
+		<line talk="n">We're not a friendly bunch, you know. Get out of here while you can.</line>
+	</converse>
+	<converse after="31">
+		<line talk="n">You're applying. I don't see why you'd go after a job like this when you can have a more honest job in your rich world.</line>
+		<line talk="p">I make more this way. I've got a lot of mouths to feed at home.</line>
+		<line talk="n">...I'll buy your story for now.</line>
+	</converse>
+	<converse after="32">
+		<line talk="n">Hey newbie. What do you need?</line>
+			<choices>
+				<choice>
+					<line talk="p">You free?</line>
+					<line talk="n">Yeah. What is it?</line>
+					<line talk="p">You know the recent operation in Nulato? What didn't you sell?</line>
+					<line talk="n">Why do you ask? Don't think since you'd joined the gang, that we'd spill all our secrets. I don't trust you yet. You seem fishy.</line>
+					<line talk="p">Okay. Forget I asked.</line>
+				</choice>
+				<choice>
+					<line talk="p">Why did you join the gang?</line>
+					<line talk="n">That's a good question. I guess the answer is I needed the money. I don't have any education, so the job pool was small and already filled. I'm relatively new, just like you. I don't care for this job particularly, but whatever brings food on the table is good enough for me.</line>
+				</choice>
+				<choice>
+					<line talk="p">How can you live with the guilt of stealing?</line>
+					<line talk="n">To me, it's an okay price to pay for being able to raise my son up to be an honest man in the future. I never had an opportunity to go to school, so I feel Daisuke should have the chance to do life right. I'd do anything for my son.</line>
+				</choice>
+			</choices>
+	</converse>
+	<converse after="34" trigger="35">
+		<line talk="n">Hey, Emere. You trade cards with my kid?</line>
+		<line talk="p">Yeah, I just happened to own the card he needed, so I gave it to him.</line>
+		<line talk="n">You're a kind person. Nobody seems to get along quite well with him, so I appreciate you interacting with him. He's been really happy lately.</line>
+		<line talk="p">It was nothing.</line>
+		<line talk="n">If there's anything I can do to help, please let me know. I don't like having debts to people.</line>
+	</converse>
+	<converse after="35">
+		<choices>
+			<choice>
+				<line talk="p">Do you know about the Nulato robbery?</line>
+				<line talk="n">Yeah, we sold all the furniture from that house, but we were unable to sell a few miscellaneous things.</line>
+				<line talk="p">Where are the rest of the items stored?</line>
+				<line talk="n">They're in the boss' office. But he's always in there, so you can't take anything, if that's what you're thinking.</line>
+			</choice>
+			<choice>
+				<line talk="p">Can you help me with a robbery?</line>
+				<line talk="n">What do you need robbed?</line>
+				<line talk="p">My friend had a good luck charm stolen from her house in Nulato. I'd like to take it back.</line>
+				<line talk="n">So your real reason for joining the Seraphim Ministry comes out, eh? I knew a rich girl like you wouldn't need the money. Lucky for you, I'm not the most loyal person here. Asked anybody else, and you would have been beaten dead out back.</line>
+				<line talk="p">I was waiting until I found the right person to share my real secret with.</line>
+				<line talk="n">You've chosen wisely. However, to go through with the robbery, we need some other gang members' assistance. Breaking into the boss' room isn't as easy as you think. I think we'll need at least two others. Tell me when you've found them and I'll help you out.</line>
+				<line talk="p">Thanks, Agrona.</line>
+				<line talk="n">It's payback for your kind help for my son, and nothing more.</line>
+			</choice>
+			<choice>
+				<line talk="p">Why do you live in shoddy housing?</line>
+				<line talk="n">You would think with all the money we make, we would have plenty left over for ourselves. But most of the money in each operation goes towards maintaining the gang. It costs money to keep the police off our backs and to run the place.</line>
+				<line talk="p">So in the end, you earn less than in a regular job. That's tough.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="35,36,41" trigger="42" reload="1">
+		<line talk="p">You're still willing to help me rob back my friend's item?</line>
+		<line talk="n">Yep. This robbery will make us even. You find two others to help?</line>
+		<line talk="p">I've enlisted the help of Woden and Mahli in our operation. They should be all the help we need.</line>
+		<line talk="n">What an odd choice of partners... As long as they can cooperate with us. Actually, for the plan I had in mind, these few are perfect. When would you like to execute the plan?</line>
+		<line talk="p">Tonight. I want to get out of this place.</line>
+		<line talk="n">I don't blame you. Alright, here's the plan... We'll have to make Zephyr leave his office somehow. I propose that Mahli fakes a drunken rampage outside the base. Woden, a trusted member of the Seraphim Ministry, will warn Zephyr of the situation and ask him to help. Woden will tell him Mahli is exposing gang secrets and is resisting the gang's attempts to stop him. Mahli usually calms down in the presence of authority, so I think Zephyr will understand that he's the only one who can stop Mahli. When he leaves, Woden will keep the door from locking and allow us to break in. You and I will search for the item, and then you can escape.</line>
+		<line talk="p">This plan sounds flawless. I'm ready.</line>
+		<line talk="n">After this, you won't be allowed back in here again, you know that right?</line>
+		<line talk="p">I know. I just hope Zephyr won't punish you guys.</line>
+		<line talk="n">We'll make up an excuse that will probably involve bad talking you. Don't worry.</line>
+		<line talk="n">We'll wait until nightfall...</line>
+	</converse>
+	<converse after="42">
+		<line talk="n">Keep your eye out for the charm. I'll look too, and take some things myself.</line>
+	</converse>
+	<converse item="12">
+		<line talk="n">You got it, hurry and get out of here while you have the chance!</line>
+	</converse>
+	<converse aorb="3">
+		<line talk="n">It's dangerous to come back here, Emere. I'd leave if I were you.</line>
+		<line talk="p">I just wanted to check in with you.</line>
+		<line talk="n">It's not worth your life to do so. We traded favors, so a rich girl like you has no more business with a thief like me.</line>
+		<line talk="p">Class means nothing, only personality matters.</line>
+	</converse>
+</conversations>

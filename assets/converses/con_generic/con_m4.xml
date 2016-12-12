@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">This uniform is so constricting.</line>
+			</random>
+			<random>
+				<line talk="n">Protecting the people is my duty. I will make sure the whole province of Naibu is safe!</line>
+				<line talk="p">That's a big goal for one person.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

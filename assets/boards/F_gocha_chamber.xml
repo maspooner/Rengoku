@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><board>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>3</tile><tile>24</tile><tile>22</tile><tile>22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile blocked="ooob">22</tile><tile>6</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>116</tile><tile>212</tile><tile>303</tile><tile blocked="boob">171</tile><tile>323</tile><tile>283</tile><tile>291</tile><tile fore="9">78</tile><tile blocked="boob">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>173</tile><tile>354</tile><tile>303</tile><tile fore="11">171</tile><tile blocked="bbbb">1</tile><tile blocked="bbbb">355</tile><tile>248</tile><tile>78</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>173</tile><tile>194</tile><tile>303</tile><tile blocked="bobb">171</tile><tile>284</tile><tile>289</tile><tile fore="9">293</tile><tile blocked="bbbb">180</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>173</tile><tile>194</tile><tile>223</tile><tile blocked="oboo">189</tile><tile>177</tile><tile>78</tile><tile>84</tile><tile>78</tile><tile blocked="oboo" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>173</tile><tile>194</tile><tile>200</tile><tile blocked="oboo">187</tile><tile>185</tile><tile>78</tile><tile>84</tile><tile>83</tile><tile blocked="obob" fore="5">11</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>173</tile><tile>354</tile><tile>303</tile><tile blocked="bobb">171</tile><tile>78</tile><tile>78</tile><tile>84</tile><tile fore="7">53</tile><tile blocked="booo">7</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>117</tile><tile>210</tile><tile>303</tile><tile>171</tile><tile after="31" blocked="obbo" fire="20" item="5">233</tile><tile>78</tile><tile>359</tile><tile bid="F_gocha.xml" blocked="obob" face="1" fore="5" spid="1">11</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>4</tile><tile>25</tile><tile>23</tile><tile>23</tile><tile>23</tile><tile>23</tile><tile blocked="oobo">23</tile><tile blocked="oobo">23</tile><tile>7</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<line><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile><tile>2</tile></line>
+<tile_set>6</tile_set>
+<music>fujita</music>
+<start_pos>
+	<x>9</x>
+	<y>7</y>
+</start_pos>
+</board>

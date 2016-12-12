@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">My mom and dad are always working. Yet they still find enough time to play with me.</line>
+				<line talk="p">They're nice people.</line>
+			</random>
+			<random>
+				<line talk="p">What do you want to be when you grow up?</line>
+				<line talk="n">I haven't thought too much about it. I'm not good at philosophy like my dad or art stuff like my mom.</line>
+			</random>
+			<random>
+				<line talk="n">I was going to go outside to play with my friends, but it looks like it might rain or something.</line>
+				<line talk="p">I see.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

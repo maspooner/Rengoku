@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Sister!</line>
+				<line talk="p">What? Oh, hi. I didn't see you there.</line>
+				<line talk="n">Yes you did! You liar!</line>
+			</random>
+			<random>
+				<line talk="n">Sister, what does "psychological" mean?</line>
+				<line talk="p">Where did you hear that word from?</line>
+				<line talk="n">I read it in one of your books. Tell me what it means!</line>
+				<line talk="p">It means what goes on in your head.</line>
+				<line talk="n">Oh, like brain stuff?</line>
+				<line talk="p">Yep. Just like that.</line>
+			</random>
+			<random>
+				<line talk="n">Sister, do you know what time it is?</line>
+				<line talk="p">Well, you're up so it must be after 10:00.</line>
+				<line talk="n">Yeah, it's almost 12:00! What took you so long to get up? I was so bored!</line>
+				<line talk="p">Sorry. Sleep happens.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

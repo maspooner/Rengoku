@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">(Hello, human. You have entered the lair of Velazquez the Great. What can I help you with?)</line>
+				<line talk="p">Um. Why are you called "the Great"?</line>
+				<line talk="n">(You ignorant girl! You have never heard of the Great Velazquez, the conqueror of both Cuba and Mexico?)</line>
+				<line talk="p">Nope. Never.</line>
+				<line talk="n">(Dios mio! I've led countless bird brethren across the oceans far and wide to conquer all the lands. World domination will soon be possible!)</line>
+				<line talk="p">Keep dreaming, bird.</line>
+			</random>
+			<random>
+				<line talk="n">(Greetings! You are speaking to Velazquez the Great. How may I help you?)</line>
+				<line talk="p">Um. Why are you hanging around here?</line>
+				<line talk="n">(I am fighting a great war against an empress. She has yet to surrender, even though all her army's fled.)</line>
+				<line talk="p">You mean the stable lady? Did you free her animals?</line>
+				<line talk="n">(Why, yes. I freed the captured slaves under her rule. If she'd only give me a piece of food as a token of peace, I will leave this place.)</line>
+				<line talk="p">(This bird...)</line>
+			</random>
+			<random>
+				<line talk="n">(Greetings, mortal. I am Velazquez the Great.)</line>
+				<line talk="p">Um. So your name is Velazquez?</line>
+				<line talk="n">(Yes, I just told you that! But that's a shortening of my name. My real name is Pablo Diego José Francisco de Paula Juan Nepomuceno de la Santísima Trinidad Martyr Patricio Clito Velazquez.</line>
+				<line talk="p">Whoa, okay.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

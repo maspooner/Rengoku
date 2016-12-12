@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Can we get this over with already?</line>
+			</random>
+			<random>
+				<line talk="n">This better be worth my time.</line>
+			</random>
+			<random>
+				<line talk="n">What's this man got to say?</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

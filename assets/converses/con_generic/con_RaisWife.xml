@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">My brother always talks about you. He's really taken a liking to you.</line>
+				<line talk="p">Tell him I like to be around him too.</line>
+			</random>
+			<random>
+				<line talk="n">Have you tried the new pumpkin muffins they sell at the store? They're delicious!</line>
+				<line talk="p">No. I'll have to try them sometime (if they're not overpriced).</line>
+				<line talk="n">You won't be able to stop eating them once you start!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

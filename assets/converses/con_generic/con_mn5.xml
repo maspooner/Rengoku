@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">This area is really beautiful, isn't it?</line>
+			</random>
+			<random>
+				<line talk="n">I'm glad I got stationed in Naibu. I wouldn't have been able to keep sane if I had to stay in Ginga another day.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">Inns always serve horrible food. I always go to the local bar instead when I'm staying in Nulato.</line>
+			</random>
+			<random>
+				<line talk="n">Complimentary soap? No. Free wi-fi? No. This inn doesn't have anything.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

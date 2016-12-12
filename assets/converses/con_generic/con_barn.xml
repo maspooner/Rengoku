@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<choices>
+			<choice>
+				<line talk="p">Where are all the animals?</line>
+				<line talk="n">Sadly, they all ran away when I left the door open one day. I'm buying new ones soon.</line>
+				<line talk="p">Where did they go?</line>
+				<line talk="n">Into the forest. They're gone now.</line>
+			</choice>
+			<choice>
+				<line talk="p">What's the bird doing here?</line>
+				<line talk="n">I don't know. He flew in here one day and I can't seem to get him to leave. He only does when he needs to eat.</line>
+				<line talk="p">You don't feed him?</line>
+				<line talk="n">Nope. He doesn't provide anything for me except a headache. He can fend for himself.</line>
+			</choice>
+		</choices>
+	</converse>
+</conversations>

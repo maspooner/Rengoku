@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">I'm saving a seat for my friend.</line>
+			</random>
+			<random>
+				<line talk="n">The Great Goddess blesses us with farm surpluses every year. How gracious of Her!</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>

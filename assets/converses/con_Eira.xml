@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<line talk="p">Good day, Eira.</line>
+		<line talk="n">Why, it is, is it not? I would much rather be outside enjoying the day than being in here correcting essays.</line>
+		<line talk="p">I hear you. Teaching art isn't as easy as you would think.</line>
+		<line talk="n">Why that's absurd! Of course it's easy! Just grade based on a rubric and you are done in no more than 10 minutes for your entire class.</line>
+		<line talk="p">I guess. (Art is so much more than just a grade. Each student has their own style and own limits. But I can't convince you.)</line>
+	</converse>
+	<converse after="10" trigger="11">
+		<line talk="p">Hey, Eira.</line>
+		<line talk="n">What is it that you need, Miss Art Teacher?</line>
+		<line talk="p">You know your student Edwin?</line>
+		<line talk="n">Oh, THAT child. I cannot tell you how many times he has interrupted my class and not done any work. Yet he still has the nerve to believe he can get a good grade.</line>
+		<line talk="p">He has been trying very hard to improve his grades lately. If he doesn't, his mother will make him move.</line>
+		<line talk="n">Sounds just like the child to only put in effort if there is a reward. He must not be improving that much if he is still failing my class.</line>
+		<line talk="p">I was just talking to him, and he feels he did really well on his last test. However, his grade doesn't reflect that.</line>
+		<line talk="n">Is he trying to get you to do his dirty work, then? I expect he told you that I fixed his grade at a certain level? Utter nonsense, that is. I would never give him a grade that he doesn't deserve.</line>
+		<line talk="p">If you say so. (I don't believe Edwin would lie. And I don't like your attitude, Eira.)</line>
+	</converse>
+	<converse after="11">
+		<choices>
+			<choice>
+				<line talk="p">So you deny his claim then?</line>
+				<line talk="n">Do you believe a child over a respected teacher, Emere? I cannot believe that you would even take his side on this issue.</line>
+				<line talk="p">Was it a mistake on PowerSchool™?</line>
+				<line talk="n">Of course not! I entered his grade in PowerSchool™ and when he saw his grade on PowerSchool™ and complained to me, I rechecked his grade on PowerSchool™ with his test and they were one and the same.</line>
+				<line talk="p">Mistake in the grading?</line>
+				<line talk="n">Argh! Do not make me get administration involved, Emere. They will gladly take my side when they view his grades and my academic history. Leave at once before you give me the chance to!</line>
+			</choice>
+			<choice>
+				<line talk="p">Mind if I look at his test?</line>
+				<line talk="n">That is, err, classified information. I am the only one who can administer and grade history tests.</line>
+				<line talk="p">So if Edwin can't see what he got wrong, how can he improve?</line>
+				<line talk="n">Why, he simply has to study harder. He knows the questions he took, and in his notes, if he has any, there should be all he needs to study for cumulative tests.</line>
+				<line talk="p">Okay. I guess that kind of makes sense.</line>
+			</choice>
+		</choices>
+	</converse>
+	<converse after="18">
+		<line talk="n">Not now, Emere! I'm in the middle of something.</line>
+	</converse>
+	<converse aorb="1">
+		<line talk="n">YOU! Do not think that I would not take notice of the crimes you have committed!</line>
+		<line talk="p">Why, I don't know what you're talking about. I just came by to ask you a question.</line>
+		<line talk="n">Don't play dumb with me, Emere! I know you put in that extra test grade that I never administered!</line>
+		<line talk="p">That's quite the accusation to a fellow teacher. You don't trust me?</line>
+		<line talk="n">No, no I do not. The worst part is, administration doesn't trust me either. The log for PowerSchool™ shows that I input the grades this morning. Even though I don't have the paper tests, they still think I am crazy. Nobody believes me.</line>
+		<line talk="p">Ah, karma is sweet, isn't it.</line>
+	</converse>
+</conversations>

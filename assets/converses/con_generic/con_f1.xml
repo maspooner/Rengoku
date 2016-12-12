@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<conversations>
+	<converse>
+		<randoms>
+			<random>
+				<line talk="n">You've found yourself at the pitiful town of Fujita. Watch your wallet.</line>
+			</random>
+			<random>
+				<line talk="n">The journey to this town is long and so not worth it. There is nothing good here.</line>
+			</random>
+		</randoms>
+	</converse>
+</conversations>
