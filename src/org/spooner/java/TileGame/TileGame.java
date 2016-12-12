@@ -25,15 +25,14 @@ public abstract class TileGame{
 	//members
 	private static final String TITLE = "Rengoku ";
 	private static final String VERSION = "ver: 1.00";
-	private static boolean isTest = false;
+	private static boolean isTest = true;
 	//methods
 	public static void main(String[] args) throws IOException{
-		isTest = args.length > 0;
 		//make sure audio knows which read to use
 		TileAudio.setResourceRead();
 		if(Options.getOptions().showJoy()){
 			//open up joy to key
-			Process joy = Runtime.getRuntime().exec(TileConstants.JOY_PATH);
+			final Process joy = Runtime.getRuntime().exec(TileConstants.JOY_PATH);
 			//make sure to close it on program end
 			Runtime.getRuntime().addShutdownHook(new Thread(new Runnable(){
 				@Override

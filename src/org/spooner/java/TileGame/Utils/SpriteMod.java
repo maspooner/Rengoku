@@ -145,7 +145,7 @@ public class SpriteMod {
 			}
 		}
 	}
-	private static void colorizeDirectory(String homeDir, int[] modColors, int[] newColors) throws IOException{
+	private static void colorizeDirectory(String homeDir, final int[] modColors, final int[] newColors) throws IOException{
 		//where the done files go
 		File doneDir = new File(DONE_DIRECTORY + homeDir + "\\");
 		if(!doneDir.exists())
