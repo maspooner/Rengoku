@@ -1,0 +1,2109 @@
+con_Adelaide.xml
+==============================
+talk="p": 	Hey, Adelaide! How are you holding up?
+talk="n": 	It's been rough. I can't believe we'd been robbed! I thought we chose a town with a low crime rate when we decided to buy a home in Nulato.
+talk="p": 	And they managed to steal all the furniture too.
+talk="n": 	Yeah! That stuff was worth a fortune. We're slowly buying it all back, but it's taking a while. And some things just can't be bought back...
+talk="p": 	No! They didn't steal the good luck charm your father gave you, did they?
+talk="n": 	The one day I forgot to bring it, was the day of the robbery. That charm was really important to me. The only memory I have of my father is him giving this to me before he left this planet.
+talk="p": 	If I could, I would track them down and steal it back.
+talk="n": 	Would you be able to pull that off? I mean, it was probably professional thieves if no one in town saw them.
+talk="p": 	Adelaide, you're my best friend. I would tackle any obstacle to make you happy. Even if I have to become a professional thief.
+talk="n": 	You go become a thief then.
+talk="p": 	Do you know who the culprit is?
+talk="n": 	I have no proof, but there are rumors of there being a large gang industry in Fujita. I've never been there myself; it's too sketchy of a place for me. But if anyone were to pull off stealing everything from my house, it's probably someone from there.
+talk="p": 	Why don't you stay at my house for the time being? I'm sure my mother wouldn't mind.
+talk="n": 	Oh, that's alright. I wouldn't want to intrude. Besides, I don't think you have enough room there. It can barely fit your whole family already.
+talk="p": 	Wow, I make a generous offer and I am repaid in sass? What kind of world is this?
+talk="n": 	Certainly not one you are from.
+talk="p": 	So, the latest gossip...
+talk="n": 	Well, you know how Brad was going out with Natasha, right? It turns out that Natasha was going out with Chad at the same time!
+talk="p": 	How scandalous! It's just like Natasha, too. I swear, she...
+talk="TIME": 	[A half an hour later...]
+talk="p": 	...don't you DARE talk about Jessica like that! ...
+talk="TIME": 	[Another half an hour later...]
+talk="n": 	...and that's why I don't like those lemon cookies they sell at the mall.
+talk="p": 	I see how it is. You traitor!
+talk="p": 	...Wow, look at the time. I've got to get going.
+talk="n": 	It was good talking with you!
+talk="p": 	Guess what I've got?
+talk="n": 	A membership into the gang industry?
+talk="p": 	Actually, yes. Well, not anymore. I've done something to them they'll never forgive me for. But more importantly, I've found your charm.
+talk="n": 	......Whoa. Whoa. WHOA! I can't believe you! You did something like that for me? Far out! You don't know how much this means to me.
+talk="p": 	Whoa, don't cry. I'm happy to do anything for you, Adelaide.
+talk="p": 	How much more furniture do you have to buy back?
+talk="n": 	We're still missing some dressers, crates, and a table, which we should earn back in about a month or two.
+talk="p": 	Do you eat on the floor?
+talk="n": 	Yes.
+talk="p": 	Oh.
+talk="p": 	That charm was cute.
+talk="n": 	I know, right! It's so kawaii! And it works, too. Just yesterday, I found a note worth #10 just lying in the street.
+talk="p": 	You lucky mustard.
+talk="n": 	Emere! Watch your language, there are children present.
+talk="p": 	Oh, sorry. I should be careful around you.
+con_Agrona.xml
+==============================
+talk="n": 	What business do you have with the Seraphim Ministry?
+talk="p": 	I just came by to visit.
+talk="n": 	We're not a friendly bunch, you know. Get out of here while you can.
+talk="n": 	You're applying. I don't see why you'd go after a job like this when you can have a more honest job in your rich world.
+talk="p": 	I make more this way. I've got a lot of mouths to feed at home.
+talk="n": 	...I'll buy your story for now.
+talk="n": 	Hey newbie. What do you need?
+talk="p": 	You free?
+talk="n": 	Yeah. What is it?
+talk="p": 	You know the recent operation in Nulato? What didn't you sell?
+talk="n": 	Why do you ask? Don't think since you'd joined the gang, that we'd spill all our secrets. I don't trust you yet. You seem fishy.
+talk="p": 	Okay. Forget I asked.
+talk="p": 	Why did you join the gang?
+talk="n": 	That's a good question. I guess the answer is I needed the money. I don't have any education, so the job pool was small and already filled. I'm relatively new, just like you. I don't care for this job particularly, but whatever brings food on the table is good enough for me.
+talk="p": 	How can you live with the guilt of stealing?
+talk="n": 	To me, it's an okay price to pay for being able to raise my son up to be an honest man in the future. I never had an opportunity to go to school, so I feel Daisuke should have the chance to do life right. I'd do anything for my son.
+talk="n": 	Hey, Emere. You trade cards with my kid?
+talk="p": 	Yeah, I just happened to own the card he needed, so I gave it to him.
+talk="n": 	You're a kind person. Nobody seems to get along quite well with him, so I appreciate you interacting with him. He's been really happy lately.
+talk="p": 	It was nothing.
+talk="n": 	If there's anything I can do to help, please let me know. I don't like having debts to people.
+talk="p": 	Do you know about the Nulato robbery?
+talk="n": 	Yeah, we sold all the furniture from that house, but we were unable to sell a few miscellaneous things.
+talk="p": 	Where are the rest of the items stored?
+talk="n": 	They're in the boss' office. But he's always in there, so you can't take anything, if that's what you're thinking.
+talk="p": 	Can you help me with a robbery?
+talk="n": 	What do you need robbed?
+talk="p": 	My friend had a good luck charm stolen from her house in Nulato. I'd like to take it back.
+talk="n": 	So your real reason for joining the Seraphim Ministry comes out, eh? I knew a rich girl like you wouldn't need the money. Lucky for you, I'm not the most loyal person here. Asked anybody else, and you would have been beaten dead out back.
+talk="p": 	I was waiting until I found the right person to share my real secret with.
+talk="n": 	You've chosen wisely. However, to go through with the robbery, we need some other gang members' assistance. Breaking into the boss' room isn't as easy as you think. I think we'll need at least two others. Tell me when you've found them and I'll help you out.
+talk="p": 	Thanks, Agrona.
+talk="n": 	It's payback for your kind help for my son, and nothing more.
+talk="p": 	Why do you live in shoddy housing?
+talk="n": 	You would think with all the money we make, we would have plenty left over for ourselves. But most of the money in each operation goes towards maintaining the gang. It costs money to keep the police off our backs and to run the place.
+talk="p": 	So in the end, you earn less than in a regular job. That's tough.
+talk="p": 	You're still willing to help me rob back my friend's item?
+talk="n": 	Yep. This robbery will make us even. You find two others to help?
+talk="p": 	I've enlisted the help of Woden and Mahli in our operation. They should be all the help we need.
+talk="n": 	What an odd choice of partners... As long as they can cooperate with us. Actually, for the plan I had in mind, these few are perfect. When would you like to execute the plan?
+talk="p": 	Tonight. I want to get out of this place.
+talk="n": 	I don't blame you. Alright, here's the plan... We'll have to make Zephyr leave his office somehow. I propose that Mahli fakes a drunken rampage outside the base. Woden, a trusted member of the Seraphim Ministry, will warn Zephyr of the situation and ask him to help. Woden will tell him Mahli is exposing gang secrets and is resisting the gang's attempts to stop him. Mahli usually calms down in the presence of authority, so I think Zephyr will understand that he's the only one who can stop Mahli. When he leaves, Woden will keep the door from locking and allow us to break in. You and I will search for the item, and then you can escape.
+talk="p": 	This plan sounds flawless. I'm ready.
+talk="n": 	After this, you won't be allowed back in here again, you know that right?
+talk="p": 	I know. I just hope Zephyr won't punish you guys.
+talk="n": 	We'll make up an excuse that will probably involve bad talking you. Don't worry.
+talk="n": 	We'll wait until nightfall...
+talk="n": 	Keep your eye out for the charm. I'll look too, and take some things myself.
+talk="n": 	You got it, hurry and get out of here while you have the chance!
+talk="n": 	It's dangerous to come back here, Emere. I'd leave if I were you.
+talk="p": 	I just wanted to check in with you.
+talk="n": 	It's not worth your life to do so. We traded favors, so a rich girl like you has no more business with a thief like me.
+talk="p": 	Class means nothing, only personality matters.
+con_Arlo.xml
+==============================
+talk="n": 	Welcome, Emere! What can I do for you?
+talk="p": 	What are you selling?
+talk="n": 	Well, Arlo the hardware specialist has a few things in stock...
+talk="n": 	I've got some new smartphones, some from Lemon and Humanoid. I've also got lots of computer parts; I got a shipment just this morning of a new type of graphics card. Other than that, I'm selling headphones, laptops, peripherals, and tablets. Can I interest you in any?
+talk="p": 	No, thanks. I'm just browsing.
+talk="n": 	Okay, but if you purchase anything, purchase it from my side of the store, will you? I'm competing with my brother. Whoever gets the most customers gets to eat a feast paid by the loser.
+talk="Kenji": 	Don't do it, Emere. I sell better stuff.
+talk="n": 	That's not even close to true! Emere, you'll buy from me, right?
+talk="p": 	I'm not taking sides. If I buy, it will be from both of you.
+talk="p": 	How's your twin?
+talk="n": 	He's the same as always. He doesn't get out much, you know? He's a bit too awkward as well.
+talk="Kenji": 	You're talking as if I can't hear you.
+talk="n": 	Oh, erm, well...
+talk="p": 	Awkward!
+talk="p": 	You've got a nice place here.
+talk="n": 	Thanks! It was bought with the money my brother and I saved up from years of mining coal in the mines of Yarl.
+talk="Kenji": 	It just goes to show you that hard work can really pay off.
+talk="p": 	I've got a waiver for a free... what's it called? Mai HiMorph 430?
+talk="n": 	What!? We don't offer waivers. And I don't think I've heard of that model before. Let me see it...
+talk="n": 	Whoa! This is from Pierre! His company is the developer for the GTX series. If it's from him, I'll gladly give you one. He'll just have to pay me back.
+talk="Kenji": 	What's this about you giving out stuff for free?
+talk="n": 	Were you listening? Pierre's going to pay me back. Sorry for making you listen to us babble, Emere. Here's your hardware.
+talk="p": 	Thanks!
+con_Bongani.xml
+==============================
+talk="n": 	Welcome to Bongani's Pawnshop! What'll it be?
+talk="p": 	I'd like to buy some ramen. Do you have any in stock?
+talk="n": 	Haven't you been to a pawnshop before, girl? You trade things of equal value here. This ain't no convenience store.
+talk="p": 	My bad.
+talk="p": 	You have any board games I could trade for?
+talk="n": 	Ah, you're one of those board game types. Let me take a look...
+talk="n": 	I've got two. One called "Tokaido," another called "Roll for it." Each has a net worth of about #60.00. D'ya want either?
+talk="p": 	(Expensive!) No, thank you. I don't have enough.
+talk="n": 	Well, come back if you have some more.
+talk="p": 	Any video games?
+talk="n": 	I have only one. There're popular items these days. It's called "Gitaroo Man." Used, worth about #35.00. How's about a purchase?
+talk="p": 	I don't have enough money for that one... Maybe I'll buy it later.
+talk="n": 	It's a rare game. I can't guarantee I can hold it for you.
+talk="n": 	Be safe out there, girl.
+talk="n": 	Welcome to Bongani's Pawnshop! What'll it be?
+talk="p": 	Do you have any lockets?
+talk="n": 	A locket, eh? Looking for one in particular? I've got like seven different ones.
+talk="p": 	It's made of silver and gold, if that helps.
+talk="n": 	Oooh! Fancy. This must be it. Its value is... #175.00. Got something equal to that value?
+talk="p": 	Of course I do.
+talk="n": 	Show me.
+talk="p": 	Sorry, I lied.
+talk="n": 	Cheeky girl.
+talk="p": 	No, I don't.
+talk="n": 	Then what were you thinking when you wanted to pay for the locket?
+talk="p": 	The truth is, that locket you have was stolen from this old lady. Her story is actually really sad...
+talk="p": 	......
+talk="n": 	That's some heavy stuff, girl. I understand completely. However, I do have a business to run and that piece is quite expensive. If you can give me something of slightly less value, say around #125.00, I'll consider it for Nakamura's sake. How does that sound?
+talk="p": 	You are very generous, but how am I supposed to find an item like that? I'm not exactly rich.
+talk="n": 	You ask all the tough questions. Try asking a politician. They are usually very rich, retired people who do politics on the side.
+talk="p": 	I'll see what I can do. Thanks again!
+talk="n": 	My pleasure, girl.
+talk="p": 	How's business?
+talk="n": 	Could be better. I've been barely keeping this place running. Not to mention preventing all the robberies in this area. Good thing I'm a big, burly man that no one wants to mess with. Har, har, har!
+talk="p": 	You sure are. "Har, har, har."
+talk="n": 	Don't be mocking me, girl.
+talk="p": 	Where did you say I could find someone with a lot of money?
+talk="n": 	Try Mourilyan. A lot of rich people settle there.
+talk="p": 	(Excluding, of course, my family.) Thanks!
+talk="p": 	How's this in exchange for the locket?
+talk="n": 	Let's take a look...
+talk="n": 	Oooh. That's a real fine piece there. I'd say it'd just about cover the cost of the locket.
+talk="p": 	Sweet! It's a deal then.
+talk="n": 	It's been a pleasure doing business with you, girl. Be sure to tell your friends to come on down to Bongani's Pawnshop.
+talk="p": 	I sure will.
+talk="n": 	You returned that locket, yet? Tell me how it goes.
+talk="n": 	How did it go?
+talk="p": 	It really brightened her day. Thank you for the huge discount!
+talk="n": 	My pleasure, girl. I have a soft spot for old ladies.
+talk="n": 	Welcome, Emere! What can I do for ya?
+talk="p": 	Got anything interesting in stock?
+talk="n": 	Just this morning some guy traded in a copy of Final Fantasy 6. I hear it's a great game.
+talk="p": 	I'll have to play it some time.
+talk="p": 	Have you heard anything from Nakamura?
+talk="n": 	Yeah! She stopped by here to chat with me. She'd never been here before, even though this store is so close by. I think I've made a new customer.
+talk="p": 	Glad to hear it!
+con_Camilla.xml
+==============================
+talk="n": 	Welcome to the library! Do you have a library card?
+talk="p": 	No, I don't. Are they free?
+talk="n": 	Yep, the free version allows you to take out one book for a week. But if you want the premium version, where you get up to 10 books out for two months each, I can set you up for only #20.00 a month!
+talk="p": 	I'll take the free version, please (I'm too poor to afford the premium version.)
+talk="n": 	Here you go! If you ever want to upgrade, just let me know.
+talk="p": 	Do you have "Catcher in the Rye"?
+talk="n": 	That's an old book! Salinger, right? Some English teacher checked out all our copies. Sorry!
+talk="p": 	I'm looking for "Ender's Game".
+talk="n": 	Someone just took it out.
+talk="p": 	Really? Oh, I think it might have been my brother, actually. He really likes sci-fi.
+talk="n": 	It's a great genre. I personally prefer romance novels, myself.
+talk="p": 	Does anyone actually buy the premium membership?
+talk="n": 	...No. Is it too expensive?
+talk="p": 	For my family, it is. Sorry.
+talk="p": 	Do you have a copy of the Cerzan in stock?
+talk="n": 	Yes, we do. If you don't mind me asking, why do you need it?
+talk="p": 	I'm trying to save some one from a life of loneliness.
+talk="n": 	Ah, so you're teaching them religion? That will help.
+talk="p": 	Let's go with that. (Not quite what I'm doing. Actually, I think it's the opposite.)
+talk="n": 	Here it is.
+talk="p": 	Do you have "Catcher in the Rye"?
+talk="n": 	That's an old book! Salinger, right? Some English teacher checked out all our copies. Sorry!
+talk="p": 	I'm looking for "Ender's Game".
+talk="n": 	Someone just took it out.
+talk="p": 	Really? Oh, I think it might have been my brother, actually. He really likes sci-fi.
+talk="n": 	It's a great genre. I personally prefer romance novels, myself.
+talk="p": 	What do you do for fun?
+talk="n": 	I like to watch anime. My favorite show is Madoka Magica.
+talk="p": 	That's a great show! I've watched it like seven times. It's so dark, yet so interesting.
+talk="n": 	A marvelous production indeed. I love the soundtrack as well.
+con_Ciel.xml
+==============================
+talk="p": 	What do you do?
+talk="n": 	I'm a pilot.
+talk="p": 	Cool. I like planes too.
+talk="n": 	We have something in common.
+talk="p": 	Are you a pilot?
+talk="n": 	Yes. I assume the goggles gave it away.
+talk="p": 	I'm looking for some cloud syrup. Can you help me out? Do you own any?
+talk="n": 	Yeah. The stuff's easy to get when I fly up in the sky. It's everywhere. However, I don't give it out for free.
+talk="n": 	But I'll give you some if you answer my trivia quiz. No one so far has ever gotten all right.
+talk="p": 	How many have tried?
+talk="n": 	About 10 people, so it's not impossible. There are 5 questions that you have to get right. You have unlimited guesses, but some might be impossible for you to figure out. Talk to me when you are ready.
+talk="n": 	Welcome to Ciel's Random Trivia Quiz! Let's get started.
+talk="n": 	Which artist commonly uses elephants in their works as a symbol?
+talk="p": 	Vincent Van Gogh.
+talk="n": 	Wrong! No price for you.
+talk="p": 	Salvador Dalí.
+talk="n": 	Correct! Next question.
+talk="n": 	As a body approaches the speed of light, which of the following properties increases: mass, length of the body, or angular momentum?
+talk="p": 	Mass.
+talk="n": 	Correct! Next question.
+talk="n": 	Which book tells the tale set in the future, where Earth is saved from the aliens?
+talk="p": 	The Foundation.
+talk="n": 	Wrong! No price for you.
+talk="p": 	Ender's Game.
+talk="n": 	Correct! Next question.
+talk="n": 	If you were to find the slope of the curve of f(x) then find the area under that resulting curve, what would be the result?
+talk="p": 	f'(int(x)).
+talk="n": 	Wrong! No price for you.
+talk="p": 	f(f(x)).
+talk="n": 	Wrong! No price for you.
+talk="p": 	f(x).
+talk="n": 	Correct! Last question.
+talk="n": 	Which videogame series has sold the most copies in Japan?
+talk="p": 	Mario.
+talk="n": 	Wrong! No price for you.
+talk="p": 	Pokémon.
+talk="n": 	Correct! You win.
+talk="n": 	Wow! You really know some complex stuff! Just give me a second and I'll grab your price.
+talk="p": 	Final Fantasy.
+talk="n": 	Wrong! No price for you.
+talk="p": 	The Giver.
+talk="n": 	Wrong! No price for you.
+talk="p": 	Length of the body.
+talk="n": 	Wrong! No price for you.
+talk="p": 	Angular momentum.
+talk="n": 	Wrong! No price for you.
+talk="p": 	Pablo Picasso.
+talk="n": 	Wrong! No price for you.
+talk="n": 	Take your price.
+talk="p": 	How does defeat taste?
+talk="n": 	Not too bad. I'm just glad I found someone who understands the importance of knowledge as much as I do. I mean, you can't be the only one to answer all 5 questions without at least having a tiny passion for knowledge.
+talk="p": 	Well, being a teacher helps.
+talk="p": 	I've never been in a plane before.
+talk="n": 	I give air tours if you are interested. They are only #300 per flight, a steal for a once in a lifetime opportunity to fly in a two-seater plane.
+talk="p": 	I'd probably get motion sickness. Then it wouldn't be worth it. No thanks.
+con_Daisuke.xml
+==============================
+talk="n": 	'ho arr ya? Get out 'fore I stabs ya!
+talk="p": 	You're quite the fiesty little one.
+talk="n": 	ARRGH! Not 'notha Cabagesaur! I got nearla 20 'lready.
+talk="p": 	You're a fan of Gokuman cards? I used to collect them too.
+talk="n": 	Ya don't know nothin' 'bout dem. I'm da Gokuman master. I know everythin' 'bout dem. Got dem all 'cept one. I spent all me cash on buying cards I 'lready own.
+talk="p": 	Can't you trade with someone?
+talk="n": 	U wot m8? 1v1 me! I'll stabs ya!
+talk="p": 	Woah! Okay. (I guess he's touchy on the subject.)
+talk="n": 	Ya says ya had cards? D'ya had a Holofoil Rare Grillidragon?
+talk="p": 	No, I don't recall having that one.
+talk="n": 	Dat's shame. I've some good cards tah trade for it.
+talk="p": 	Hey, want to trade?
+talk="n": 	Wat d'ya has?
+talk="p": 	An... Oozetle?
+talk="n": 	Lame. I 'lready has. Ya wastin' me time!
+talk="p": 	Well, I guess I could trade my Flipachu.
+talk="n": 	I has plentys of dem. Ya're a orrible trader! Get outa here 'fore I stabs ya!
+talk="p": 	Holofoil Rare Grillidragon, of course.
+talk="n": 	No ways! Trade me now 'fore I stabs ya! I'll give ya anythin' ya wants for it!
+talk="p": 	Which one's worth the most?
+talk="n": 	I have two of da Alejandro's Kew. I guess ya can have it. Let me get it.
+talk="p": 	It's alright. You can have it.
+talk="n": 	Ya got somethin' wrong wid ya head. But if ya offerin'... I'll be takin'!
+talk="n": 	Trade success! Ya nice lady.
+talk="p": 	Thank you.
+talk="n": 	Trade success! Ya nice lady.
+talk="p": 	Thank you.
+talk="p": 	Enjoying the card?
+talk="n": 	Yea! Me collection is complete. Now I'm da greatest kid on da block!
+talk="n": 	Lady! Ya card is gettin' me alls the attention from me mates. I'm very happy!
+talk="p": 	Great!
+con_Door.xml
+==============================
+talk="p": 	(This door has always been locked. I have no idea why.)
+talk="p": 	(This key fits!)
+con_Ebisu.xml
+==============================
+talk="n": 	Child of light...
+talk="p": 	You! I'd like a word with you. Care to explain what you've done to me?
+talk="n": 	This is not the place to talk. Come, let us travel.
+con_Edwin.xml
+==============================
+talk="n": 	Sigh...
+talk="p": 	What's wrong, my pupil?
+talk="n": 	Oh, hi, Ms. S It's nothing...
+talk="p": 	Is it something you can't share with your art teacher?
+talk="n": 	It's something stupid. I'll forget about it in a few days.
+talk="p": 	If you say so.
+talk="p": 	Okay. Just making sure.
+talk="n": 	Aren't teachers supposed to be more pushy on these things? Or at least take a hint?
+talk="p": 	I guess I fail as a teacher then.
+talk="p": 	Did you fail a test or something?
+talk="n": 	Whoa, you psychic or something? How'd you know?
+talk="p": 	It was meant to be a joke. I thought you didn't care much for school.
+talk="n": 	Well, you know my mother's been bugging me about my grades. The only class I'm passing is art, and that's because you're the only teacher I can stand. The rest despise my slow learning. Anyway, my mother has said if I don't improve, she'll ship me out of Naibu to some other school. I don't want to go there; I like it here in Mourilyan.
+talk="p": 	So you decided to study hard in every class?
+talk="n": 	Yeah, and it worked out for all of my classes except Ms. Q's class. She really hates my guts. She gave me a 67%, but I really got a high B. I can't believe her! I studied so much history too.
+talk="p": 	You have any proof of that? I know Eira to be difficult some times, but I can't believe she'd do that.
+talk="n": 	She told me to my face. Said she didn't bother grading mine cause she knew I'm a D student. I tried to explain that to my mother, but she thinks I'm lying. Now I'm going to have to move in two months.
+talk="p": 	No! I won't allow one of my better pupils to move! I'll see if I can work my social magic on her to get her to change her mind. I'm sure I can do it.
+talk="n": 	It'd mean everything to me. Thanks, Ms. S.
+talk="n": 	Did you talk to Ms. Q for me?
+talk="p": 	Not yet. When I get a chance, I will.
+talk="n": 	You're the best, Ms. S.
+talk="n": 	Did you talk to Ms. Q for me?
+talk="p": 	I couldn't convince her. She's too biased toward your past grades.
+talk="n": 	Well, thanks for the effort, Ms. S. If you can't do it, nobody can.
+talk="n": 	Sigh...I guess I'm moving, then.
+talk="p": 	I'm sorry. I know you're not lying and if I could, I would change your grade since I know you put in the effort.
+talk="n": 	You sure you can't do anymore?
+talk="p": 	I've tried everything I can. Eira keeps her computer with her at all times, so I can't sneak in and change the grade that way.
+talk="p": 	If only I knew how to hack into the school system, I could change your grade so that you don't have to move.
+talk="n": 	Hah! I know you're an art genius, but you don't know squat when it comes to computers.
+talk="p": 	(Do I know anyone who is good with computers? Oh, wait...)
+talk="p": 	Have you checked PowerSchool™ lately?
+talk="n": 	Nah, there's no reason to.
+talk="p": 	I think you might want to check it again.
+talk="n": 	...No way! There's a second test grade where I got an A! Did you really do this for me, Ms. S?
+talk="p": 	Yes, with a little help from a hacker genius, corporation CEO, and an overeager student. I just couldn't stand around as one of my best and brightest students left me.
+talk="n": 	I am ecstatic! But, won't you get in trouble for this?
+talk="p": 	The hacker put the test grade in for everybody, making sure it wouldn't affect anyone's average but yours and I'm pretty sure he's untraceable. There won't be any problems. Take that, Eira!
+talk="n": 	I can't thank you enough! I'm going to paint you the best picture I've done yet, and gift it to you. You really are the best. Thank you!
+talk="p": 	How's that painting coming?
+talk="n": 	It's taking me a while, but I won't give up on it. Just like you didn't give up on letting me leave.
+talk="p": 	I can't wait to see it!
+talk="p": 	How are things going now?
+talk="n": 	Life is good, Ms. S. I've told my friends that I'll be staying and we're having a party to celebrate. I get to stay in the town I love so much. And best of all, I get to see Ms. Q.'s irritated face every day as I improve in her class. It couldn't be better.
+talk="p": 	I'm happy for you, Edwin.
+con_Eira.xml
+==============================
+talk="p": 	Good day, Eira.
+talk="n": 	Why, it is, is it not? I would much rather be outside enjoying the day than being in here correcting essays.
+talk="p": 	I hear you. Teaching art isn't as easy as you would think.
+talk="n": 	Why that's absurd! Of course it's easy! Just grade based on a rubric and you are done in no more than 10 minutes for your entire class.
+talk="p": 	I guess. (Art is so much more than just a grade. Each student has their own style and own limits. But I can't convince you.)
+talk="p": 	Hey, Eira.
+talk="n": 	What is it that you need, Miss Art Teacher?
+talk="p": 	You know your student Edwin?
+talk="n": 	Oh, THAT child. I cannot tell you how many times he has interrupted my class and not done any work. Yet he still has the nerve to believe he can get a good grade.
+talk="p": 	He has been trying very hard to improve his grades lately. If he doesn't, his mother will make him move.
+talk="n": 	Sounds just like the child to only put in effort if there is a reward. He must not be improving that much if he is still failing my class.
+talk="p": 	I was just talking to him, and he feels he did really well on his last test. However, his grade doesn't reflect that.
+talk="n": 	Is he trying to get you to do his dirty work, then? I expect he told you that I fixed his grade at a certain level? Utter nonsense, that is. I would never give him a grade that he doesn't deserve.
+talk="p": 	If you say so. (I don't believe Edwin would lie. And I don't like your attitude, Eira.)
+talk="p": 	So you deny his claim then?
+talk="n": 	Do you believe a child over a respected teacher, Emere? I cannot believe that you would even take his side on this issue.
+talk="p": 	Was it a mistake on PowerSchool™?
+talk="n": 	Of course not! I entered his grade in PowerSchool™ and when he saw his grade on PowerSchool™ and complained to me, I rechecked his grade on PowerSchool™ with his test and they were one and the same.
+talk="p": 	Mistake in the grading?
+talk="n": 	Argh! Do not make me get administration involved, Emere. They will gladly take my side when they view his grades and my academic history. Leave at once before you give me the chance to!
+talk="p": 	Mind if I look at his test?
+talk="n": 	That is, err, classified information. I am the only one who can administer and grade history tests.
+talk="p": 	So if Edwin can't see what he got wrong, how can he improve?
+talk="n": 	Why, he simply has to study harder. He knows the questions he took, and in his notes, if he has any, there should be all he needs to study for cumulative tests.
+talk="p": 	Okay. I guess that kind of makes sense.
+talk="n": 	Not now, Emere! I'm in the middle of something.
+talk="n": 	YOU! Do not think that I would not take notice of the crimes you have committed!
+talk="p": 	Why, I don't know what you're talking about. I just came by to ask you a question.
+talk="n": 	Don't play dumb with me, Emere! I know you put in that extra test grade that I never administered!
+talk="p": 	That's quite the accusation to a fellow teacher. You don't trust me?
+talk="n": 	No, no I do not. The worst part is, administration doesn't trust me either. The log for PowerSchool™ shows that I input the grades this morning. Even though I don't have the paper tests, they still think I am crazy. Nobody believes me.
+talk="p": 	Ah, karma is sweet, isn't it.
+con_END.xml
+==============================
+talk="Emere": 	Tell me. Why did you raise me from the dead?
+talk="Ebisu": 	To give you a chance. To be able to shine in the world like you were destined. But you were so cruelly robbed of this.
+talk="Emere": 	So now you're going to take that away from me?
+talk="Ebisu": 	Listen to me, daughter of the sun...
+talk="Ebisu": 	You have done well. Lived your life as it was fated to be. Your flame was given a chance to burn in this world. Why are you not pleased?
+talk="Emere": 	I don't want illusions! If you're going to take away it all, why do it in the first place? Why not let me live here in peace forever?
+talk="Ebisu": 	Ah... I can feel it in the orbs. You did not spend enough time living through this world.
+talk="Ebisu": 	You only collected the orbs in search of knowledge, did you not? And now that very knowledge you yearned for has turned into ignorance and hatred.
+talk="Emere": 	That's not true! I collected the orbs because I loved to help people. I'm just angry that you hid the truth from me and now you're taking everything away.
+talk="Ebisu": 	Child of light, I can't let you stay here. Nothing lasts forever. Your flame has reached the end of the wick.
+talk="Ebisu": 	Your soul needs rest. Your life now has some happy memories to it that the people of Naibu will never forget.
+talk="Ebisu": 	Rest in Peace.
+talk="Emere": 	No, I'm not ready to--
+talk="Ebisu": 	Was it not enough to help all those people? Was it all just so that you could gain some orbs and solve a mystery?
+talk="Emere": 	I... I see.
+talk="Emere": 	You know, you're right. I shouldn't focus on all the negatives. At least I'd been given a chance to live a full life helping others in this wonderful dream paradise.
+talk="Ebisu": 	Ah... I can feel it in the orbs. You loved your time here and cherished the people and places you met. I am pleased.
+talk="Ebisu": 	However, child of light, I can't let you stay here. Nothing lasts forever. Your flame has reached the end of the wick.
+talk="Ebisu": 	Your soul needs rest. Your life now has some happy memories to it that the people of Naibu will never forget.
+talk="Ebisu": 	Rest in Peace.
+talk="Emere": 	Thank you.
+con_Flora.xml
+==============================
+talk="p": 	Hey, Mom.
+talk="n": 	Good morning, Sweetums!
+talk="p": 	Do me a favor and never call me that again.
+talk="n": 	Aww, okay. Grab some food while you are here.
+talk="p": 	Will do. Thank you!
+talk="n": 	Good morning, Emere! You're finally awake. I didn't want to wake you up on a weekend.
+talk="p": 	I'm glad you are considerate of my sleeping habits.
+talk="n": 	Well, it's kind of hard to wake you up at a reasonable time when you stay up until 1:00 AM every evening - sorry, morning.
+talk="p": 	Well, EXCUUUUUUSE ME!
+talk="n": 	I didn't know I raised a comedian.
+talk="n": 	...
+talk="p": 	You need something?
+talk="n": 	Do you mind seeing how Kanna is doing? You know about today.
+talk="p": 	Oh... I guess.
+talk="n": 	Well? How is she?
+talk="p": 	She seems fine, I don't think she remembers.
+talk="n": 	Good. No need to worry her.
+talk="n": 	Just in case, can you find something to cheer her up? I don't want to see her like she was last time.
+talk="p": 	Why don't you do it yourself?
+talk="n": 	She'd appreciate it more if it was you. You don't want to help your sister? You heartless sibling.
+talk="p": 	It was just a question! Of course I'll help her.
+talk="p": 	I'd do anything for my sister.
+talk="n": 	As you should, if you are a nice sister.
+talk="p": 	Hey now. Play nice. What do you think I should do for her?
+talk="n": 	You should ask her for something she wants.
+talk="p": 	Sounds easy enough.
+talk="n": 	Go on! Talk to Kanna.
+talk="p": 	She says she wants some candy from some elder. Know any clues?
+talk="n": 	That's an obscure request. I have no idea, sorry.
+talk="p": 	I know, right! (That's creepy... She said the same thing I did...)
+talk="n": 	There's old people everywhere, they all give out candy. You'll have to ask around.
+talk="p": 	I've found an old lady who seems down. Have you heard of the name Nakamura?
+talk="n": 	It sounds familiar... Ah! I believe she used to work as a confectioner who traveled town to town selling sweets with her husband. She retired just recently.
+talk="p": 	Her husband was murdered by thugs.
+talk="n": 	How tragic!
+talk="p": 	I've found something to make Nakamura happy, but I need a lot of money. Any chance I could get a raise on my allowance?
+talk="n": 	Not a chance! You know how hard it's been after... he died.
+talk="p": 	I know, I know, but in order to get something Kanna wants, I need to make a trade at the pawnshop.
+talk="n": 	Well, you came to the wrong person to ask for money. Try asking our neighbors, they might help.
+talk="p": 	(I'll be sure to skip next-door.)
+talk="n": 	I'm busy right now, Emere. Can we talk another time?
+talk="n": 	I'm busy right now, Emere. Can we talk another time?
+talk="n": 	You've found something, I assume?
+talk="p": 	Yes! I got some candy from Nakamura in Fujita.
+talk="n": 	Candy, huh. I guess it works.
+talk="p": 	Just you wait and see. She'll love it.
+talk="n": 	Huh-huuh.
+talk="n": 	Well, I'll be. Kanna seems happier than ever. You did a great job!
+talk="p": 	It was quite the journey. I'm just glad I could cheer her up, though.
+talk="n": 	You really are a great sibling and daughter.
+talk="p": 	And you are a great mother (Except for your overdose of sass).
+talk="n": 	You thinking something?
+talk="p": 	No, nothing. (she knows me too well.)
+con_Gabe.xml
+==============================
+talk="p": 	Hey, Gabe...
+talk="n": 	I've told you many times to call me Lord Gaben. Please make that correction in the future.
+talk="p": 	Sorry, Gabe. But I can't do that. It's too weird, you know?
+talk="n": 	Whatever! What business do you have here?
+talk="p": 	I was just dropping by--
+talk="n": 	If you came here for nothing, then leave! I'm busy coding.
+talk="p": 	Fine. Have a wonderful day, Lord Gaben.
+talk="p": 	Hey, Gabe. I need a favor. (What have I gotten myself into?)
+talk="n": 	From me? Get someone else to do it. I've got a lot of tasks in my queue.
+talk="p": 	It's something only you can do. It's hacking into the school system to change a grade.
+talk="n": 	That's child's play. You can't even do that? What a scrub.
+talk="p": 	Look, Gabe. I really need you to do this for me. Will you do it?
+talk="n": 	Asking for a favor without a reward? I'm not one of your good friends, lass. ...But fear not. Lord Gaben shall take pity on your soul. If you can swap something of equal value, surely I, the mighty and all powerful Lord Gaben, shall provide.
+talk="p": 	I am in your debt, Lord and savior of all the land. Without You, who knows what the world would become?
+talk="p": 	Give me something reasonable I can do in exchange.
+talk="n": 	Processing...
+talk="n": 	Your search returned 3 items. Good thing my task list is always sorted. I've got a program that I need a 3D model for, which requires a real life person to convert into data.
+talk="p": 	I find that weird how that's at the top of your list. Next item, please.
+talk="n": 	I've got approximately 8,694,323 papers that need converting into the superior storage medium, computers.
+talk="p": 	...What's the last item?
+talk="n": 	To pick up the latest MSI GeForce GTX 970 from the closest hardware store. My SocioEconomic Level Detector and Analyzer (SELDA) has returned a report stating that you are too poor to complete the last task.
+talk="n": 	The easiest one is the 3D model job, but you are free to do any other one in exchange for my 1337 hacking skills.
+talk="p": 	Sounds like a plan. (He's creepy, I tell ya. The last item seems like the most reasonable, but how can I get something so expensive?)
+talk="p": 	What exactly are you doing now?
+talk="n": 	I'm calculating the market to find out the perfect time I should bless my followers with a Steam Sale.
+talk="p": 	Sounds like an important job.
+talk="n": 	You don't even know how hard it is to be a computer genius. My processor, despite being overclocked, nearly overheats every day.
+talk="p": 	Who do you work for?
+talk="n": 	A variety of clients, some of which I can't disclose to you. A big client in the local area, called Lambda Drinks Corporation, pays me the big dollars for my cybersecurity protection. If you think I'm rich, they're at least x^2 as much rich.
+talk="p": 	Oh, you mean the people who live in the huge mansion in the north of town? I know them.
+talk="n": 	You should. They're the best known drink company on this entire planet! They basically have a monopoly in the industry. Put a whole lot of money into computer technology research too.
+talk="p": 	I see why you work for them.
+talk="p": 	I've got your... TRI GuNiche 302, whatever, graphics card for you.
+talk="n": 	You mean the MSI GeForce GTX 970? Lame scrub. You can't be serious...
+talk="n": 	Whoa! Incredible! This was just released, having a high release price yet you still managed to retrieve it. I guess my SELDA needs adjusting...
+talk="n": 	Lord Gaben is impressed. He shall perform one reasonable deed of your choice.
+talk="p": 	I'd never ask for anything in return for such a good friend of mine.
+talk="n": 	Don't be silly, moral. Lord Gaben has no friends. No one can handle his godly powers.
+talk="n": 	I told you from the beginning we would conduct a swap, not adding a favor to the queue.
+talk="p": 	I'd like you to hack into the school system and change a grade.
+talk="n": 	That's what you want still? I guess I can do that.
+talk="n": 	I will commence the hacking now. Systems, power up! Let's break their puny firewall!
+talk="n": 	It is finished. He now has a B in history. Now, be gone! I've got important work to do.
+talk="p": 	Okay, okay.
+talk="n": 	Didn't I tell you I'm busy? Leave me!
+talk="p": 	Thanks for your help, Gabe.
+talk="n": 	Is that all you came here for? To say thanks? There's no need, as we both benefited from the trade.
+talk="p": 	It's just nice to say "thank you," okay? I'll be leaving now.
+talk="n": 	Emere, ...The Lord thanks you for being of assistance. He'd not be against trading in the future.
+talk="p": 	I'll keep that in mind.
+con_aidMoth.xml
+==============================
+talk="n": 	Emere! Make yourself at home. Sorry we don't have any place for you to sit.
+talk="p": 	That's quite alright. I understand how hard it is to buy back all that furniture.
+talk="n": 	I'm glad you're here. Adelaide needs someone like you to cheer her up after she lost all of her belongings.
+talk="p": 	I'm happy to do so. She's a great friend to me.
+con_bar1.xml
+==============================
+talk="n": 	Welcome to Nulato's Country Kitchen and Bar!
+con_bar2.xml
+==============================
+talk="n": 	Ya lookin' to orda?
+talk="p": 	Nah. I'm just looking at the menu.
+talk="n": 	Take ya time.
+talk="n": 	It's always busy here.
+con_bar3.xml
+==============================
+talk="n": 	Waitress, bring me another glass of beer!
+talk="n": 	What are you looking at?
+talk="p": 	I didn't even look at you.
+talk="n": 	Careful what you say and do. The eye always watches you.
+con_bar4.xml
+==============================
+talk="n": 	The fried chicken here is delicious!
+talk="n": 	I can't get enough of these hot fries!
+con_barn.xml
+==============================
+talk="p": 	Where are all the animals?
+talk="n": 	Sadly, they all ran away when I left the door open one day. I'm buying new ones soon.
+talk="p": 	Where did they go?
+talk="n": 	Into the forest. They're gone now.
+talk="p": 	What's the bird doing here?
+talk="n": 	I don't know. He flew in here one day and I can't seem to get him to leave. He only does when he needs to eat.
+talk="p": 	You don't feed him?
+talk="n": 	Nope. He doesn't provide anything for me except a headache. He can fend for himself.
+con_casino.xml
+==============================
+talk="n": 	C'mon! Papa needs a new pair of shoes! Shoot! This thing's rigged.
+talk="n": 	You're not old enough to gamble. What are ya doin' here?
+con_casino2.xml
+==============================
+talk="p": 	Why do you gamble?
+talk="n": 	I can't find a job. It's the only way I have to feed my family. I take out loans to try to make some money. I'm near bankrupt.
+talk="n": 	Excuse me! Jin. I'd like 10 more chips for this poker game.
+talk="Jin": 	You got it!
+con_ch1.xml
+==============================
+talk="n": 	I'm saving a seat for my friend.
+talk="n": 	The Great Goddess blesses us with farm surpluses every year. How gracious of Her!
+con_ch2.xml
+==============================
+talk="n": 	You a believer?
+talk="p": 	No.
+talk="n": 	Then what do you believe?
+talk="p": 	I believe in evolution.
+talk="n": 	Oh! How unfortunate that you fail to see the brilliant light the Goddess has given you!
+talk="n": 	May the Goddess be with you.
+con_ch3.xml
+==============================
+talk="n": 	This church is so beautiful! The Goddess must be pleased.
+talk="n": 	I wonder what the sermon today will be about?
+con_ch4.xml
+==============================
+talk="n": 	Be still and know the Goddess is here. She will protect you.
+talk="n": 	The Cerzan holds the key to understanding the universe.
+con_f1.xml
+==============================
+talk="n": 	You've found yourself at the pitiful town of Fujita. Watch your wallet.
+talk="n": 	The journey to this town is long and so not worth it. There is nothing good here.
+con_f2.xml
+==============================
+talk="n": 	Please feed me. I'm so hungry. Please.
+talk="p": 	I don't have any food or money, sorry.
+talk="n": 	I'm dying.
+talk="n": 	I'm just going to lie down for a while...
+con_f3.xml
+==============================
+talk="n": 	I've been working on this railroad since I could walk. You could say I'm used to it, but I will never be.
+talk="n": 	Got any spare change? I'd kill for some food.
+talk="p": 	I left my wallet at home. (I don't like that look in your eyes.)
+con_f4.xml
+==============================
+talk="n": 	So many railcars come in to trade illegal goods on the black market. Our job is to load and unload them all.
+talk="n": 	Been down the rail track before? It's kind of interesting. But not really.
+con_f5.xml
+==============================
+talk="n": 	That big building is the home of the Seraphim Ministry, the largest gang in the whole province.
+talk="n": 	I'm sick of looking at this bleak scenery. I want to take a trip to Ginga or something and see the beautiful trees I've heard grow there.
+con_fHouse.xml
+==============================
+talk="n": 	Who let you in?
+talk="n": 	Come to laugh at our small house?
+con_fHouse2.xml
+==============================
+talk="n": 	The stress of always fighting for survival gets to people.
+talk="n": 	You look well dressed. Come to take a look at the peasants are you?
+con_gBoy.xml
+==============================
+talk="n": 	Who're you looking at? Ya wanta fight me?
+talk="p": 	No, I just thought you look a bit small for this profession.
+talk="n": 	I'll fight ya! Yes, sir! I will! Let me at ya!
+talk="n": 	It's tough. Gangs are relentless. But a job's a job.
+con_gGen.xml
+==============================
+talk="n": 	If you look at the crime industry here in Fujita, you'll see and industry as prosperous as agriculture or construction in another city. That's crazy.
+talk="n": 	When's the next operation? I'm running out of money for food.
+con_gInn.xml
+==============================
+talk="n": 	Welcome! You want to stay the night?
+talk="p": 	I'm all set.
+talk="n": 	Okay...
+talk="n": 	Business is slow for some reason.
+con_gInn2.xml
+==============================
+talk="n": 	Ah, these beds are comfy!
+talk="n": 	I love staying at inns!
+con_gInn3.xml
+==============================
+talk="n": 	Inns always serve horrible food. I always go to the local bar instead when I'm staying in Nulato.
+talk="n": 	Complimentary soap? No. Free wi-fi? No. This inn doesn't have anything.
+con_lib.xml
+==============================
+talk="n": 	Books expand the mind and build a temple of knowledge in your brain.
+talk="p": 	You should become a writer. You've got the diction down.
+talk="p": 	Favorite genre?
+talk="n": 	I love reading mystery novels. It really gets your brain to think critically and question everyone's motive.
+con_lib2.xml
+==============================
+talk="n": 	I can't understand the Naibian alphabet here. I wonder if there are any books in my language.
+talk="n": 	I traveled all the way here from Yarl because I heard what a large selection this library has.
+con_m1.xml
+==============================
+talk="n": 	Graveyards are sad.
+talk="p": 	Sure are.
+talk="n": 	I'm looking for the first Mourilyan mayor's grave, but I can't seem to find it.
+talk="p": 	Huh. Is it buried in a special location?
+talk="n": 	Perhaps...
+con_m10.xml
+==============================
+talk="n": 	Call my cellphone.
+talk="p": 	What?
+con_m11.xml
+==============================
+talk="n": 	What band do you listen to? I want some new material.
+talk="p": 	I listen to a local artist named Kalliope. She's got a really beautiful voice.
+talk="n": 	Hmm. I'll give her a try sometime.
+talk="n": 	I love listening to music! One of my favorite bands is Emerson Lake and Palmer.
+con_m12.xml
+==============================
+talk="n": 	If you head southwest, you'll arrive in Nulato.
+talk="n": 	Welcome to Mourilyan!
+talk="p": 	I live here.
+talk="n": 	So sorry!
+con_m2.xml
+==============================
+talk="n": 	There's quite a party going on in the mansion. I can't wait to go inside.
+talk="n": 	I've got to fix my hair before I go inside the mansion. Looks are everything with rich people.
+con_m3.xml
+==============================
+talk="n": 	I should really wear shoes. The rocks are burning my feet!
+talk="n": 	Most people don't say much. They've only got about one or two things on their minds. Poor souls.
+con_m4.xml
+==============================
+talk="n": 	This uniform is so constricting.
+talk="n": 	Protecting the people is my duty. I will make sure the whole province of Naibu is safe!
+talk="p": 	That's a big goal for one person.
+con_m5.xml
+==============================
+talk="n": 	Ah, another fine day in Mourilyan.
+talk="n": 	Raisins!
+talk="p": 	Hello to you too.
+con_m6.xml
+==============================
+talk="n": 	This park is so nice! I'm glad the mayor allows the townsfolk to use it.
+talk="n": 	Ah, flowers, trees, what more could anyone want?
+talk="n": 	Being one with nature has lots of benefits.
+con_m7.xml
+==============================
+talk="n": 	How do you do?
+talk="p": 	I do just like anyone else.
+talk="n": 	Do-dodo! Good answer.
+talk="n": 	I've got a joke for you. Why does the ocean sing?
+talk="p": 	Why?
+talk="n": 	Because it wanted to become an opera singer but was born into the wrong life.
+talk="p": 	Nice anti-joke.
+con_m8.xml
+==============================
+talk="n": 	You live in a rich town.
+talk="p": 	I am aware.
+talk="n": 	All you need is love.
+talk="p": 	Indeed.
+con_m9.xml
+==============================
+talk="n": 	I want your opinion. How does this hat suit me?
+talk="p": 	Honestly, it looks a bit funky.
+talk="n": 	Everyone says that! Can't someone humor me and tell me it looks good?
+talk="n": 	Look at that guy, selling spices. He looks like he comes from a far off land.
+con_mansionM.xml
+==============================
+talk="n": 	Whose got more money. Me or you? I bet a million it's me.
+talk="n": 	I look so dapper in this suit.
+talk="n": 	I own over 10 cooperations!
+talk="n": 	Would any lady care to dance with the man who runs the stock market?
+talk="n": 	If you don't have money, get out of my sight.
+talk="n": 	Guess what?
+talk="p": 	What?
+talk="n": 	I'm rich!
+talk="p": 	Wow. Big surprise.
+talk="n": 	The food provided is subpar. My lobster is too small and has too much gooey stuff on it!
+talk="n": 	I'm so full, I'm ready to puke.
+talk="p": 	Eww.
+talk="n": 	Who's ready to party?
+talk="n": 	I'm almost out of #500 bills! Better run to the bank soon.
+talk="n": 	My suit suits me well, eh? Eh?
+talk="n": 	I will not eat this fruitcake if it doesn't have any saffron in it!
+con_mansionW.xml
+==============================
+talk="n": 	Money! I'd love to dance with any man that owns lots and lots of money!
+talk="p": 	Excuse me.
+talk="n": 	How rude! Do you know how much money I have! Enough to throw you in jail for bumping into me!
+talk="n": 	Don't I look fabulous?
+talk="n": 	Complement my hairdo. It's absolutely gorgeous.
+talk="p": 	It does look nice.
+talk="n": 	Money! I'd love to dance with any man that owns lots and lots of money!
+talk="n": 	Do I hear the ringing of money?
+talk="n": 	Did someone mention money? And lots of it?
+talk="n": 	This music is sublime! The performer is the best on this planet!
+talk="n": 	I know what it takes to be a well behaved lady.
+talk="n": 	My, my. A commoner joins the party.
+talk="n": 	What are you doing here in the rich people's hang out?
+talk="n": 	Oh my! This story is absolutely hilarious!
+con_MawChild.xml
+==============================
+talk="n": 	My mom and dad are always working. Yet they still find enough time to play with me.
+talk="p": 	They're nice people.
+talk="p": 	What do you want to be when you grow up?
+talk="n": 	I haven't thought too much about it. I'm not good at philosophy like my dad or art stuff like my mom.
+talk="n": 	I was going to go outside to play with my friends, but it looks like it might rain or something.
+talk="p": 	I see.
+con_mn1.xml
+==============================
+talk="n": 	Growing crops takes a lot out of you. I haven't had a break in a few days.
+talk="n": 	Good day, traveler. Would you care to buy some produce?
+talk="p": 	I don't have much money on me. Maybe later.
+con_mn2.xml
+==============================
+talk="n": 	This road is well traveled on. The terrain is nice and even and the journey between towns is short.
+talk="n": 	Have you been in the caves yet? They look amazing!
+con_mn3.xml
+==============================
+talk="p": 	What's the deal over here?
+talk="n": 	There's a large forest here. It's almost like a maze out of trees. Few venture into the dark canopies.
+talk="p": 	Any tips for navigation?
+talk="n": 	I've heard that if you see a clearing, the very left and right of the trees you can pass upwards through.
+talk="p": 	Thanks!
+con_mn4.xml
+==============================
+talk="n": 	Be careful. A magic using beast lives deeper in these woods. Turn back now if you don't want to face him.
+talk="n": 	Go southwest of me to exit the forest. Go west to meet the forest clearing.
+con_mn5.xml
+==============================
+talk="n": 	This area is really beautiful, isn't it?
+talk="n": 	I'm glad I got stationed in Naibu. I wouldn't have been able to keep sane if I had to stay in Ginga another day.
+con_n1.xml
+==============================
+talk="n": 	Hey, old sport. You want to fly on my seaplane sometime?
+talk="p": 	There isn't a body of water that large nearby.
+talk="n": 	It's in Ginga, old sport.
+talk="p": 	I don't have a passport so I can't go.
+talk="n": 	You want to come to one of my parties sometime, old sport?
+talk="p": 	I'm not too much of a partier.
+talk="n": 	That's a real shame, old sport.
+con_n2.xml
+==============================
+talk="n": 	Halt! This is the police!
+talk="p": 	What did I do?
+talk="n": 	Nothing, I just wanted to say that once in my career.
+talk="n": 	I'm currently investigating the case of the missing furniture. Have any leads?
+talk="p": 	No, I don't.
+con_n3.xml
+==============================
+talk="n": 	The church attracts followers from all over the planet.
+talk="n": 	Blessed are those who commit no evil.
+con_n4.xml
+==============================
+talk="n": 	Magic seems cool, right? But it's really the work of the Demon. Its users are not welcome here. A shame, really.
+talk="n": 	I wish I could use magic...
+con_n5.xml
+==============================
+talk="n": 	I'm a news reporter for a local paper. Can I ask you a question?
+talk="n": 	Why does your family live in the town it does?
+talk="p": 	We chose Mourilyan because the community seemed really open and kind.
+talk="n": 	What's your favorite place to hang out?
+talk="p": 	I really like sitting in the cave that's between Mourilyan and Nulato. It's really relaxing in there.
+talk="n": 	Thank you for your time!
+con_n6.xml
+==============================
+talk="n": 	Calculate the sum of my earnings.
+talk="p": 	What does that even mean?
+con_n7.xml
+==============================
+talk="n": 	This tree is huge!
+talk="n": 	This town is at a crossroads so it gets a lot of traffic.
+con_n8.xml
+==============================
+talk="n": 	Hey, lady. Want some fresh vegetables?
+talk="p": 	Not right now.
+talk="n": 	Remember that I have the lowest prices.
+talk="n": 	I should consider raising livestock as well. Farming's fun!
+con_nf1.xml
+==============================
+talk="n": 	I'm sorry, but you can't travel into the province of Yarl without a passport.
+talk="p": 	Okay.
+con_nf2.xml
+==============================
+talk="n": 	My apologies. I cannot allow you to pass without proper identification into the province of Ginga.
+talk="p": 	Okay.
+con_nf3.xml
+==============================
+talk="n": 	I'm standing guard at the road that connects the three provinces: Naibu, Ginga, and Yarl. Making sure no one tries any funny business.
+talk="n": 	This land around here is so bland. I want to vacation to Ginga and stay at a spring. I can almost see the wonderful scenery from here.
+con_nf4.xml
+==============================
+talk="p": 	What are you doing out here?
+talk="n": 	I'm playing in the plains! It's so windy here, I almost lost my Frisbee.
+talk="n": 	I've got ten apples in my basket. Two more and I'll have a dozen.
+talk="p": 	What are you talking about?
+talk="n": 	It's the start to a poem I'm thinking up. I'm going to be a famous poet when I grow up.
+talk="p": 	I'd try a little harder if I were you. There are some real good poets out there.
+con_nf5.xml
+==============================
+talk="n": 	Have you seen the latest movie? It killed me.
+talk="p": 	Which one?
+talk="n": 	I've forgotten. I never liked movies. They're too phony.
+talk="n": 	You from Mourilyan?
+talk="p": 	Yes. What about it?
+talk="n": 	Hmmm. Just like I thought. Another phony.
+talk="p": 	Don't say that when you don't know me!
+con_nf6.xml
+==============================
+talk="n": 	I'm out here doing research for a game I'm developing. It's going to be a Metriodvania style in an open world.
+talk="p": 	Sounds great!
+talk="n": 	Yeah. The only problem is time. Games take forever to make. Like over two years for your average game.
+talk="n": 	What's your favorite game?
+talk="p": 	Well, I like RPG games. If I had to pick, I'd pick the first Professor Layton game, as it blends puzzles and story perfectly.
+talk="n": 	Good choice. I personally love Final Fantasy 6.
+con_nf7.xml
+==============================
+talk="n": 	Man, I could really go for a soda right row. It's hot in here.
+talk="n": 	Ginga's such a better place than this place. I mean just look at the landscape. No wonder we get so many tourists.
+con_nf8.xml
+==============================
+talk="p": 	What's with the turban?
+talk="n": 	It's a custom of Ginga. Part of our religion, see. Can't show anything but our faces at all times when others are around.
+talk="p": 	Huh.
+talk="p": 	What's so good about Ginga?
+talk="n": 	We were blessed with all the good land a country could get. Beautiful trees, wonderful canyons, waterfalls, and more. It's really nice.
+con_nf9.xml
+==============================
+talk="p": 	What's Yarl like?
+talk="n": 	We got lots of mountains and because of that we have many mines and raw materials. Which leads to lots of industry. The sky is always clouded with chemicals.
+talk="p": 	Sounds like you shorten your life every second you are there.
+talk="n": 	I am sure glad to be out of Yarl. That place is horrible.
+con_nInn.xml
+==============================
+talk="n": 	Ya want a room?
+talk="p": 	No, but--
+talk="n": 	Then get outa here!
+con_nInn2.xml
+==============================
+talk="n": 	You've got some real courage talking to me. You want to get robbed? Don't let my old appearance fool you. I'm really strong.
+talk="n": 	Want to take a bet? It's really good odds for you.
+talk="p": 	No thanks.
+talk="n": 	Did you just say no? Tell me I heard incorrectly.
+talk="p": 	I'll get going.
+con_op1.xml
+==============================
+talk="n": 	This is a staff only room. Who let you in?
+talk="n": 	This room is private. You are not permitted to be here.
+con_op2.xml
+==============================
+talk="n": 	There's no show going on right now. Kalliope is practicing for tomorrow's performance.
+con_op3.xml
+==============================
+talk="n": 	This place looks so cool! So gothic!
+talk="n": 	I'm paying big money to make a party reservation for the next performance.
+con_op4.xml
+==============================
+talk="n": 	I like it when they do plays here. Shakespeare is a genius when it comes to writing them.
+talk="n": 	Excuse me. Do you know when the next show is?
+talk="p": 	No. Why don't you ask someone who works here?
+talk="n": 	Oh, sorry. I thought you worked here. You seem like a creative type.
+con_op5.xml
+==============================
+talk="n": 	I'm Kalliope's producer. She's practicing for her next performance. Try not to disturb her.
+con_op6.xml
+==============================
+talk="n": 	I'm Kalliope's makeup artist. Doesn't she look fab?
+con_RaisWife.xml
+==============================
+talk="n": 	My brother always talks about you. He's really taken a liking to you.
+talk="p": 	Tell him I like to be around him too.
+talk="n": 	Have you tried the new pumpkin muffins they sell at the store? They're delicious!
+talk="p": 	No. I'll have to try them sometime (if they're not overpriced).
+talk="n": 	You won't be able to stop eating them once you start!
+con_risCh.xml
+==============================
+talk="n": 	Wolfy is my best friend. He's so cool!
+talk="n": 	Ah! I just can't beat this final boss. He's too tough.
+talk="p": 	Want some help?
+talk="n": 	No, girls aren't good at videogames.
+talk="p": 	Sexism starts young...
+con_sh.xml
+==============================
+talk="n": 	What's this? Letters in math? I don't get it. Is it like having tt + 3 = f?
+talk="n": 	I don't want to learn about Naibian history! It's boring!
+con_sh2.xml
+==============================
+talk="p": 	How's work on your sculpture?
+talk="n": 	It's coming along well. Although I am unsure of how to do the face.
+talk="p": 	That's the toughest part. I'll give you some pointers.
+talk="p": 	You hand in your reflection for your painting yet?
+talk="n": 	Oh, that. I was going to, but I wanted to work on my sculpture.
+talk="p": 	I understand. Get it to me as soon as you can.
+con_spareR.xml
+==============================
+talk="n": 	Hello, young lady. Would you care to go out sometime?
+talk="p": 	I just met you! Maybe after we get to know each other.
+talk="n": 	You're just so beautiful that I want to take you out now.
+talk="p": 	It'll have to wait.
+talk="n": 	What's more beautiful than a garden flower?
+talk="p": 	What?
+talk="n": 	Your face.
+talk="p": 	That was horrible. Try harder next time.
+con_spareW.xml
+==============================
+talk="n": 	Would you like some pound cake, dear?
+talk="p": 	I'm all set. Thanks for the offer.
+talk="n": 	My son would love to meet you. He's around your age, so you should get along well.
+talk="p": 	I'll go speak to him.
+con_store1.xml
+==============================
+talk="n": 	I'm here to buy some gadgets. They just don't sell stuff like this in Yarl!
+talk="p": 	Yeah, they're pretty primitive. I see you eyeing the latest smartphone from Lemon.
+talk="n": 	I would buy it, but I have no idea how to use it.
+talk="n": 	Man, it's nice to have a break from the military. Even if it's just for an hour.
+talk="p": 	Yeah, it must be hard having no free time.
+con_store2.xml
+==============================
+talk="n": 	Hmm. What should I buy for dinner tonight?
+talk="n": 	This store sells everything!
+talk="n": 	I'll buy this, and this, oh and maybe that!
+con_Gocha.xml
+==============================
+talk="p": 	Hey.
+talk="n": 	Why, hello there young lady. Are you having a great day today?
+talk="p": 	It's alright I guess.
+talk="n": 	That's a real shame, it is. Would a caramel cream make you feel better? Take one.
+talk="p": 	Thank you! You're so kind.
+talk="p": 	Fantastic. How about yourself?
+talk="n": 	I am enjoying the nice weather out today. The sun feels great on my skin.
+talk="p": 	Even though you live in such a dark, gloomy town?
+talk="n": 	Yes. This way, I don't get sunburn. That's one of the reasons I chose to move here.
+talk="p": 	Hello, sir.
+talk="n": 	Why, it's nice of you to visit an old man like me. Please, have a seat and I'll make some tea.
+talk="p": 	I'm quite alright, thank you. (My heart is impaled with a thousand needles right now.)
+talk="p": 	(Oh, no. I can't look him in the face any more. Let alone talk to him.)
+talk="p": 	(How should I give this back?)
+talk="p": 	(I should tell the truth.)
+talk="p": 	Sir, I believe I've caused you some trouble...
+talk="n": 	No, I don't think you have. Why do you say that?
+talk="p": 	Well, the truth is...
+talk="n": 	My dear! What a riveting tale! They should write a book on you and your adventures. I was wondering where that gemstone went. But I see now that you had good reason to take it, so there's no way I would dislike what you chose to do.
+talk="p": 	(I'll make something up.)
+talk="n": 	I want to give you something for returning the gemstone to me.
+talk="p": 	It's alright. You don't have to--
+talk="n": 	I want to give something to you. I'll be dead soon, so I want to hand out objects that will keep the memory of me living on. Please take this gift.
+talk="n": 	You are always welcome here. Feel free to "chill" as the kids say.
+talk="p": 	Sounds sick! Wicked! Radical!
+con_Helen.xml
+==============================
+talk="p": 	Hey, Helen. How's life been?
+talk="n": 	Howdy, Emere! It's been going swell. My boy been giving you any trouble?
+talk="p": 	He's just fine. One of my better students.
+talk="n": 	My Edwin just loves your class. Can't stop making art.
+talk="p": 	He's got a real passion, I tell you. He'll make it big in the art world.
+talk="p": 	You really sending Edwin away?
+talk="n": 	He's got to learn there're consequences for every action. He doesn't do well, he needs a different environment. It's a bit more expensive to move to Ginga, but we'll manage.
+talk="p": 	Understandable. (But very radical...)
+talk="p": 	Do you believe Eira's messing with Edwin's grades?
+talk="n": 	No! I'd never doubt the integrity of any teacher! They've good moral standards, ya know? It's just a lie Edwin made to convince me to let him stay.
+talk="p": 	Understandable. (But very untrusting...)
+talk="p": 	Why move Edwin if he's doing better in his other classes?
+talk="n": 	Well, ya know he doesn't really connect with any other teacher besides ya. I want him to be successful in all subjects.
+talk="p": 	Understandable. (But very extreme...)
+talk="n": 	Edwin says he wants to speak with ya.
+talk="p": 	It looks like Edwin recovered his grade at the last minute.
+talk="n": 	I'm speechless, ya know? I didn't know he had it in him. Well, I guess we can stay here now. Edwin likes it here too.
+talk="p": 	He's got determination when a subject is important to him. He'll do great in whatever he decides to do.
+talk="n": 	Ah, you're just saying that.
+con_INTRO.xml
+==============================
+talk="Ebisu": 	Child of light...
+talk="Ebisu": 	You are a being of absolute purity, tarnished by the hand of fate.
+talk="Ebisu": 	A sole lantern, covered with the mud of your neighbors.
+talk="Ebisu": 	How unfortunate you are, burning where no one can see you.
+talk="Ebisu": 	Daughter of the sun...
+talk="Ebisu": 	You've seen sadness and suffering, your life plagued by circumstance.
+talk="Ebisu": 	Never once seen the sun in all its glory.
+talk="Ebisu": 	Short and long, the hours pass, yet no hope in sight for you.
+talk="Ebisu": 	Ancestor to life...
+talk="Ebisu": 	You've been in the darkness too long.
+talk="Ebisu": 	Become awakened to a new world, and see it with your own eyes.
+talk="Ebisu": 	Welcome and be welcomed to the province of Naibu, far from the dirt where you hail.
+talk="Ebisu": 	Be rejuvenated, and spread your light to those who need it.
+talk="Ebisu": 	Only then will you truly shine.
+talk="Ebisu": 	Emere, it's time for you to awaken.
+talk="Emere": 	...
+talk="Emere": 	(Wow, that was a weird dream.)
+talk="Emere": 	(I can't put my finger on it, but something feels different. I feel butterflies in my chest.)
+talk="Emere": 	(...Maybe I'm catching a cold or something and just had a bad fever dream.)
+talk="Emere": 	(Whatever, I'm hungry, I'll get some breakfast.)
+con_Jacques.xml
+==============================
+talk="p": 	Hey, Jacques.
+talk="n": 	Emere. You're looking great, as always.
+talk="p": 	Always the gentleman, aren't you?
+talk="n": 	Well, in the presence of such a fine lady, one can't help but be eloquent. What brings you here?
+talk="p": 	I'm wondering how your father's business is going.
+talk="n": 	Ah, but why talk about that when we can do something far more interesting, such as go for a walk in the local park.
+talk="p": 	I'm flattered, but I've got things to do.
+talk="n": 	Suit yourself. I am always available for you.
+talk="n": 	Good afternoon. Would you care for a cup of tea?
+talk="p": 	If you are offering...
+talk="p": 	Wow! It's really good. I love the peach flavor.
+talk="n": 	It's an imported from Brazil. Squeezed fresh from 100 peaches in an organic farm.
+talk="p": 	Fancy!
+talk="p": 	Why aren't you succeeding your father's place as heir to the company?
+talk="n": 	Oh, you ask all but the easy questions! I have no interest in business. I seek to become a poet. I will be like one of the greats, Shakespeare, Frost or Poe. Just you wait!
+talk="p": 	Do you have any ideas on who will take your place as heir to the company?
+talk="n": 	I have suggested many to my father, as I feel a little bad leaving with no one to take my place. But, sadly, he has rejected most of them. I thought they would make wonderful replacements, especially my good friend Mao.
+talk="p": 	Why her?
+talk="n": 	She, quite frankly, loves our company. She has been following Lambda Drinks Corporation ever since she was 6. She would me my personal pick for the CEO.
+talk="p": 	But apparently your father doesn't like her.
+talk="n": 	That's not it. It's that she doesn't want the position because she feels there is someone better for it out there. I've tried to convince her otherwise, but I guess I am just not persuasive enough.
+talk="p": 	That is unfortunate.
+talk="p": 	Where is Mao? I'd like to talk to her.
+talk="n": 	She lives in Fujita. I can't seem to remember which house, though.
+talk="p": 	Thanks.
+talk="n": 	You have convinced Mao! Great! Let's see what my father says...
+talk="p": 	Hey, Jacques.
+talk="n": 	Ah, Emere. You have come right in the middle of my writing of a new poem. Would you like to hear it so far?
+talk="p": 	Sure.
+talk="n": 	" The universe is on fire, exploding without flame. We are the lost ones, we are the pioneers. One last brief whisper in our loved ones' ears. To reassure them and to pierce the fear. Standing at controls then still unknown. We told the world we were about to go. "
+talk="p": 	That's surprisingly dark for someone like you.
+talk="n": 	I am aware. I love to capture the dark side of life, the part not seen by many.
+talk="n": 	" In the harsh light of freedom I know that I cannot deny that I have wasted time. I have frittered it away in idle boasts of my freedom and fidelity, when simpler words would have profited me most... I've bogged myself down in the web of talk, quack philosophy and sophistry at physicality I've always baulked. Like the man in the chair who believes it's beyond him to walk. "
+talk="p": 	Your poetry is strange. Really strange.
+talk="n": 	I take that as a compliment. I treasure the fact that I write in a radically different way to any thing anyone has seen before.
+talk="n": 	" Axes shattered, there is no North or South. Far off, the ice is foundering slowly. The ice is turning to water. The water rushes over all. Cities crash in the mighty wave. The final man is very small, plunging in for his final bathe. "
+talk="p": 	I'm sensing a dark progressive mood from your poems.
+talk="n": 	That's exactly what I'm going for.
+con_Jasper.xml
+==============================
+talk="n": 	Good afternoon, sister. The church welcomes your presence.
+talk="p": 	Good to see you.
+talk="n": 	May the Great Goddess bless you and your family.
+talk="p": 	Good priest, why did you exile the poor Tanvir from this peaceful village?
+talk="n": 	Poor? He's a demon! One of the Demon's very own that destroys all the good the Great Goddess does! Why shouldn't I have done my part to take him away from the townspeople? Pray tell, you aren't one of the Demon's followers, are you?
+talk="p": 	Not at all! I just don't believe he's done anything wrong except look the way he does. And no one can control how they look. I think it's unjust. I'd like to see the passage of the Cerzan that describes him.
+talk="n": 	I'm sorry, but I can't let you do that, sister. You plan to use the Book's holy words and skew them to allow the Demon back into our town. I kindly ask you to leave.
+talk="n": 	You probably got your Demonic ideas from that heretic scholar in Mourilyan...
+talk="p": 	You better be ready.
+talk="n": 	I don't have a clue as to what you are talking about, sister.
+talk="n": 	I knew you would side with the Demon. You're about to be put to shame. These townspeople are firm believers in the Great Goddess and won't falter from their belief. It's sad that you have to waste their time.
+talk="p": 	I think you'll soon see the error of your ways. Any goddess would not tolerate the mistreatment of a fellow person.
+talk="n": 	You've done it now.
+talk="p": 	Yes, I've done something good for the town of Nulato. Stop making your own personal prejudices affect everyone else's good moral values.
+talk="p": 	Why do you hate Tanvir so much?
+talk="n": 	It's not that I hate him. It's just that I don't trust him.
+talk="p": 	Why?
+talk="n": 	It might be because of something that happened to me as a child. I was in the forest, and suddenly, a wolf attacked me. Luckily, I hid up in a tree where he couldn't get me. I've had a fear of wolves ever since.
+talk="p": 	I see. That doesn't give you the right to discriminate, though.
+talk="p": 	Tell me more about your religion.
+talk="n": 	What don't you know? The Great Goddess sent 21 dukes from the Kingdom down to Earth and they each met a different fate. Their fate showcases the wrong of the world and how to avoid it. All evil in the world in manifested through the Demon. The Cerzan is a collection of the accounts of the dukes.
+talk="p": 	Wow. Sounds complicated.
+con_Jin.xml
+==============================
+talk="n": 	You feeling lucky? Try your hand at the cards.
+talk="p": 	I can't afford to gamble.
+talk="n": 	That's a real shame.
+talk="p": 	Do you sell whiskey here?
+talk="n": 	SHHH! Keep your voice down! Where did you hear about that?
+talk="p": 	A friend of mine told me.
+talk="n": 	I hope they don't tell anyone else! There's a harsh ban on hard whiskey in this country and a large bounty for turning in criminals selling the stuff.
+talk="p": 	...can I have some?
+talk="n": 	Why does a young lady such as yourself want such potent alcoholics?
+talk="p": 	It's for someone else. They won't help unless I give them some.
+talk="n": 	Hmmm... I don't give anything away for free. If you promise to keep quiet and beat me at a game, I'll give you some. Sound good?
+talk="p": 	Yeah!
+talk="n": 	Let's play a game of rock, paper, scissors! Win three in a row and you'll get a fine prize!
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Paper)... I win! Try again!
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. That's one of the three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Paper)... I win! Try again!
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. That's two out of three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Scissors)... I win! Try again!
+talk="n": 	Shoot! (Paper vs. Rock)... You win. That's two out of three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Rock)... I win! Try again!
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. That's two out of three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Scissors)... I win! Try again!
+talk="n": 	Shoot! (Paper vs. Rock)... You win. That's one of the three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Paper)... I win! Try again!
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. That's two out of three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Scissors)... I win! Try again!
+talk="n": 	Shoot! (Paper vs. Rock)... You win. That's two out of three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Rock)... I win! Try again!
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. That's two out of three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Rock)... I win! Try again!
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. That's one of the three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Paper)... I win! Try again!
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. That's two out of three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Scissors)... I win! Try again!
+talk="n": 	Shoot! (Paper vs. Rock)... You win. That's two out of three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Rock)... I win! Try again!
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. That's two out of three.
+talk="n": 	Rock, paper, scissors...
+talk="p": 	(Rock)
+talk="n": 	Shoot! (Rock vs. Scissors)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Paper)
+talk="n": 	Shoot! (Paper vs. Rock)... You win. Wait just a moment while I get your prize out from the back.
+talk="p": 	(Scissors)
+talk="n": 	Shoot! (Scissors vs. Paper)... You win. Wait just a moment while I get your prize out from the back.
+talk="n": 	Here it is. A bottle of the hardest liquor on the market. Tell your friend that I don't envy them.
+talk="n": 	Let's play a game of blackjack, just for fun.
+talk="p": 	Sure!
+talk="n": 	First card is a 3.
+talk="p": 	Hit.
+talk="n": 	You have a 3 and a Jack.
+talk="p": 	Hit.
+talk="n": 	You have a 3, Jack, and a 6.
+talk="p": 	Stand.
+talk="n": 	Let's see what I have... a Ten, and a Queen. I win!
+talk="n": 	First card is a Ten.
+talk="p": 	Hit.
+talk="n": 	You have a Ten and an Ace.
+talk="p": 	Stand.
+talk="n": 	Let's see what I have... a 7, a 7, and a King. You win...
+talk="n": 	First card is a 5.
+talk="p": 	Hit.
+talk="n": 	You have a 5 and a King.
+talk="p": 	Hit.
+talk="n": 	You have a 5, a King, and a 9. You bust, and I win!
+talk="p": 	Nah.
+con_Jun.xml
+==============================
+talk="n": 	Sister!
+talk="p": 	What? Oh, hi. I didn't see you there.
+talk="n": 	Yes you did! You liar!
+talk="n": 	Sister, what does "psychological" mean?
+talk="p": 	Where did you hear that word from?
+talk="n": 	I read it in one of your books. Tell me what it means!
+talk="p": 	It means what goes on in your head.
+talk="n": 	Oh, like brain stuff?
+talk="p": 	Yep. Just like that.
+talk="n": 	Sister, do you know what time it is?
+talk="p": 	Well, you're up so it must be after 10:00.
+talk="n": 	Yeah, it's almost 12:00! What took you so long to get up? I was so bored!
+talk="p": 	Sorry. Sleep happens.
+con_Kalliope.xml
+==============================
+talk="p": 	Hey, Kalliope. How's it going?
+talk="n": 	Hiya!
+talk="p": 	You selling a lot of music?
+talk="n": 	Not enough to quit my part time job, but enough to make me feel as though I am having an impact on the world.
+talk="p": 	It must be a great feeling to have loving fans who await hearing more of your beautiful voice, including me.
+talk="n": 	It sure is!
+talk="p": 	You write any new songs recently?
+talk="n": 	I've just recently composed a new CD full of songs. You want to give one a listen? I'll perform part of one live for you.
+talk="p": 	Sure!
+talk="p": 	Kings and Queens.
+talk="n": 	The kings and queens are running wild, lonely for each other. Princes gallant, are no more staying under cover. Jesters' jokes aren't even funny, poking fun at sorrow. Lords and ladies hoard their riches fearful for tomorrow.
+talk="p": 	Mr. Pine.
+talk="n": 	Oh, Mr. Pine doesn't wait till after nine. There's not a friend he's had to buy. Keeps his head above the sky. Ain't got much, and he don't ask why.
+talk="p": 	Mother Russia.
+talk="n": 	Pays the price, works the seasons through. Frozen days, he thinks of you. Cold as ice, but he burns for you. Mother Russia, can't you hear him too?
+talk="p": 	Your music always is so deep in meaning. I love it!
+talk="p": 	I just adore your music.
+talk="n": 	Emere, you've said that at least 30 times already. I get it.
+talk="p": 	Words can't describe how perfect your music is. It conveys every thought and idea ever conceived on this planet.
+talk="n": 	I just try my best to create unique music with unusual tempos to spice up the music world.
+talk="p": 	Well, you're doing a fabulous job.
+talk="p": 	Hey, can you help me out?
+talk="n": 	Sure, anything for my good friend.
+talk="p": 	Can I record you singing a song I have? It's a beautiful song that I want to hear sung in your voice.
+talk="n": 	Sure...These lyrics seem like something I would write. Huh. Anyway, I've got recording equipment here and a CD you can use.
+talk="p": 	Excellent! Thanks.
+talk="n": 	Here goes nothing.
+talk="n": 	Tried to take it all away. Learn her freedom just inside a day. And find her soul. To find their fears allayed.
+talk="n": 	Sleeping dreams will reach for her. She cannot say the words they need. She knows she's alone. And she is free.
+talk="n": 	Then she met a hollow soul. Filled him with her light. And was consoled she was the moon. And he, the sun was gold.
+talk="p": 	That sounded amazing! Thank you!
+talk="n": 	It was nothing.
+con_Kanna.xml
+==============================
+talk="p": 	Hello, Kanna.
+talk="n": 	Good Morning, Sis! You sleep well?
+talk="p": 	Yes, I slept wonderfully.
+talk="n": 	You sure did! It's 10:00! I thought you would never get up!
+talk="p": 	I need my beauty sleep, Kanna.
+talk="p": 	No, I had this weird dream last night.
+talk="n": 	About what, our creepy neighbor?
+talk="p": 	I said a weird dream, not a nightmare. It probably has some cryptic meaning into my future.
+talk="n": 	Maybe you shouldn't eat pizza before going to bed.
+talk="n": 	Hey, Sis! You're just in time for lunch. Today it's curry! My favorite!
+talk="p": 	We eat curry too often because of you.
+talk="n": 	Aww come on, Sis. It's only the third time this week!
+talk="n": 	Sis! How's it going?
+talk="p": 	I'm good. You're always so lively in the mornings.
+talk="n": 	Must be because of all the sugar I eat!
+talk="p": 	You have anything you want, Kanna?
+talk="n": 	What do you mean, Sis?
+talk="p": 	Do you want to travel to anywhere?
+talk="n": 	Sis, what kind of question is that? You know I want to go to Japan!
+talk="p": 	Any new food you want to try?
+talk="n": 	Hmm...
+talk="n": 	Well, there is a candy I saw last month that looks so cool! An old lady was giving some to her grandson when I passed by. I wanted to try some, but I haven't been able to find it anywhere else for months.
+talk="p": 	(What an obscure request...) You got it! I'll find it for you.
+talk="n": 	I'll be surprised if you find it, Sis.
+talk="p": 	I mean anything at all that you desire.
+talk="n": 	Then I'd like a TV, a pony, a spaceship, a--
+talk="p": 	Okay, okay! Never mind.
+talk="p": 	Hey, Kanna...
+talk="p": 	Do you remember what today is?
+talk="n": 	I do... I don't want to though.
+talk="p": 	Sorry I brought it up.
+talk="p": 	What was it you said you wanted again?
+talk="n": 	You've forgotten already? Wow, Sis. Wow. I wanted some candy that an old lady had. I don't know the details of where she is or if she even has anymore.
+talk="p": 	I'll beat the odds and find it.
+talk="p": 	Mrs. Nakamura gave me some of the candy you wanted. It's called konpeito. Try some.
+talk="n": 	Whoa! Just as cool as I remembered it! I'll try some...
+talk="n": 	...
+talk="p": 	Well? Go on, say something.
+talk="n": 	 IT'S SOOOOOOOOO GOOOOOOOOOOOOOD!!!!!! I've never tasted a sweet this good! Thanks, Sis!
+talk="p": 	(So loud!) No problem, Kanna. Make sure you thank Mrs. Nakamura.
+talk="n": 	Don't you worry. I'll be over there every day of the week now to eat this stuff! We'll become best buds!
+talk="p": 	That's great to hear. She needs some cheering up. Be nice to her.
+talk="n": 	You betcha, Sis!
+talk="p": 	Guess who I met this morning?
+talk="n": 	Mrs. Nakamura?! Did you get more konpeito? You gotta share some, Sis!
+talk="p": 	You've got to calm down. You've had that candy nonstop on your mind ever since I gave you some.
+talk="p": 	I visited Dad.
+talk="n": 	Oh, okay...
+talk="p": 	Still recovering from that candy?
+talk="n": 	I'll never fully recover! It was just that great! Now I want to go to Japan even more!
+talk="p": 	And do what?
+talk="n": 	Eat all kinds of food and learn about their culture! I love everything Japanese! I want to be Japanese when I grow up!
+talk="p": 	...I don't think that's how it works.
+con_Kenji.xml
+==============================
+talk="n": 	Welcome, Emere! What can I get you?
+talk="p": 	What do you sell on this side?
+talk="n": 	I've got everything you need on a day to day basis. I have food, water, clothes, and books, all available at the lowest price. I also sell fun things like board games and trading cards, as well as miscellaneous items. Take a look around, I guarantee if it's something general, Kenji has it.
+talk="Arlo": 	He doesn't have any of the latest technology, though.
+talk="n": 	Of course I don't. That's your specialty. Stop trying to steal my customers.
+talk="p": 	Why not just have one store?
+talk="n": 	The plan was to have one store, but somebody (cough-cough Arlo cough) thought it would be better to split it into two.
+talk="Arlo": 	Hey, I don't think that's the reason. I thought we agreed that we're both very competitive and have slightly different interests. So working together to run it as one store would be a train wreck.
+talk="p": 	I think you guys made the right choice.
+talk="p": 	Anything on sale?
+talk="n": 	Everything is always a discounted price. However, we've got a 50% off sale on all fruits. It's becoming winter soon and we need to sell all of it.
+talk="Arlo": 	I've got some laptops on sale on my side.
+talk="n": 	No one asked you, Arlo.
+talk="Arlo": 	Hey, I'm just trying to make a living here.
+talk="p": 	Do you have any trading cards for sale?
+talk="n": 	#5.00 for a pack of 3. You looking to buy some?
+talk="p": 	Yeah. Here's the money.
+talk="n": 	Your patronage is appreciated.
+talk="n": 	...I never knew you were the type to collect trading cards. Especially Gokuman ones.
+talk="p": 	Oh. It's not for me. I guess you could call it a gift.
+talk="p": 	I'd like a bottle of spring water, please.
+talk="n": 	You got it. That will be #0.5.
+talk="n": 	Thank you for your purchase!
+con_Luna.xml
+==============================
+talk="n": 	Hello, dear.
+talk="p": 	Hey. I'm just stopping by.
+talk="n": 	Would you care for a cup of tea?
+talk="p": 	I am kind of thirsty. What kind do you have?
+talk="n": 	Peach, peppermint, elf dust, star powder, and some other flavors.
+talk="p": 	Elf dust? Star powder?
+talk="n": 	Oh, yes. Those are... exotic flavors like... apple and raspberry with different names.
+talk="p": 	Okay, I'll have star powder then.
+talk="n": 	We're out.
+talk="p": 	I'm all set then.
+talk="n": 	Okay. Make yourself at home.
+talk="p": 	Thank you.
+talk="n": 	Those are nice earrings. They remind me of herculean crystals.
+talk="p": 	I don't think I've heard of those before.
+talk="n": 	Oh, um. They are... crystals found in caves. They're really pretty.
+talk="p": 	Huh.
+talk="p": 	Hello.
+talk="n": 	Hi, dear. Make yourself at home.
+talk="p": 	Thank you.
+talk="n": 	That is a nice dress. Is it spun out of celestial spider silk?
+talk="p": 	What?
+talk="n": 	Oh, um. You know... it's a fancy way of saying... cotton, yes. It's an old expression, sorry.
+talk="p": 	...forgive me for asking, but do you practice magic?
+talk="n": 	Shhhhh! We don't mention that here! Especially where others can hear. Come closer.
+talk="n": 	How did you find out?
+talk="p": 	You were acting strange. But, I was looking for a witch anyways. Can you help me?
+talk="n": 	If you promise not to tell anyone who I am, I'll do what I can. Being a witch is heresy, especially in this town. I need to keep this top secret.
+talk="p": 	You have my word. I need a potion that can transform a dog back into a human.
+talk="n": 	Oooh. That's a tricky one. And it requires a lot of ingredients which I don't have. I'd be happy to brew it for you if you get the ingredients I don't have.
+talk="p": 	Sounds like a deal.
+talk="n": 	Okay. Here's a list of items needed for the potion. Good luck finding them.
+talk="n": 	Oh, I almost forgot. One of the items on the list is to get someone with a good voice to sing the "Song of Transformation" and record it to CD. I'll also give you the lyrics sheet for that.
+talk="n": 	You don't have all the ingredients yet. Consult the recipe I gave you.
+talk="p": 	I have all the ingredients.
+talk="n": 	Perfect. I'll get cracking on the potion. Wait here.
+talk="TIME": 	30 minutes later...
+talk="CD Player": 	...she's alone. And she is free...
+talk="TIME": 	15 minutes later...
+talk="n": 	All done! Here you go! Remember to promise not to tell anybody.
+talk="p": 	Are the effects permanent and instantaneous?
+talk="n": 	Yes and yes. Don't worry. I wouldn't have tricked you.
+talk="n": 	You use the potion yet?
+talk="p": 	What else can you do?
+talk="n": 	I can summon creatures, create potions, and control the power of the flame.
+talk="p": 	Whoa, can I see a demonstration?
+talk="n": 	No. That might attract attention. I'm still under cover, remember?
+talk="p": 	Right...
+talk="p": 	Where did you learn magical arts from?
+talk="n": 	I wasn't taught by anyone. You see, magic can only be learned by outcasts. People with little interaction with others. When I first discovered my power, I thought I was hallucinating. Later I found out it was real when someone else saw it by accident. As I tried more things, I learned more. I never told anyone, because the punishment for being found using magic is death. People don't like us magic users having an advantage in life.
+talk="p": 	That's unfair. You guys should be treated like queens for having that power.
+talk="n": 	Sadly, that's not the way the world is run.
+con_Mahli.xml
+==============================
+talk="n": 	I've seen paupers as kings, puppets on strings, dance for the children who stare. You must have seen them everywhere.
+talk="n": 	Heretic Priestess dwells on the weakness she sees. Fortune Teller, future seller, mystical powers emerge from the towers. Tortured spirits cry, fear is in their eyes, ghostly images die.
+talk="n": 	Have a cup of tea, have another one, have a cup of tea! If you want to know about love you can ask the wee geezer. He can teach you telepathy, he can read your mind backwards.
+talk="p": 	(Someone's had a bit too much to drink.)
+talk="n": 	Uuuuuuuuuuuuuuuuuuuhhhhhhhhhh! I need another drink...
+talk="p": 	I think you've had quite enough already.
+talk="n": 	No! I need more! Get me more!
+talk="p": 	What do you drink?
+talk="n": 	Bob Billson's hard whiskey. None of that light stuff they sell at bars! I'm talking the kind you can only get in under the table deals at the casino! Whoops, shouldn't have said that...
+talk="p": 	Can you help me with something?
+talk="n": 	I can't do anything if I'm not drunk!
+talk="p": 	I found some--
+talk="n": 	Give it here! Glug, glug, glug. Hah!
+talk="n": 	Oooooh!
+talk="n": 	...Now you're here and now you're gone. Now you're back where you belong. Meet the wizard of the keys and he'll reveal the mysteries. Of Angels' Eggs and Octave Doctors, Radio Gnome and Love Projectors. Then he'll point up in the sky, you will see the Teapots flying down the Oily Way...
+talk="p": 	This was not a good idea. Can you hear me?
+talk="n": 	Oh, if I understood. Passing by so easily I'd reach you if I could.
+talk="p": 	I'll take that as a yes. Since I did you a favor, can you help me with a robbery?
+talk="n": 	Who would believe me now that my hands are free, that my hands are free? Now my hands are free from the ties, from the ties. Now I look forward to the future, where it lies. Here, now my head is clear, why should I look back?
+talk="p": 	Cool, thanks for your cooperation.
+talk="n": 	A great shining eye suspended in space shot rays through my face. Suddenly I saw everything there is to see and I was that eye! Sudden thoughts of ecstasy were horrible, I saw it all, I felt it all, I lived it all, I was afraid!
+talk="n": 	MacArthur's Park is melting in the dark. All the sweet, green icing flowing down. Someone left the cake out in the rain. I don't think that I can take it because it took so long to bake it. And I'll never have that recipe again!
+talk="n": 	Albert is smart, he's a genius! Someday he will reassess the world, and he'll still have time for lots of girls. All of the while he'll be scribbling things, genius things! Look at Albert isn't he a sight, growing, growing at the speed of light.
+talk="n": 	Long came Wild Billy with his fancy friend. Said, "anybody wanta go on up to Greasy Lake?" It's about a mile down on the dark side of Route 88. I got a bottle of Rose, so let's try it. Threw light on and Billy and Davy dancin' in the moonlight. Said, "try some of this, it'll show you where you're at or at least it'll help you feel it."
+con_Mao.xml
+==============================
+talk="p": 	Hello.
+talk="n": 	Hi. Do you just like greeting strangers, or is there something you need?
+talk="p": 	I'm taking a quick survey. What's your favorite color?
+talk="n": 	Mine's magenta, the color of a refreshing glass of Pixie, the ultimate citrus drink.
+talk="p": 	Thank you for your time.
+talk="p": 	How is your day going?
+talk="n": 	How kind of you to ask! It's been alright, but I haven't had my Mr. Thyme yet today. I'm missing that flavor sensation of 23 flavors. You have one, by chance?
+talk="p": 	No, I don't. (It's like she's advertising the product.)
+talk="p": 	What's the latest news around here?
+talk="n": 	They're finally selling Loco-soda around here! I'm glad they brought such a classic soda back into the market. Thanks, Lambda Drinks Corporation!
+talk="p": 	(I meant like actual news, but okay.)
+talk="p": 	Are you Mao?
+talk="n": 	I do own the name, yes.
+talk="p": 	I've been talking with Jacques, and I'm here to convince you to take over the company.
+talk="n": 	You know, I'd LOVE to take it over, but I feel like I won't be the best person for the position. I've seen the other candidates, and I realize I'm out of my league.
+talk="p": 	That's not true. In fact, you're pretty much the only one Jacques was considering for taking the position.
+talk="n": 	Nah, that can't be. Who'd want a poor girl to fill a rich man's job? Besides, despite me knowing a lot about the company, I have no experience.
+talk="p": 	But Pierre's looking for someone with determination, loyalty, and enthusiasm, exactly the qualities you possess. Didn't he tell you this when you went in for an interview?
+talk="n": 	I never interviewed. Jacques was trying to get me to come but I wouldn't. He isn't the best at persuading. But you, you've done and convinced me to apply for my dream position. Thanks! I'm going to apply now!
+talk="p": 	I'll come with you. I've got to speak with Pierre too.
+talk="n": 	Let's see what he says. I really, really, really hope I'll make it.
+talk="p": 	How's working at your favorite company?
+talk="n": 	It's fantastic! I am currently learning about the economics and fundamentals of business at a local college. I get more and more excited for my future job every day.
+talk="p": 	I've never seen anybody as enthusiastic for a management job as you.
+talk="p": 	You learn the secret recipe yet?
+talk="n": 	I've learned steps 1 to 5 of a 42 step process. It's so complicated, I'm having trouble imagining how Pierre came up with it.
+talk="p": 	Well, he is a genius.
+talk="p": 	I see you are working hard.
+talk="n": 	Yep! All while enjoying a refreshing Zesti, the best cola manufactured on all the planet.
+talk="p": 	You should be head of the advertising department as well. You're good.
+con_Masaru.xml
+==============================
+talk="n": 	Emere, what brings you here?
+talk="p": 	I wanted to see how your work is going. You're always so busy.
+talk="n": 	I've written 3 papers on the effects of Jolfutium on our water supply. I'm hoping to convince the mayor to redo our irrigation system that has been causing illness for years.
+talk="p": 	Always a noble cause, I see.
+talk="p": 	I need your help, Masaru.
+talk="n": 	What is it? I'm in the middle of writing a paper about the photoelectric effect.
+talk="p": 	Well, you see...
+talk="p": 	...
+talk="n": 	That Jasper! He's always so selfish, hurting the life of someone else just so he can feel slightly safer! I would be glad to assist Tanvir.
+talk="p": 	I knew I could count on you!
+talk="n": 	I'll need a few materials, first. Since the townspeople won't even let him within the walls of Nulato, I'll need a picture of Tanvir to show them to remind them of what he looks like. It needs to be large enough for the whole town to see when I speak in front of them. My wife Wen is open to paint a picture of him for you. You're a great artist and would do a great job painting him yourself, but let's be honest, your works take a long time to create, especially something of this scale. Wen is quick, so ask her. The second thing I'll need is a copy of the Cerzan to research and look for the passage Jasper used. Give me these, and we'll get Tanvir back in town.
+talk="p": 	Alright!
+talk="n": 	I still need both the large picture of Tanvir and a copy of the Cerzan.
+talk="p": 	I have all you need to convince the public of Tanvir's innocence.
+talk="n": 	Superb! Meet me at the church in Nulato and we'll have ourselves a good old debate.
+talk="n": 	Emere! You're here. Now we can finally start.
+talk="n": 	Excuse me, everyone! We're about to start.
+talk="Audience member": 	Get on with your stunt, you heretic!
+talk="Audience member": 	Yeah! Yeah! Don't preach your demonic principles to us!
+talk="Jasper": 	It seems as though I've won before we even began. Give up, Masaru. You have no chance in changing these people's minds.
+talk="p": 	Let this man speak! He's trying to save an innocent life!
+talk="Audience member": 	Innocent? That thing's a monster! Keep it away from my family!
+talk="n": 	Emere, please reveal the painting.
+talk="Audience": 	(Silence)
+talk="p": 	(Wen did an amazing job! It makes Tanvir look so peaceful.)
+talk="n": 	You stupid people. You stopped your arguing after seeing Tanvir expressed as a beautiful person in the painting. Surely, your view on him has been skewed by a certain priest.
+talk="Jasper": 	That's not true! He's the incarnation of the Demon as described in the Cerzan. You wouldn't dare say that our holy book is incorrect, would you Masaru?
+talk="Audience member": 	Yeah! You must be one of the Demon's worshipers!
+talk="n": 	Not at all. In fact, the Cerzan actually correct. I believe the passage Jasper read to you all is this: "...Goh encountered a split in the forest path. A being draped in furs came up to him and spoke, 'The path to the right leads to fortune and glory. The left path leads to doom and suffering. Which path will you choose?' Goh said not a word to him when he traveled down the left path. 'Fool!' the creature yelled. Suddenly, the creature drew close behind Goh and drew a pentagram faster than the eye could see. Goh screamed and his flesh boiled. Goh transformed into the creature. The creature transformed into Goh. The creature in Goh's body, trusted by the townsfolk, was able to cause havoc in the town for years and years without any notice. Goh was hunted and killed in the creature's body..."
+talk="Jasper": 	Yes, that is the passage I read and it perfectly describes Tanvir. He is the "being draped in furs."
+talk="n": 	Objection! How can you assume that a "being draped in furs" is a wolf man? The way it is worded, it sounds as if the being wears the fur instead of having fur. What being is famous for draping the fur of its kills on itself, the goblins, of course, not the wolf man!
+talk="Audience member": 	That's a good point.
+talk="Audience member": 	It is a little vague.
+talk="Jasper": 	D-don't be ridiculous. You still have no proof against it being a wolf man! My point remains.
+talk="n": 	Hold it! Even if it's not a goblin, how do you explain it using magic? Wolf men have never been blessed with the power of magic from the Goddess, nor given the power by the Demon in all of the Cerzan. But it reads that the creature, "drew a pentagram faster than the eye could see"
+talk="Audience member": 	More and more, I'm believing this Masaru guy.
+talk="Audience member": 	What if we made the wrong choice and refused shelter to one of the Goddess' creatures?
+talk="Jasper": 	People! People! I can't believe that you'd believe a nonbeliever over a respected priest such as myself! He's spewing lies!
+talk="n": 	I think you're the one spewing lies, Jasper. Tanvir did nothing to the town of Nulato during the years he was secretly housed here. In fact, I believe your town was doing quite well during the time.
+talk="Jasper": 	But--
+talk="Audience member": 	Let the poor man back!
+talk="Audience member": 	He's innocent. We were wrong!
+talk="Jasper": 	Fine! We'll let him back. Don't blame me if our town is cursed with misfortune over the next few years.
+talk="Audience member": 	Hooray!
+talk="Audience member": 	Woot!
+talk="p": 	You did it, Masaru!
+talk="n": 	It wouldn't have happened if you didn't take the initiative to help Tanvir, Emere. I didn't do it. WE did it.
+talk="p": 	You did it, Masaru!
+talk="n": 	It wouldn't have happened if you didn't take the initiative to help Tanvir, Emere. I didn't do it. WE did it.
+talk="p": 	What's the latest paper you're writing?
+talk="n": 	It's on the effects of different types of music on children.
+talk="p": 	What do the studies show?
+talk="n": 	Simple, repetitive music has a negative effect, complex music with varying tempos leads to increased academic ability in the future.
+talk="n": 	It's on how learning another language helps people learn their own language's grammar better.
+talk="p": 	Oh, that's neat.
+con_Murtle.xml
+==============================
+talk="n": 	(Hey, traveler. Do you mind scratching my shell? I've got an itch I just can't scratch.)
+talk="p": 	Cute! I will definitely help you out.
+talk="n": 	(Your kindness is appreciated.)
+talk="p": 	Hey, buddy.
+talk="n": 	(Hi. Want to see a trick? I can do a barrel roll.
+talk="p": 	Oh, that's adorable!
+talk="n": 	(Hey. Could you do me a big favor and feed me some of that cabbage the farmer threw out? I'm hungry.)
+talk="p": 	I'd do anything for someone as cute as you!
+talk="p": 	Aw! You look so cute nibbling on that cabbage!
+con_Mystics.xml
+==============================
+talk="p": 	Hi?
+talk="Raziel": 	Look out, we're being invaded! Hang on to your hat, we're being raided!
+talk="Taika": 	And Captain Capricorn, that's who's behind it. If nothing's there to find, you know he'll find it.
+talk="Taika": 	Counting again and again from one to nine. Approaching and pushing away infinity. Oh sweet absurdity!
+talk="Raziel": 	But if you prefer that old silly number zero.
+talk="Taika": 	You'll become a master of doing nothing, being nothing.
+talk="Taika": 	Okay, you're Miss Illusion. Smiling in all this confusion. Because you're young today, tomorrow you start to play.
+talk="Raziel": 	What do you believe? Why do you believe it? Don't ya ever wonder... If it's really true...
+talk="Taika": 	Look up in the air, the Octave Doctor's there! And when he strokes his gong. Your middle eye comes on!
+talk="Raziel": 	I see you sittin' there on your old back veranda. You shady lady and waltzing Matilda. You're really only me if you'd only remember.
+talk="p": 	Bye!
+talk="p": 	(Prepare thine self, Emere.) I need a favor from you guys. Do you make magical essence?
+talk="Taika": 	Sitting up there in your ivory city. Look so ugly and you feel so pretty. You hear me. But I don't see you. You feel me. One day I'll be you.
+talk="p": 	Hey! That sounds like you are insulting me.
+talk="Raziel": 	I'd just like to say, waves that you ride. Just to bolster your pride.
+talk="Taika": 	But if it's love that you're after. The craft of a hero. Banana, nirvana, mañana.
+talk="Raziel": 	Then when you're receiving. Perceiving your telepathic powers.
+talk="Raziel": 	(Bring us a magical pinecone, then we'll talk.)
+talk="p": 	Ah! You guys can understand me? And use telepathy? Whoa. The power of magic is incredible.
+talk="Taika": 	You're born on this Planet now to help to show the way. To stop the spread of darkness and to sing the Golden Age.
+talk="p": 	I assume that means you trust me? Okay.
+talk="Taika": 	Well mirror, mirror on the wall. Who's the biggest fool of all?
+talk="Raziel": 	Hallucinating freedom calls. What's freedom babe? You don't know!
+talk="p": 	Alright! I'm trying to find your stupid pinecone.
+talk="Taika": 	What a surprise! She looked in the cupboard. And found the eyes in the suitcase!
+talk="p": 	You're welcome. Here. Take it. Can I have the essence now, please?
+talk="Raziel": 	Maybe you're here for the giggle.
+talk="Taika": 	Maybe you're into the puzzle.
+talk="Raziel": 	Maybe you're blowing the bubble.
+talk="Taika": 	Maybe you're all in a muddle.
+talk="p": 	(Why are they dancing? Is it part of making the essence? Boy, this is weird.)
+talk="Taika": 	You are my Magick Brother. You are the one in love.
+talk="Raziel": 	You are my Mystic Sister. You are the one in love.
+talk="Taika": 	Master Builder, tell me how you make a temple? Tools and moon stones, You don't really need them, you know... Master Builder, tell me what the temple's made of? Deep inside you, you can build an invisible temple in your own imagination.
+talk="Raziel": 	Whose are these words I sing and what does my guitar sing? This is not me, I am not this. I'm only passing.
+talk="Taika": 	Open up the veil and let us take a peep in, through the moon and diving deep we'll meet the whale where rides the captain's submarine. Who told the tale of pixies green that sends us kisses in the brain and out-far planets never seen except by technicolor dream.
+talk="p": 	(Ooooooh. Colors. Images. Sounds. Flying teapots. Angels' Eggs. I see it all.)
+talk="Taika": 	What's that in the sky now? Teapots that can fly now. Voices in your head. Tell me what they said.
+talk="p": 	You're aquaman and in your hand is a watering can I now can believe it to be. The fun gods winking and we're all blinking and thinking we're sinking in the sea.
+talk="Raziel": 	Everything you think shows. Hanging round your head. Underneath your long hair. Tell me what you feel there.
+talk="p": 	It's too easy. Just to change your face. It's too easy. Just to change your place. You feel so cool.
+talk="Taika": 	The light gets stronger and all our eyes look yonder to see what's going on. But that's all right you'll soon be out.
+talk="Raziel": 	And everything we made, a flicker of light and shade. A body to wander by. A whistle of sound and sigh.
+talk="Taika": 	I could swear that I saw it up in the sky. It was green as an emerald in the blue. Now I'm wondering if it was really you.
+talk="Taika": 	Our brothers' hand. I'm happy to say that we have already won.
+talk="p": 	(...Where am I? Oh, right!) Uhhhh. What did you guys do to me!?
+talk="Raziel": 	Earth mother, soul sister be high here now.
+talk="Taika": 	Bad weather hell for leather. Now and zen you goof again.
+talk="p": 	I'm tired of your nonsense! I'm out!
+talk="Raziel": 	Wake up my friend. We must act now. We've waited too long.
+talk="Taika": 	For peace and Love, we've waited too long.
+talk="Taika": 	So there goes Zero the Hero. Turning on around the wheel of births and deaths. And meanwhile the Octave Doctors--
+talk="Raziel": 	Oh no, give a dog a bone. Don't come thinkin' through the door.
+talk="Raziel": 	Well help me help me sing this song. I want to stay living for much too long.
+talk="Taika": 	Well man you must be dead.
+con_Nakamura.xml
+==============================
+talk="p": 	Good afternoon.
+talk="n": 	Leave me be. I don't want to talk to anyone right now...
+talk="p": 	(You're very antisocial.) Well, goodbye then.
+talk="n": 	Please leave, I wish to be alone.
+talk="p": 	(Fine, I didn't want to be here anyways.) Goodbye.
+talk="p": 	Good afternoon.
+talk="n": 	What do you want, child? I wish to be alone.
+talk="p": 	I heard you make some great candy.
+talk="n": 	You heard wrong, I make no such thing.
+talk="n": 	You bother me. Leave.
+talk="p": 	Is anything troubling you?
+talk="n": 	No!
+talk="p": 	Are you suuuuure?
+talk="n": 	...It doesn't concern you. A youngster like you wouldn't be interested in an old lady's troubles.
+talk="p": 	Talk it out with me. I want to help you.
+talk="n": 	...If you insist.
+talk="n": 	My husband died suddenly last week...
+talk="n": 	It was a sudden and tragic death. He was on his way to get a locket fixed for me when a thug murdered him. I couldn't believe it when I heard it. It...made me very sad. The locket was a gift he gave me on our honeymoon. It was a great piece, made of silver and gold. It used to give me great joy when I looked at it, but now the thought of it only brings great pain. The thug only murdered my husband when he wouldn't give up the locket.
+talk="n": 	I feel like it's my fault he died. If only I hadn't asked him to fix that locket...
+talk="n": 	People such as yourself have been nosy in trying to get me to feel better. But you don't understand that there is hardly anything that will calm my aching heart.
+talk="n": 	...Any who, thank you for listening to my story.
+talk="p": 	I am so sorry.
+talk="p": 	You are right.
+talk="n": 	Kids these days... Be gone! Out! Get!
+talk="p": 	Which way to the inn?
+talk="n": 	It's right next door. Are you mocking me? Out with you!
+talk="p": 	You say there is nothing that will make you feel better?
+talk="n": 	Hardly anything, child. The only possession I had worth keeping was that locket. I will never forgive that dirty thief. Scum of the earth, he is.
+talk="p": 	(What could the thief have done with it?)
+talk="p": 	I found your locket, Nakamura.
+talk="n": 	Give it here, child.
+talk="n": 	No doubt about it, this is the locket... *Sniffle* You don't know what relief this brings me. Truly, you are a saint. I thank you from the bottom of my heart. It must have been hard work. I've got to repay you for your kindness. Is there anything you would like?
+talk="p": 	 You don't have to give me anything. I like helping people.
+talk="n": 	I can't have that. I must give you something in return. I know! Kids these days sure love their candy. How about I give you some? I used to be a confectioner back in my day.
+talk="p": 	That would be lovely. Thank you!
+talk="p": 	I heard that you make candy. Could I have some?
+talk="n": 	You heard correctly. I was a confectioner back in my day. I think I have some left over.
+talk="p": 	Sweet! Thanks, Nakamura!
+talk="p": 	It's all thanks to mayor Rais. Do you recall his name?
+talk="n": 	Rais? Why, of course, child! He was a great friend back in the day. I can't believe I lost touch with him. Where is he?
+talk="p": 	He's mayor of Mourilyan. He would love to see you again.
+talk="n": 	I'll definately visit him. We have a lot of catching up to do.
+talk="n": 	Enjoy the candy, child.
+talk="p": 	Thanks!
+talk="p": 	Hey, Nacks!
+talk="n": 	Bless you.
+talk="p": 	I didn't sneeze! It's my new nickname for you, "Nacks."
+talk="n": 	Child, please don't ever call me that again.
+talk="p": 	You're no fun. See you later, Nacks!
+talk="n": 	Children these days. Have some respect for your elders!
+con_Oluwakanyinsola.xml
+==============================
+talk="n": 	Who you?
+talk="p": 	Me just visit.
+talk="n": 	Not here to cut tree? If, I will harm!
+talk="p": 	No, no. Really I just visit.
+talk="n": 	Eye on you.
+talk="p": 	Hello. What are you doing out here in the forest?
+talk="n": 	Live at nature. You here do harm, nature?
+talk="p": 	No? (What's he saying?)
+talk="n": 	Town destroy nature beauty. Chemicals destroy life. Create death. People stupid. You harm, nature?
+talk="p": 	No. I recycle.
+talk="n": 	Good.
+talk="p": 	Transformation magic, eh?
+talk="n": 	Yes. Nature gift me using magic. Know all kinds. Heal, illusion, grow, like that.
+talk="p": 	So you use your magic to help nature back.
+talk="n": 	Exact. Why She gave powers. Undo destruction of humanity.
+talk="p": 	Ever consider moving back to town?
+talk="n": 	Never! Lots of artificial, not nature. Never! Never! I happy here.
+talk="p": 	Just wondering.
+talk="p": 	Why did you transform Yetis into a dog?
+talk="n": 	That! That! Did horrible! You know! I punish too!
+talk="n": 	Fam Sanctaidd, caniatewch trawsnewid hwn--
+talk="p": 	STOP! I am not his friend. I think what he did was terrible.
+talk="n": 	Good. Take side of nature.
+talk="p": 	(That was close!)
+con_ORBS.xml
+==============================
+talk="Emere": 	(What was that?! It looked like one of those things I saw in my weird dream!)
+talk="Emere": 	(No one else is freaking out. Am I the only one who can see it? I must be going crazy.)
+talk="Emere": 	(Another one! What is wrong with me? It's not like they're bad, but they make me feel strange when I get them.)
+talk="Emere": 	(It's like a part of me wants to get more of them. I feel like they open up doors in my mind.)
+talk="Emere": 	(Ah! I just had a vision of something strange! People I've never seen before, with angry faces. A darkness covered the world.)
+talk="Emere": 	(I feel like I should remember what is going on. I must have had these experiences before.)
+talk="Emere": 	(Oh no! It's horrible! Feelings return from a lost time. Such hatred and darkness is overwhelming. Was I there? When? How?)
+talk="Emere": 	(What's going on?! I only have one more orb to get. Maybe that will give me an answer.)
+talk="Emere": 	(No! What? That doesn't even make sense. Wait... No! It can't be! No!)
+talk="Emere": 	(Keeper of the orbs, I will find you! How dare you do this to me?)
+talk="Ebisu": 	I'll be waiting, Emere. You are a mirror dislikes the night, that is why you complain. Return home.
+talk="Emere": 	(I want answers! No more cryptic messages!)
+con_Pierre.xml
+==============================
+talk="n": 	Hello, Emere. What business do you have here today at Lambda Drinks Corporation's headquarters?
+talk="p": 	I was just dropping by to see how things were going.
+talk="n": 	It has been busy here. I'm scrambling to find a replacement for myself that is up to par with me so that the whole corporation doesn't collapse when I leave.
+talk="p": 	How's the search been?
+talk="n": 	Not good. It's hard to find someone who knows as much about the company as I do.
+talk="p": 	That's tough. Best of luck to you, good sir.
+talk="p": 	Hey, Pierre.
+talk="n": 	Why, hello, Emere. What brings you here?
+talk="p": 	Just stopping by to see if there is anything I can do to help your search for a new CEO of your business.
+talk="n": 	Well, as you know, the search has been slow. Originally, I had envisioned my son as head of Lambda Drinks Corporation, but his interests lie elsewhere. He was a perfect fit, too. Knows all sorts about the corporation.
+talk="p": 	Aren't there plenty of business men that would be perfect for the job? They'll just have to learn the ropes of the organization.
+talk="n": 	That's not the only problem. You see, here at Lambda Drinks Corporation, we take pride in having kept secret the recipe of our base drink that we use in all other drinks. The process of making the base drink is incredibly complex and only I know how it's made. I want to impart that information to someone who knows this corporation so much that they fall in love with it as I have and would never sell the secret for any amount of money or influence. I have yet to find that person.
+talk="p": 	That's complicated. I'll keep my eyes out for anyone who looks like that.
+talk="n": 	I doubt you'll find them on the streets, but I appreciate the offer.
+talk="n": 	Make it quick, Emere. I've got a meeting soon.
+talk="p": 	You got it. What qualities are you looking for, again?
+talk="n": 	An enthusiastic, well-educated individual who knows the company inside out and can prove their loyalty to the company.
+talk="p": 	And your son refuses the role?
+talk="n": 	Talk to him yourself and you will see. I've got to run.
+talk="n": 	Ah, Emere. We've been waiting for you. I'm about to give my final verdict.
+talk="Jacques": 	Please accept her, father. She'll work hard, I just know it.
+talk="n": 	Why, of course I have to give her the position.
+talk="Mao": 	YESSSSSSS! WOOOOOOOO! ALRIGHT!
+talk="Mao": 	...Sorry. I'm just so psyched to be working here. It's like a dream come true.
+talk="p": 	Good for you, Mao.
+talk="n": 	She is a perfect candidate. Has all I want and more. I see a commitment to this company in her eyes that I have never seen in anyone else's. I can fully entrust her with the complicated process for manufacturing the base drink.
+talk="Mao": 	I am honored, sir.
+talk="n": 	However, Mao, I believe you've got a lot of training to do. You've got no experience, but after a year of training, with your hard work you can definitely become a great CEO.
+talk="Jacques": 	Thanks, Mao! I can now pursue my dream of becoming a poet thanks to you!
+talk="n": 	Now, I've got some work to tend to, so I'll dismiss you all.
+talk="n": 	Emere, please see me after the others leave. I have something to discuss with you.
+talk="p": 	Okay.
+talk="n": 	Ah, Emere. I'd like to repay you for finding a stellar replacement for myself as CEO of Lambda Drinks Corporation.
+talk="p": 	If you're offering, I'll take anything.
+talk="n": 	Hmmm...Well I'll give you something expensive so that if you don't like it, you can sell it and make a few bucks. Sound good?
+talk="p": 	Sure!
+talk="n": 	Alright. I don't know if you have enough wattage for it, but here's a waiver for a free MSI GeForce GTX 970, the latest and greatest graphics card. Enjoy!
+talk="p": 	How about a, err, MRI GaiTorque 394 or something.
+talk="n": 	Hah! Hah! Hah! I think you are talking about the MSI GeForce GTX 970, the latest and greatest graphics card, actually developed by my company. I'd be happy to give you one. Here's a waiver for a free one from the hardware store.
+talk="p": 	Thanks!
+talk="n": 	What are you waiting for? Redeem that waiver.
+talk="n": 	Enjoy that hardware! I'm sorry I couldn't give you something that you would have liked more.
+talk="p": 	It's fine. I'm using it for a good purpose, don't you worry.
+talk="p": 	So the company's future is secured.
+talk="n": 	Yes, thanks to you, I don't have to worry about retiring later. Mao is looking to be a better fit for the head of the company than even me.
+talk="p": 	She's energetic, I'll give you that.
+talk="n": 	And that's really the best quality for the head of a company, never ending energy. Someone who will stick with the company through good and bad.
+con_Rais.xml
+==============================
+talk="p": 	Hey, mayor. What's going on?
+talk="n": 	Emere! Good to see you. And please, call me Rais.
+talk="p": 	Sure thing, mayor.
+talk="n": 	Bah!
+talk="n": 	Greetings, Emere. You decided yet about becoming my secretary?
+talk="p": 	What could I possibly do as a secretary? All you do is do paperwork.
+talk="n": 	That's not all I do. I also...go on vacation.
+talk="p": 	Wow, interesting. As I've said before, I am already busy with school and I already have a job.
+talk="n": 	This could be your job. It's very easy work, as you have said, it's mostly paperwork with a few speeches mixed in.
+talk="p": 	Government jobs don't pay well, I'll stick to being an art teacher.
+talk="n": 	Do as you wish.
+talk="n": 	Not much. Just being old over here.
+talk="p": 	That's very sad. Go outside and get some fresh air.
+talk="n": 	I would, but I'm too busy preparing for the next election. Speeches don't write themselves.
+talk="p": 	You don't need to worry about that. You're sure to get elected, the people love you.
+talk="n": 	One can not only hope, but must also act.
+talk="p": 	K.
+talk="p": 	Mayor, are you rich?
+talk="n": 	What kind of question is that? Very rude question. Since it's you, I'll tell you that I do have quite a bit of cash from my old entrepreneuring days. Did you know I started the gambling place in Fujita? Very profitable it was.
+talk="p": 	Wow. You've got quite the past.
+talk="n": 	Just don't mention that to the voters on election day. Now, why do you ask?
+talk="p": 	I need a loan. It's important.
+talk="n": 	Do you mind telling me what for?
+talk="p": 	It's a long story.
+talk="p": 	You see, this lady, Nakamura is in a dilemma--
+talk="n": 	Hold on, did you say Nakamura? Oh boy... Haven't heard that name in a while.
+talk="p": 	You know her?
+talk="n": 	You could say that... Said she's in trouble?
+talk="p": 	Yeah, her husband was murdered when he went to get a locket fixed. She's really sad now and I think giving here the locket will make her happier. I found the locket at a pawnshop, so I was wondering if you could loan me something expensive to trade. I can work as your secretary to pay you back if need be. How about it?
+talk="n": 	That's a hard offer to refuse. But I do have to refuse it--
+talk="p": 	But why? I can pay you--
+talk="n": 	You didn't let me finish. I'll give you something for free.
+talk="p": 	Oh. But, it wouldn't feel right not paying you back.
+talk="n": 	It's fine, Emere. You see, back when I was a youngster like you, I went to the same school as Nakamura. I was a shy one, but once I joined the music club, I quickly made friends. Two of those friends were Nakamura and her future husband, Wallace. We did everything together, and my friendship quickly turned into love. However, shy as I was, I could never confess. Wallace beat me to it, and the two became lovers. I felt left out, and our meetings slowly faded away. I went to college to study business and never saw her again.
+talk="n": 	How's that for a sad story? But you see, my love never faded. I never fell in love with anybody else, although I had plenty of opportunity to do so. That's why I still want to make her happy.
+talk="n": 	Take this watch of mine to give to the pawnbroker.
+talk="p": 	I am overwhelmed by your kind heart. You are the nicest old man I've met.
+talk="n": 	Nice for an old man? That's quite the compliment.
+talk="n": 	Just take the watch and make Nakamura happy.
+talk="p": 	I'll be sure to mention you. Thank you!
+talk="n": 	You got the locket yet? No? What are you waiting for?
+talk="n": 	You got the locket yet? Yes? What are you waiting for? Give it to her.
+talk="p": 	She says she'll visit you.
+talk="n": 	Great!
+talk="p": 	How's the election coming?
+talk="n": 	Oh, just fine. I've got a speech tomorrow to give to the town. Mind proofreading it for me?
+talk="p": 	I can do that.
+talk="n": 	You're a great help, Emere. Thank you.
+talk="p": 	Have you talked with Nakamura?
+talk="n": 	Why, yes! She stopped by this morning for a cup of tea. We talked for nearly three hours, catching up on the years we lost together. We're even going out to dinner this next weekend.
+talk="p": 	That's great! So...are you two dating?
+talk="n": 	Well, erm, I...well I guess you could say that.
+talk="p": 	Oooooooh! Good for you mayor!
+talk="n": 	Your support is appreciated...
+con_Risette.xml
+==============================
+talk="p": 	Good day.
+talk="n": 	Hello. You're not from Nulato, are you?
+talk="p": 	No. I live in Mourilyan. I'm looking around Nulato.
+talk="n": 	Would you like me to give you a tour?
+talk="p": 	It's a great offer, but I wouldn't want to trouble you.
+talk="n": 	Suit yourself. Have a nice visit!
+talk="p": 	Do you know Tanvir?
+talk="n": 	What, do you want to murder his pure heart? I will never tell you where he is!
+talk="p": 	You misunderstand. I've talked with Tanvir and I'd like to know his situation. He won't tell me.
+talk="n": 	My apologies, dear. It's just that everyone has been trying to murder him after the local priest labeled him as the incarnation of the Demon.
+talk="p": 	What happened? I don't follow this religion.
+talk="n": 	Well, it all started after I revealed Tanvir to the town. I had been raising him in secret after I found him weak and stranded in the woods. They were scared at first, but after they saw his kind and gentle nature, they began to accept him. Jasper, our priest, did not trust Tanvir, and thought he would lead to our town's ruin. To try and dispose of him, he read over the Cerzan, our holy book, looking for a passage that might sound like the Demon showing up in the form of a wolf man. He found one that sounded vaguely like it and proclaimed it to the town at a sermon. The people believed it, and cast Tanvir out of town.
+talk="p": 	Wow, why would Jasper do such a thing? That's not cool.
+talk="n": 	I've talked to him many times, but he won't change his mind.
+talk="p": 	It must have been hard for you.
+talk="n": 	It was like my own son was exiled. I cried a lot at first, but I realized that I could still visit him without the townspeople knowing. I visit late at night so that no one suspects me of helping the Demon.
+talk="p": 	I still can't believe people can be so cruel in the face of fear.
+talk="p": 	What can I do to help?
+talk="n": 	Well, if you've already failed talking some sense into Jasper, there isn't much.
+talk="p": 	Could I find the passage and prove him wrong before the town?
+talk="n": 	I don't think anybody would believe what anyone says to battle Jasper except perhaps a recognized person like another priest, a scholar, or a mayor.
+talk="n": 	Thank you so much for all you are doing for my Tanvir. I am filled with joy at the thought of his return.
+talk="n": 	My little Tanvir has come back to me! Thank you so much!
+talk="n": 	I'd love to have you over for tea sometime.
+talk="p": 	Yes, that would be splendid. I'd love to come over.
+talk="n": 	Is that a new dress?
+talk="p": 	Why, yes. It is.
+talk="n": 	It suits you well. It's so pretty.
+con_Ryker.xml
+==============================
+talk="n": 	Why, hello there, miss.
+talk="p": 	Hi.
+talk="n": 	Tell me. How rich do you think I am?
+talk="p": 	Average rich.
+talk="n": 	No! Don't be ridiculous! I am much richer than the average commoner.
+talk="p": 	Super rich.
+talk="n": 	Hmm. Close, but not quite an accurate description of my vast wealth.
+talk="p": 	So rich you could buy one of the moons.
+talk="n": 	Preciously! But, you know I would never do that, for the good of the people.
+talk="n": 	I am so rich! I have so much money; I don't know what to do with it all! I own every invention and luxury.
+talk="p": 	Why don't you spread the wealth, then and help some other people.
+talk="n": 	That's a marvelous idea! You'll be the first to receive my grace of money.
+talk="p": 	Cool! What do I get?
+talk="n": 	Take this, it's worth over #300.
+talk="p": 	Whoa, thanks!
+talk="n": 	Fulalalala! Being rich! Fulalalala!
+con_Samad.xml
+==============================
+talk="p": 	Traveling merchant, what goods do you sell?
+talk="n": 	Only the finest spices around. You want it, I have it. Cumin, basil, cilantro, lavender, you name it.
+talk="p": 	Hmm. This saffron looks interesting. What's the price?
+talk="n": 	#80 per upna.
+talk="p": 	Yikes! No thanks.
+talk="p": 	Which one is the best value?
+talk="n": 	Peppercorns add a lot of flavor and are a low cost at #2 per upna.
+talk="p": 	Oooh. I might be back later to buy some. I don't have the money right now.
+talk="n": 	I'll be here all week.
+talk="p": 	What's wrong? You seem a bit down.
+talk="n": 	...If you must know, I am having a fight with my girlfriend.
+talk="p": 	Sucks for you.
+talk="n": 	You really know how to make someone feel better.
+talk="p": 	Talk it out with me. I might be able to help you feel better.
+talk="n": 	Forgive me for bringing you into this.
+talk="n": 	So, we were going on a date, right. And right as we were talking, she suddenly got very upset at me and fled. I haven't talked to her in two days because I don't know what I did.
+talk="p": 	That's awful! You shouldn't leave her alone like that. She'll think you don't care about her enough to see her. Go as soon as you can and apologize. Ask what you did wrong and just be honest. I'm sure it will work out.
+talk="n": 	Oh, I didn't realize. I feel so stupid now. Thank you for the advice!
+talk="n": 	You know? I'm going to give you a bundle of spices, on the house. It's the only thanks I can give.
+talk="p": 	Are you sure? Thanks!
+talk="n": 	Come back a bit later and I'll have it for you. I need to talk to my girlfriend first.
+talk="n": 	Thanks for waiting, here's Samad's Special Spice Spread.
+talk="p": 	Yay!
+talk="p": 	How did it work out?
+talk="n": 	It couldn't have resolved better! I did everything you said and she forgave me. I'm shocked at how you knew just what to do, you love goddess.
+talk="p": 	Hah! I just know women better than you do. What did she say the problem was?
+talk="n": 	Oh, she told me not to tell anyone. Sorry.
+talk="p": 	That's alright. Well, glad it worked out.
+talk="p": 	Been in the spice business for a while?
+talk="n": 	Yes. It's a family business. My great, great, great, great grandfather started traveling the world, selling lots of spices and growing in popularity. My father started teaching me the ways of the merchant since I could walk. Now, I continue the legacy.
+talk="p": 	I can tell you like your job a lot.
+talk="n": 	Sure do.
+con_Tanvir.xml
+==============================
+talk="n": 	Human, what brings you to my dwelling?
+talk="p": 	(Whoa, he looks like he came out of a fantasy novel or something.)
+talk="n": 	Ah, I see. You're like the rest of them. Come to point and laugh at my monstrous features. Don't make me chase you out of here.
+talk="p": 	Yep, pretty much.
+talk="n": 	Grrrrr!
+talk="p": 	That's not it!
+talk="n": 	What is it then that brought you here?
+talk="p": 	I heard rumors of a wolfman living in the forest and I thought of how lonely you must be. I've come to keep you company.
+talk="n": 	You must be a kind person. But, I don't need your help. I'm not that lonely. Although, most of my visitors aren't nice most of the time.
+talk="p": 	Is that why you can't live in town?
+talk="n": 	Precisely. I don't want to tell you anymore, because I don't like to talk about this. I'll be fine. Just leave the lone wolf to himself. I'll just keep living in solitude.
+talk="p": 	I can't just stand by and do nothing while you're suffering! I'll try to convince the townspeople to let you live with them. Everybody needs other people's company.
+talk="n": 	Except I'm not a person. I'm an animal, a beast. Don't waste your time trying to help me.
+talk="p": 	Did you try moving to another town?
+talk="n": 	I thought about it, but I didn't want to be outcast again by some religious nonsense.
+talk="p": 	Good point.
+talk="p": 	You must have some friends.
+talk="n": 	Yes. But only one. Her name is Risette. I guess you could call her my mother. She found me while I was still young and took me into her home in Nulato. She is a very kind woman. It was very sad for her when I was exiled.
+talk="p": 	Why were you exiled?
+talk="n": 	I told you I don't want to talk about it.
+talk="p": 	Okay.
+talk="p": 	You won't believe this, Tanvir. I might be able to get you back into town. I've gotten Masaru, a scholar from Mourilyan to fight against Jasper for your case.
+talk="n": 	That's great! But, why are you doing this for me?
+talk="p": 	I want to see everyone happy. That includes you, Tanvir.
+talk="n": 	But I'm not human.
+talk="p": 	You're human-like, and that's all that matters. You've got your own personality, strengths and weaknesses. You'll get along fine with others, I just need to show them what I see in you.
+talk="n": 	You're just too nice. You've made me happier than I've been in a while. When is Masaru going to do his thing?
+talk="p": 	Well, we're kind of stuck. We need a large picture of you to show in front of the town because they won't let you inside and Masaru needs to remind them what you look like so that he can make his point. The artist needs bristles for a large brush to paint the picture efficiently.
+talk="n": 	I've got an idea. How about you use some of my hair for the bristles?
+talk="p": 	Won't that hurt and create a patchy spot on your fur?
+talk="n": 	It's a sacrifice I'm willing to make for my freedom. It won't take long.
+talk="n": 	1..2..3... HARRROOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!
+talk="p": 	(I think my eardrums just burst.)
+talk="n": 	Man! That kills! Here's some of the finest grade bristles.
+talk="n": 	I'm ready to be drawn. Give my fur to Wen.
+talk="n": 	That girl Wen is quite the artist. She drew me in just under two hours. It looks great, too!
+talk="n": 	Come here!
+talk="p": 	Whoa! That's a huge hug!
+talk="n": 	You have infinitely improved my life! I am on good terms with everyone in town. I can go out without fear of discrimination. Best of all, I am treated like a normal human! I thank you with all my power.
+talk="p": 	I'm glad I could help, Tanvir.
+talk="p": 	How were you born?
+talk="n": 	I have yet to find that answer. I think I just popped into existence, or something.
+talk="p": 	Do you work?
+talk="n": 	Not currently, but I am seeking employment. I'm quite strong, so it will be easy to get a job in the mines or at a lumber company.
+talk="p": 	What will happen to your old house?
+talk="n": 	Once I've finished moving out of it, I'll leave it open for anyone's use. For kids who want to play, or for someone seeking a quiet place.
+talk="p": 	That's very noble of you.
+con_Velazquez.xml
+==============================
+talk="n": 	(Hello, human. You have entered the lair of Velazquez the Great. What can I help you with?)
+talk="p": 	Um. Why are you called "the Great"?
+talk="n": 	(You ignorant girl! You have never heard of the Great Velazquez, the conqueror of both Cuba and Mexico?)
+talk="p": 	Nope. Never.
+talk="n": 	(Dios mio! I've led countless bird brethren across the oceans far and wide to conquer all the lands. World domination will soon be possible!)
+talk="p": 	Keep dreaming, bird.
+talk="n": 	(Greetings! You are speaking to Velazquez the Great. How may I help you?)
+talk="p": 	Um. Why are you hanging around here?
+talk="n": 	(I am fighting a great war against an empress. She has yet to surrender, even though all her army's fled.)
+talk="p": 	You mean the stable lady? Did you free her animals?
+talk="n": 	(Why, yes. I freed the captured slaves under her rule. If she'd only give me a piece of food as a token of peace, I will leave this place.)
+talk="p": 	(This bird...)
+talk="n": 	(Greetings, mortal. I am Velazquez the Great.)
+talk="p": 	Um. So your name is Velazquez?
+talk="n": 	(Yes, I just told you that! But that's a shortening of my name. My real name is Pablo Diego José Francisco de Paula Juan Nepomuceno de la Santísima Trinidad Martyr Patricio Clito Velazquez.
+talk="p": 	Whoa, okay.
+con_Wen.xml
+==============================
+talk="n": 	My, my. Emere. How's the job been?
+talk="p": 	It's good teaching children art. I just wish I had more time for working on personal projects like when I worked with you.
+talk="n": 	The life of an artist is tough. We've been given the job to probe and explore the creative frontier for other people's enjoyment.
+talk="n": 	I overheard you talking with Masaru. I would be glad to quickly paint a picture for you.
+talk="p": 	Sorry to make you do this.
+talk="n": 	It's fine. The only problem is I've run one of my brushes out as all the bristles on the end are gone. It's a thick brush that the store doesn't sell, and I can't paint something big enough for a whole town to see without it. Do you own a large brush I could borrow?
+talk="p": 	No, I don't. Sorry. I'll look around and see if I can find one.
+talk="n": 	I either need a new brush or I could glue some large, thick bristles on if that's easier to find.
+talk="p": 	(How would large bristles be easier to find? It's not like I can skin an animal of its hair.)
+talk="p": 	Tanvir gave me some of his hair to use as bristles.
+talk="n": 	That poor man! He must be in a lot of pain.
+talk="n": 	These hairs will do, they're nice and soft. Well, I'll pack some supplies and head out for Tanvir's house. Meet me there to pick up the drawing later today.
+talk="p": 	Okay!
+talk="n": 	Ah, Emere. Just in time. I've finished painting Tanvir. I'll let you be the judge of how good it looks.
+talk="p": 	It looks great for the amount of time you had to spend on it! I'll give this to Masaru.
+talk="n": 	Give the picture to my husband.
+talk="n": 	What's been going on?
+talk="p": 	Have you seen the new painting the mayor bought? It looks amazing.
+talk="n": 	No, but I've heard of it. It's by the famous artist, Emelia Spanner, right? Her paintings are worth top dollar.
+talk="p": 	It's a painting depicting a landscape of a castle surrounded by flowers. It's beautiful.
+talk="n": 	I'll have to see it some time.
+talk="p": 	I'd like to have you review a piece of art I've been working on.
+talk="n": 	Is it one of your paintings?
+talk="p": 	No, it's a sculpture I've made.
+talk="n": 	It's... interesting. What is it of exactly?
+talk="p": 	You don't see it? It's supposed to be a dog.
+talk="n": 	Oh. Why does it have a bean shaped head?
+talk="p": 	It's Bean Dog. I guess you're too old to get the reference.
+talk="p": 	It's my mom's birthday soon. What should I get her?
+talk="n": 	Well, parents love homemade gifts. Why don't you paint for her?
+talk="p": 	I don't have any idea.
+talk="n": 	How about a fluffy kitten?
+talk="p": 	Fluffy kitten, huh...That might work. Thanks!
+con_Woden.xml
+==============================
+talk="n": 	The boss doesn't take kindly to visitors, you hear? Scram!
+talk="n": 	The boss is considering you? Ha! I don't see what he sees in you, but if the boss says so, you must be good for something.
+talk="n": 	Do you need something, punk?
+talk="p": 	Yeah. (You're awfully rude to a fellow gang member.) I'm wondering if the boss is free.
+talk="n": 	Why don't you ask him yourself, then? Or are you too high class to talk to someone like him?
+talk="p": 	That's not it. (I hate your personality. Should I mess with you?)
+talk="p": 	I guess I can ask you instead.
+talk="p": 	I've heard rumors of some really easy money.
+talk="n": 	What kind of operation are you talking about?
+talk="p": 	Taking from an old, senile, and most importantly rich, woman who lives close by.
+talk="n": 	And the boss doesn't know about this?
+talk="p": 	Oh, he knows. And he's been making a fortune stealing from this woman for over a month now.
+talk="n": 	You must be lying. The boss cares about all of us. He'd never do that. He's honest.
+talk="p": 	Oh, yeah? Why do you think he stays locked up in his room all the time? It's to plan operations he doesn't want you to know about.
+talk="n": 	No! How dare he! I'm going in there right now to give him a piece of my mind!
+talk="p": 	Hold on, bigshot. If you do that, he'll have his other guards arrest and kill you. If you want to get revenge on him, I have a plan.
+talk="n": 	Tell me! His crimes shall not go unpunished!
+talk="p": 	How about this... we plan an operation to steal back what he stole from us. We'll split the profit between you, me, and a few others. If Zephyr questions the missing items, say another gang broke in and stole it.
+talk="n": 	That's an excellent plan! But one problem, the boss is always in his room, how are we going to get him out?
+talk="p": 	I'm still figuring that part out. But when it comes time to act, will you have my back?
+talk="n": 	Of course!
+talk="p": 	I'll be back later to discuss the details.
+talk="p": 	(Wow, he bought that unbelievably ridiculous story? What a stupid.)
+talk="p": 	It says gullible on the ceiling.
+talk="n": 	It does?
+talk="n": 	...You! That wasn't funny.
+talk="p": 	Really? I thought it was pretty funny.
+talk="p": 	Just hold out a bit longer.
+talk="n": 	Whenever you're ready, let me know, boss.
+talk="p": 	(I like that title.)
+talk="n": 	I better be getting a lot out of this, boss. Go get the stuff with Agrona.
+talk="n": 	You done? I'll take a peek in there too then.
+con_Yetis.xml
+==============================
+talk="n": 	Help me!
+talk="p": 	Whoa, did I just hear you talk?
+talk="n": 	Yes, you heard correctly. I've been trying to get the attention of someone for a whole week and you're the only one who was able to hear me! The others thought I was just a noisy dog.
+talk="p": 	That's strange. But anyways, what do you need help with?
+talk="n": 	I'm a dog!
+talk="p": 	And?
+talk="n": 	I wasn't always a dog! I need your help transforming me back into a human. You're the only one who can help me! Please!
+talk="p": 	Of course I'll help!
+talk="n": 	Really? Thank you!
+talk="p": 	But how do I transform you back?
+talk="n": 	I have no idea. I've been searching for that answer, but it's hard to do as a dog. I'll tell you how I ended up like this so you can maybe draw some clues from it.
+talk="n": 	I just started work at the new Nulato Lumbermill. The first day I went out, I decided to head deep into the forest, in order to get the further trees first. That way, as time passed, we would have to carry the logs less and less distances. The problem, as I soon found out, was there was an inhabitant in the forest. He was absolutely furious at me for cutting down one of his trees. So, he used some forest magic on me and turned me into a dog. I somehow found my way back to town to try to find some help.
+talk="p": 	Wow, sounds like you made that up. But I am talking to a dog, so I guess it is true. I'll see what I can do to help you.
+talk="p": 	Nah.
+talk="n": 	You're heartless!
+talk="p": 	Where was the forest you were in?
+talk="n": 	Between the towns of Mourilyan and Nulato. You have to travel through a cave to get there. If you're planning to go there, be careful of what you say and do around that forest man.
+talk="p": 	Alright.
+talk="p": 	Are you hungry?
+talk="n": 	Yes, actually. A little bit. Are you offering some food?
+talk="p": 	Yes, I have some of the finest dog food in the world for your consumption.
+talk="n": 	Very funny. I may have the body of a dog, but I still have my human tastes.
+talk="p": 	I didn't know magic existed.
+talk="n": 	It's really well hidden. I've only seen it twice. Only outcasts dare practice its ways. Really weird people.
+talk="p": 	Any magic users in the area?
+talk="n": 	Not that I know of. But you're sure to find one or two in every couple of towns. I can't really investigate as a dog.
+talk="p": 	I've got this potion here that will turn you back.
+talk="n": 	Really? From some wizard or something? I'll try it!
+talk="p": 	Alright, puppy. Drink your medicine.
+talk="n": 	Don't say it like that!
+talk="n": 	Oh?
+talk="n": 	Oh.
+talk="n": 	Oh!
+talk="n": 	Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu- ggggggggggggggggggggggggggghhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!
+talk="n": 	Huzah! I'm cured! Thank you so much!
+talk="p": 	Whoa, you look stunning. (Did I say that aloud?)
+talk="n": 	Thank you. I will find some way to repay your great kindness someday.
+talk="p": 	You don't have to do that. I'm fine with just seeing people happy. That's all I need.
+talk="n": 	What a kind soul you are.
+talk="p": 	What are you going to do now?
+talk="n": 	Well, I'll need a different job that doesn't have so many risks on site. I've got to support my loving mother who is disabled and can't work.
+talk="p": 	(He's so dependable!) Wow. You've got a nice head on your shoulders.
+talk="p": 	...
+talk="n": 	Wow, is that a new dress? It looks great on you.
+talk="p": 	(OMG! Keep it cool.) It is. Thank you for noticing. I like your... muscles. (Ruined it!)
+talk="n": 	Ha! Thanks. I work on them every day at the gym.
+talk="p": 	...
+talk="n": 	Hey. You seem like a lot of fun. Want to see a movie or something when you're free? My treat.
+talk="p": 	(Aaaaaaaaaaaahhhhhh!) Yeah! That would be fun. (Score!)
+talk="n": 	You want to see "Edificionegro"?
+talk="p": 	(He's into romance too? Couldn't be more perfect!) Yeah! I can't wait!
+con_Zephyr.xml
+==============================
+talk="n": 	Who are ya? Do you think you can just prance on in whenever ya want?
+talk="p": 	Sorry, I was just exploring the city.
+talk="p": 	Hello. I'd like to join your gang.
+talk="n": 	Ya? Hoah, hoah, hoah, hoah, hoah, HOAH!!!!
+talk="n": 	...Wait, are ya serious? I don't think ya have what it takes.
+talk="p": 	I think I can be a great asset to this gang. You see--
+talk="n": 	We don't need any more people ta split the profit with. And you're too wimpy. I bet ya couldn't even steal from a baby.
+talk="p": 	Would you let me finish? I provide something that no one else can: I have a perfect disguise. I look like an innocent woman, right? No one would suspect me of doing anything wrong. I could cover for the rest of the gang members if they get caught. What do you say to that?
+talk="n": 	Interesting. Ya musta thought this through beforehand. Ya argument is valid. But you'll have to prove your worth to make it into this here gang.
+talk="n": 	Your task, will be a challenging one for your conscience. I'd like ya ta steal an old man's gem from his house in the bottom left corner of town. He's just moved here, and my scouts reveal that he has some things of value. If ya can handle it, you're in.
+talk="p": 	I'll do my best, boss. (Oh, this is going to hurt my heart.)
+talk="n": 	Did ya give up already? He's in the bottom left corner of town.
+talk="n": 	Ya got the goods?
+talk="p": 	It was a piece of cake. I thought I would have to try harder to get into this gang.
+talk="n": 	Hoah! I like your attitude, girl. I think you'll make a fine addition to this gang. Ah, I almost forgot, here's your cut. Welcome ta the Seraphim Ministry!
+talk="p": 	What's next on the agenda?
+talk="n": 	Well, we are currently planning an operation ta raid the rail station when their delivery comes in.
+talk="p": 	And who do you sell it to?
+talk="n": 	We have many buyers, all from neighboring countries. They pay well, too. You won't have ta worry about money when you're with us.
+talk="p": 	You guys stolen anything from another town before?
+talk="n": 	Not often, else it will put too much suspicion our way. We recently raided a family's home in Nulato. They left their door unlocked. Welcomed us right in. Hoah!
+talk="p": 	I'd like to see how much you were able to pilfer. Can you show me where it is?
+talk="n": 	If we still had it, I'd love to show it off to ya. But we sold almost everything right away.
+talk="p": 	You guys must have no morals, right?
+talk="n": 	Ya think so? I think we do. Distribute the wealth, ya know? I lived a horrible live as a child, so why keep living that way if ya have a way to change it? That's my thinking, anyway.
