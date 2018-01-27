@@ -1,11 +1,12 @@
 mkdir .\bin
+mkdir .\out
 cd bin
-"C:\Program Files\Java\jdk1.8.0_131\bin\jar.exe" xfv ..\MRL.jar org
+jar.exe xfv ..\MRL.jar org
 cd ..
-"C:\Program Files\Java\jdk1.8.0_131\bin\javac.exe" -d ./bin -cp src;MRL.jar src/org/spooner/java/TileGame/*.java
+javac.exe -d ./bin -cp src;MRL.jar src/org/spooner/java/TileGame/*.java 
 if %errorlevel% NEQ 0 (goto done)
-"C:\Program Files\Java\jdk1.8.0_131\bin\jar.exe" cvfm ./out/Rengoku.jar ./build-files/game-manifest.MF -C bin org assets
-xcopy /i /y .\joy .\out\joy
-xcopy /i /y .\build-files\run.bat .\out\run.bat
+jar.exe cvfm ./out/Rengoku.jar ./build-files/game-manifest.MF -C bin org assets
+echo d | xcopy /i /y .\joy .\out\joy
+echo f | xcopy /i /y .\build-files\run.bat .\out\run.bat
 :done
 PAUSE
