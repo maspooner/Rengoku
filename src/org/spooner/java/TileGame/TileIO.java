@@ -57,7 +57,7 @@ public class TileIO {
 				URL jarURL = TileIO.class.getClassLoader().getResource(TileIO.class.getName().replace(".", "/") + ".class");
 				//find the location of the jar file by editting its path
 				String jarLoc = jarURL.getPath().substring(5, jarURL.getPath().indexOf('!'));
-				JarFile jar = new JarFile(jarLoc);
+				JarFile jar = new JarFile(jarLoc.replaceAll("%20", " "));
 				//find all the files in the jar file
 				Enumeration<JarEntry> entries = jar.entries();
 				while(entries.hasMoreElements()){

@@ -25,7 +25,7 @@ public abstract class TileGame{
 	//members
 	private static final String TITLE = "Rengoku ";
 	private static final String VERSION = "ver: 1.00";
-	private static boolean isTest = true;
+	private static boolean isTest = false;
 	//methods
 	public static void main(String[] args) throws IOException{
 		//make sure audio knows which read to use
@@ -43,8 +43,10 @@ public abstract class TileGame{
 		}
 		//startup the frame
 		new TileFrame(TITLE + VERSION);
-		System.out.println(Runtime.getRuntime().freeMemory());
-		System.out.println(Runtime.getRuntime().totalMemory());
+		if(isTest) {
+			System.out.println(Runtime.getRuntime().freeMemory());
+			System.out.println(Runtime.getRuntime().totalMemory());
+		}
 		//free memory
 		//used memory
 		// Run 1: 39948120
